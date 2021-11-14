@@ -35,3 +35,13 @@ Mesa/examples/example_1/mesa runserver
 ```
 
 o mediante un editor de python como Spyder o Visual Studio en el archivo run.py
+
+```python
+from mesa_geo import GeoSpace, GeoAgent, AgentCreator
+from mesa import Model
+import requests
+url = 'http://eric.clst.org/assets/wiki/uploads/Stuff/gz_2010_us_040_00_20m.json'
+r = requests.get(url)
+geojson_states = r.json()
+```
+
