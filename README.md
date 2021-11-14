@@ -1,8 +1,9 @@
-## Agrotopia
+# Agrotopia
+
  Mesa, Geo-Mesa, ABM for Agriculture
  basados en python
- 
-## Requisitos para instalacion y utilizacion
+
+# Requisitos para instalacion y utilizacion
 
 1) En mi caso utilizo [Anaconda](https://anaconda.org/) para generar los entornos virtuales y en [Hoja de comandos](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) se encuentra informacion util para su utilizacion.
 
