@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "agentes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "agente": "G", "cultivo": "Manzanas", "superficie": "10", "daa": "7", "id": 0, "area": "Area_Baja1", "buffer": 25 }, "geometry": { "type": "Point", "coordinates": [ -71.716550014093229, -36.015816883835235 ] } },
+{ "type": "Feature", "properties": { "agente": "P", "cultivo": "Frutales", "superficie": "6", "daa": "1", "id": 1, "area": "Area_Sup1", "buffer": 5 }, "geometry": { "type": "Point", "coordinates": [ -71.592050086428145, -36.134871113306829 ] } },
+{ "type": "Feature", "properties": { "agente": "G", "cultivo": "Trigo", "superficie": "1", "daa": "2", "id": 2, "area": "Area_Med2", "buffer": 25 }, "geometry": { "type": "Point", "coordinates": [ -71.752228726395444, -36.134871113306829 ] } },
+{ "type": "Feature", "properties": { "agente": "M", "cultivo": "Arroz", "superficie": "3.5", "daa": "3", "id": 3, "area": "Area_Baja2", "buffer": 15 }, "geometry": { "type": "Point", "coordinates": [ -71.773823736473091, -36.074029519696744 ] } },
+{ "type": "Feature", "properties": { "agente": "P", "cultivo": "Subistencia", "superficie": "4.3", "daa": "4", "id": 4, "area": "Area_Sup2", "buffer": 5 }, "geometry": { "type": "Point", "coordinates": [ -71.639559108598988, -36.18651135479687 ] } },
+{ "type": "Feature", "properties": { "agente": "M", "cultivo": "Frambuesa", "superficie": "22", "daa": "5", "id": 5, "area": "Area_Med1", "buffer": 15 }, "geometry": { "type": "Point", "coordinates": [ -71.654206158912515, -36.091868875847844 ] } },
+{ "type": "Feature", "properties": { "agente": "G", "cultivo": "Arandanos", "superficie": "120", "daa": "12", "id": 6, "area": "Area_Med1", "buffer": 25 }, "geometry": { "type": "Point", "coordinates": [ -71.690135248143136, -36.095217667265686 ] } }
+]
+}
