@@ -1,2 +1,2 @@
 # Agrotopia
-ABM for Agriculture based framework mesa and mesa-geo
+ Mesa, Geo-Mesa, ABM for Agriculture
