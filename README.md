@@ -1,8 +1,9 @@
 # Agrotopia
 
-Este proyecto trata de abordar una interaccion de los agentes en el territorio
- Mesa, Geo-Mesa, ABM for Agriculture
- basados en python
+Este proyecto buscar abordar las interacciones sociales que ocurren dentro de un territorio, sobretodo si estas se realizan utilizando recursos hidricos. 
+Los objetivos son:
+Mediante los frameworks [Mesa](https://github.com/projectmesa/mesa) y [Geo-Mesa](https://github.com/Corvince/mesa-geo), ABM visualizar las interacciones y evidenciar posibles conflictos socioambientales.
+
 
 # Requisitos para instalacion y utilizacion
 
