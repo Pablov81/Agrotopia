@@ -2,7 +2,7 @@
 
 Este proyecto buscar abordar las interacciones sociales que ocurren dentro de un territorio, sobretodo si estas se realizan utilizando recursos hidricos. 
 Los objetivos son:
-Mediante los frameworks [Mesa](https://github.com/projectmesa/mesa) y [Geo-Mesa](https://github.com/Corvince/mesa-geo), ABM visualizar las interacciones y evidenciar posibles conflictos socioambientales.
+Mediante los frameworks [Mesa](https://github.com/projectmesa/mesa) y [Mesa-Geo](https://github.com/Corvince/mesa-geo), ABM visualizar las interacciones y evidenciar posibles conflictos socioambientales.
 
 
 # Requisitos para instalacion y utilizacion
