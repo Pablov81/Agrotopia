@@ -29,7 +29,7 @@ pip install mesa-geo
 Una vez instaladas las librerias, debemos acceder al entorno virtual y mediante comandos navegar hasta donde estan los ejemplos abrir los con el siguiente comando:
 
 ```shell
-"Mesa/examples/example_1/mesa runserver"
+Mesa/examples/example_1/mesa runserver
 ```
 
 o mediante un editor de python como Spyder o Visual Studio en el archivo run.py
