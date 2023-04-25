@@ -1,23 +1,23 @@
 class Agente:
     """Create a new Agent
     """
-    def __init__(self, nombre, fuerza, inteligencia, defensa, vida):
+    def __init__(self, nombre, fuerza, personalidad, defensa, vida):
         self.nombre = nombre
         self.fuerza = fuerza
-        self.inteligencia = inteligencia
+        self.personalidad = personalidad
         self.defensa = defensa
         self.vida = vida
     
     def atributos(self):
         print(self.nombre, ":", sep="")
         print("·Fuerza:", self.fuerza)
-        print("·Inteligencia:", self.inteligencia)
+        print("·personalidad:", self.personalidad)
         print("·Defensa:", self.defensa)
         print("·Vida:", self.vida)
 
-    def subir_nivel(self, fuerza, inteligencia, defensa):
+    def subir_nivel(self, fuerza, personalidad, defensa):
         self.fuerza = self.fuerza + fuerza
-        self.inteligencia = self.inteligencia + inteligencia
+        self.personalidad = self.personalidad + personalidad
         self.defensa = self.defensa + defensa
 
     def esta_vivo(self):
