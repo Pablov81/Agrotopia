@@ -4,10 +4,11 @@ from load_files import Rates
 
 #Initializate Classes
 class Mesa_Directiva(Agente):
-    """_summary_
+    """Mesa Directiva se encarga de ODD
 
-    Args:
-        Agente (_type_): _description_
+    Parameters:
+        nombre (str): Nombre de la Mesa Directiva
+        embalse_max, embalse_min(float): volumen maximo y minimo del embalse
     """
     pass
     
