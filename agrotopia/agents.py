@@ -1,10 +1,5 @@
 class Agente:
     """Create a new Agent
-        param unique_id:   Unique identifier for the agent
-        param model:       Model in which the agent runs
-        param shape:       Shape object for the agent
-        param agent_type:  Indicator if agent is infected ("infected", "susceptible", "neutral" or "dead")
-        param mobility_range:  Range of distance to move in one step
     """
     def __init__(self, nombre, fuerza, inteligencia, defensa, vida):
         self.nombre = nombre
