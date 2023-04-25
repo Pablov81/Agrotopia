@@ -1,5 +1,5 @@
 class Agente:
-    """Create a new person agent.
+    """Create a new Agent
         param unique_id:   Unique identifier for the agent
         param model:       Model in which the agent runs
         param shape:       Shape object for the agent
