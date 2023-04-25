@@ -1,26 +1,23 @@
 class Agente:
     """Create a new Agent
+    the attributes
     """
-    def __init__(self, nombre, fuerza, personalidad, defensa, vida):
+    def __init__(self, nombre:str, resistencia:float, personalidad:str, vitalidad:int):
         self.nombre = nombre
-        self.fuerza = fuerza
+        self.resistencia = resistencia
         self.personalidad = personalidad
-        self.defensa = defensa
-        self.vida = vida
+        self.vitalidad = vitalidad
     
     def atributos(self):
         print(self.nombre, ":", sep="")
-        print("·Fuerza:", self.fuerza)
+        print("·resistencia:", self.resistencia)
         print("·personalidad:", self.personalidad)
-        print("·Defensa:", self.defensa)
-        print("·Vida:", self.vida)
-
-    def subir_nivel(self, fuerza, personalidad, defensa):
-        self.fuerza = self.fuerza + fuerza
-        self.personalidad = self.personalidad + personalidad
-        self.defensa = self.defensa + defensa
+        print("·vitalidad:", self.vitalidad)
 
     def esta_vivo(self):
-        return self.vida > 0
+        return self.vitalidad > 0
+    
 class Gaia:
+    """Disaster or Environment Agent
+    """
     pass
