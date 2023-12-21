@@ -25,3 +25,10 @@ hola= pd.csv_read('Path\file', sep='')
 ## Use
 
 ### Results
+
+
+ graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
