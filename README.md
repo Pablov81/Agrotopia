@@ -50,14 +50,6 @@ classDiagram
 
     class Water_Board {
         +string board_name
-        +float water_actions
-        +float max_reservoir
-        +float reservoir_min
-        +float table_rates
-        +choose_week()
-        +and_open_reservoir()
-        +organise_rates_per_week()
-        +show_amount_of_reservoir()
     }
 
     class Infrastructure {
@@ -69,12 +61,6 @@ classDiagram
     class Canal_Manager {
         +string canal_name
         +float channel_actions
-        +string farmer_data
-        +float stock_rates
-        +float efficiency
-        +get_ordered()
-        +apportionment_rates()
-        +calculate_split_Ag()
     }
 
     class Farmer_Agent {
