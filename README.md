@@ -40,21 +40,7 @@ hola= pd.csv_read('Path\file', sep='')
 ```
 ## Use
 
-### Results
 
-```mermaid
----
-title: Flow Diagram
----
-stateDiagram-v2
-    [*] --> Water_Board
-    Water_Board --> [*]
-
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-```
 ### Flow Diagram
 
 ```mermaid
@@ -136,7 +122,7 @@ classDiagram
         +annual_crop_yield_changes
         +consumer_price_index
     }
-
+    [*] --> Water_Board
     MongoDB <--> Water_Board: water board rates
     MongoDB <--> Farmer_Agent: farmer data
     MongoDB <--> Info_Mix: Crop demand rates
@@ -151,3 +137,4 @@ classDiagram
     Decision --> Farmer_Agent: Calculate_perception, Farmer_decision
 
 ```
+### Results
