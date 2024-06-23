@@ -42,32 +42,12 @@ hola= pd.csv_read('Path\file', sep='')
 
 ### Results
 
-
-```mermaid
-  graph TD;
-      Aas-->assad;
-      A-->C;
-      B-->D;
-      C-->D;
-```
-```mermaid
-    gitGraph
-       commit
-       commit
-       branch develop
-       commit
-       commit
-       commit
-       checkout main
-       commit
-       commit
-```
 ```mermaid
 ---
-title: Simple sample
+title: Flow Diagram
 ---
 stateDiagram-v2
-    [*] --> Still
+    [*] --> Water Board
     Still --> [*]
 
     Still --> Moving
