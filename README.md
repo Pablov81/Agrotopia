@@ -56,6 +56,7 @@ stateDiagram-v2
     Crash --> [*]
 ```
 
+```mermaid
 classDiagram
     class MongoDB {
     }
@@ -148,4 +149,4 @@ classDiagram
     Economic_Changes --> Info_Mix: annual_dollar_value, market value
     Decision --> Farmer_Agent: Calculate_perception, Farmer_decision
 
-
+```
