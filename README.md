@@ -122,7 +122,7 @@ classDiagram
         +annual_crop_yield_changes
         +consumer_price_index
     }
-    [*] --> Water_Board
+
     MongoDB <--> Water_Board: water board rates
     MongoDB <--> Farmer_Agent: farmer data
     MongoDB <--> Info_Mix: Crop demand rates
