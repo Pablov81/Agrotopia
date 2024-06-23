@@ -1,6 +1,6 @@
-# Agrotopia - (PhD thesis)
+# Agrotopia - (PhD Thesis)
 ## About this Repository
-Este repositorio de Tesis doctoral fue realizada en el marco de la investigacion doctoral de Pablo Velasquez Cisterna, durante los años 2019-2024. La cual fue supervisada por el dr. Mario Lillo Saavedra
+Este repositorio fue realizada en el marco de la investigacion doctoral de Pablo Velásquez Cisterna, durante los años 2019-2024. La cual fue supervisada por el dr. Mario Lillo Saavedra
 
 En Universwidad de concepcion, programa de 
 ## Abstract
