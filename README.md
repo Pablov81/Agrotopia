@@ -47,8 +47,8 @@ hola= pd.csv_read('Path\file', sep='')
 title: Flow Diagram
 ---
 stateDiagram-v2
-    [*] --> Water Board
-    Still --> [*]
+    [*] --> Water_Board
+    Water_Board --> [*]
 
     Still --> Moving
     Moving --> Still
