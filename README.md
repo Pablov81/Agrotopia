@@ -78,19 +78,7 @@ classDiagram
     }
 
     class Farmer_Agent {
-        +string canal_name
-        +list farmer_data
-        +list farmer_rates
-        +dict get_crop
-        +show_data()
-        +merge_data()
-        +Ag_sort_rates()
-        +receive_crop()
-        +organize_info_crop()
-        +input_Ag()
-        +prepare_rx_Ag()
-        +calculate_rx_Ag()
-        +jump_counter_Ag()
+        +Valor()
     }
 
     class Decision {
@@ -100,27 +88,16 @@ classDiagram
 
     class Crop {
         +list crop_data
-        +list delivery_rates_ag
-        +sort_Ag()
-        +sort_crop()
-        +calculate_crop()
-        +rx_crop()
     }
 
     class Info_Mix {
         +Personality_list()
-        +Priority_crop()
-        +Efficiency()
-        +Yield_crop()
-        +Cost_Production()
-        +Market_Value()
         ...
     }
 
     class Economic_Changes {
         +annual_dollar_value
-        +annual_crop_yield_changes
-        +consumer_price_index
+        ... 
     }
 
     MongoDB <--> Water_Board: water board rates
