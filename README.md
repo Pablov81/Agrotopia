@@ -55,6 +55,7 @@ stateDiagram-v2
     Moving --> Crash
     Crash --> [*]
 ```
+### Flow Diagram
 
 ```mermaid
 classDiagram
