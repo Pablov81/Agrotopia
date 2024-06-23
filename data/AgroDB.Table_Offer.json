@@ -1,0 +1,9585 @@
+[{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e59c"
+  },
+  "Año": 1,
+  "Semana": 1,
+  "Tasa_Mesa": 2.93,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e59d"
+  },
+  "Año": 1,
+  "Semana": 1,
+  "Tasa_Mesa": 2.93,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e59e"
+  },
+  "Año": 1,
+  "Semana": 1,
+  "Tasa_Mesa": 2.93,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e59f"
+  },
+  "Año": 1,
+  "Semana": 1,
+  "Tasa_Mesa": 2.93,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a0"
+  },
+  "Año": 1,
+  "Semana": 1,
+  "Tasa_Mesa": 2.93,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a1"
+  },
+  "Año": 1,
+  "Semana": 1,
+  "Tasa_Mesa": 2.93,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a2"
+  },
+  "Año": 1,
+  "Semana": 1,
+  "Tasa_Mesa": 2.93,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a3"
+  },
+  "Año": 1,
+  "Semana": 2,
+  "Tasa_Mesa": 1.83,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a4"
+  },
+  "Año": 1,
+  "Semana": 2,
+  "Tasa_Mesa": 1.83,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a5"
+  },
+  "Año": 1,
+  "Semana": 2,
+  "Tasa_Mesa": 1.83,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a6"
+  },
+  "Año": 1,
+  "Semana": 2,
+  "Tasa_Mesa": 1.83,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a7"
+  },
+  "Año": 1,
+  "Semana": 2,
+  "Tasa_Mesa": 1.83,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a8"
+  },
+  "Año": 1,
+  "Semana": 2,
+  "Tasa_Mesa": 1.83,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a9"
+  },
+  "Año": 1,
+  "Semana": 2,
+  "Tasa_Mesa": 1.83,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5aa"
+  },
+  "Año": 1,
+  "Semana": 3,
+  "Tasa_Mesa": 2.18,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ab"
+  },
+  "Año": 1,
+  "Semana": 3,
+  "Tasa_Mesa": 2.18,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ac"
+  },
+  "Año": 1,
+  "Semana": 3,
+  "Tasa_Mesa": 2.18,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ad"
+  },
+  "Año": 1,
+  "Semana": 3,
+  "Tasa_Mesa": 2.18,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ae"
+  },
+  "Año": 1,
+  "Semana": 3,
+  "Tasa_Mesa": 2.18,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5af"
+  },
+  "Año": 1,
+  "Semana": 3,
+  "Tasa_Mesa": 2.18,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b0"
+  },
+  "Año": 1,
+  "Semana": 3,
+  "Tasa_Mesa": 2.18,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b1"
+  },
+  "Año": 1,
+  "Semana": 4,
+  "Tasa_Mesa": 2.12,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b2"
+  },
+  "Año": 1,
+  "Semana": 4,
+  "Tasa_Mesa": 2.12,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b3"
+  },
+  "Año": 1,
+  "Semana": 4,
+  "Tasa_Mesa": 2.12,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b4"
+  },
+  "Año": 1,
+  "Semana": 4,
+  "Tasa_Mesa": 2.12,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b5"
+  },
+  "Año": 1,
+  "Semana": 4,
+  "Tasa_Mesa": 2.12,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b6"
+  },
+  "Año": 1,
+  "Semana": 4,
+  "Tasa_Mesa": 2.12,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b7"
+  },
+  "Año": 1,
+  "Semana": 4,
+  "Tasa_Mesa": 2.12,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b8"
+  },
+  "Año": 1,
+  "Semana": 5,
+  "Tasa_Mesa": 5.14,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b9"
+  },
+  "Año": 1,
+  "Semana": 5,
+  "Tasa_Mesa": 5.14,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ba"
+  },
+  "Año": 1,
+  "Semana": 5,
+  "Tasa_Mesa": 5.14,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5bb"
+  },
+  "Año": 1,
+  "Semana": 5,
+  "Tasa_Mesa": 5.14,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5bc"
+  },
+  "Año": 1,
+  "Semana": 5,
+  "Tasa_Mesa": 5.14,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5bd"
+  },
+  "Año": 1,
+  "Semana": 5,
+  "Tasa_Mesa": 5.14,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5be"
+  },
+  "Año": 1,
+  "Semana": 5,
+  "Tasa_Mesa": 5.14,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5bf"
+  },
+  "Año": 1,
+  "Semana": 6,
+  "Tasa_Mesa": 4.06,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c0"
+  },
+  "Año": 1,
+  "Semana": 6,
+  "Tasa_Mesa": 4.06,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c1"
+  },
+  "Año": 1,
+  "Semana": 6,
+  "Tasa_Mesa": 4.06,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c2"
+  },
+  "Año": 1,
+  "Semana": 6,
+  "Tasa_Mesa": 4.06,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c3"
+  },
+  "Año": 1,
+  "Semana": 6,
+  "Tasa_Mesa": 4.06,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c4"
+  },
+  "Año": 1,
+  "Semana": 6,
+  "Tasa_Mesa": 4.06,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c5"
+  },
+  "Año": 1,
+  "Semana": 6,
+  "Tasa_Mesa": 4.06,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c6"
+  },
+  "Año": 1,
+  "Semana": 7,
+  "Tasa_Mesa": 2.8,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c7"
+  },
+  "Año": 1,
+  "Semana": 7,
+  "Tasa_Mesa": 2.8,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c8"
+  },
+  "Año": 1,
+  "Semana": 7,
+  "Tasa_Mesa": 2.8,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c9"
+  },
+  "Año": 1,
+  "Semana": 7,
+  "Tasa_Mesa": 2.8,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ca"
+  },
+  "Año": 1,
+  "Semana": 7,
+  "Tasa_Mesa": 2.8,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5cb"
+  },
+  "Año": 1,
+  "Semana": 7,
+  "Tasa_Mesa": 2.8,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5cc"
+  },
+  "Año": 1,
+  "Semana": 7,
+  "Tasa_Mesa": 2.8,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5cd"
+  },
+  "Año": 1,
+  "Semana": 8,
+  "Tasa_Mesa": 2.29,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ce"
+  },
+  "Año": 1,
+  "Semana": 8,
+  "Tasa_Mesa": 2.29,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5cf"
+  },
+  "Año": 1,
+  "Semana": 8,
+  "Tasa_Mesa": 2.29,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d0"
+  },
+  "Año": 1,
+  "Semana": 8,
+  "Tasa_Mesa": 2.29,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d1"
+  },
+  "Año": 1,
+  "Semana": 8,
+  "Tasa_Mesa": 2.29,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d2"
+  },
+  "Año": 1,
+  "Semana": 8,
+  "Tasa_Mesa": 2.29,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d3"
+  },
+  "Año": 1,
+  "Semana": 8,
+  "Tasa_Mesa": 2.29,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d4"
+  },
+  "Año": 1,
+  "Semana": 9,
+  "Tasa_Mesa": 2.52,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d5"
+  },
+  "Año": 1,
+  "Semana": 9,
+  "Tasa_Mesa": 2.52,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d6"
+  },
+  "Año": 1,
+  "Semana": 9,
+  "Tasa_Mesa": 2.52,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d7"
+  },
+  "Año": 1,
+  "Semana": 9,
+  "Tasa_Mesa": 2.52,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d8"
+  },
+  "Año": 1,
+  "Semana": 9,
+  "Tasa_Mesa": 2.52,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d9"
+  },
+  "Año": 1,
+  "Semana": 9,
+  "Tasa_Mesa": 2.52,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5da"
+  },
+  "Año": 1,
+  "Semana": 9,
+  "Tasa_Mesa": 2.52,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5db"
+  },
+  "Año": 1,
+  "Semana": 10,
+  "Tasa_Mesa": 3.22,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5dc"
+  },
+  "Año": 1,
+  "Semana": 10,
+  "Tasa_Mesa": 3.22,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5dd"
+  },
+  "Año": 1,
+  "Semana": 10,
+  "Tasa_Mesa": 3.22,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5de"
+  },
+  "Año": 1,
+  "Semana": 10,
+  "Tasa_Mesa": 3.22,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5df"
+  },
+  "Año": 1,
+  "Semana": 10,
+  "Tasa_Mesa": 3.22,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e0"
+  },
+  "Año": 1,
+  "Semana": 10,
+  "Tasa_Mesa": 3.22,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e1"
+  },
+  "Año": 1,
+  "Semana": 10,
+  "Tasa_Mesa": 3.22,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e2"
+  },
+  "Año": 1,
+  "Semana": 11,
+  "Tasa_Mesa": 2.67,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e3"
+  },
+  "Año": 1,
+  "Semana": 11,
+  "Tasa_Mesa": 2.67,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e4"
+  },
+  "Año": 1,
+  "Semana": 11,
+  "Tasa_Mesa": 2.67,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e5"
+  },
+  "Año": 1,
+  "Semana": 11,
+  "Tasa_Mesa": 2.67,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e6"
+  },
+  "Año": 1,
+  "Semana": 11,
+  "Tasa_Mesa": 2.67,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e7"
+  },
+  "Año": 1,
+  "Semana": 11,
+  "Tasa_Mesa": 2.67,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e8"
+  },
+  "Año": 1,
+  "Semana": 11,
+  "Tasa_Mesa": 2.67,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e9"
+  },
+  "Año": 1,
+  "Semana": 12,
+  "Tasa_Mesa": 1.99,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ea"
+  },
+  "Año": 1,
+  "Semana": 12,
+  "Tasa_Mesa": 1.99,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5eb"
+  },
+  "Año": 1,
+  "Semana": 12,
+  "Tasa_Mesa": 1.99,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ec"
+  },
+  "Año": 1,
+  "Semana": 12,
+  "Tasa_Mesa": 1.99,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ed"
+  },
+  "Año": 1,
+  "Semana": 12,
+  "Tasa_Mesa": 1.99,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ee"
+  },
+  "Año": 1,
+  "Semana": 12,
+  "Tasa_Mesa": 1.99,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ef"
+  },
+  "Año": 1,
+  "Semana": 12,
+  "Tasa_Mesa": 1.99,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f0"
+  },
+  "Año": 1,
+  "Semana": 13,
+  "Tasa_Mesa": 1.92,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f1"
+  },
+  "Año": 1,
+  "Semana": 13,
+  "Tasa_Mesa": 1.92,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f2"
+  },
+  "Año": 1,
+  "Semana": 13,
+  "Tasa_Mesa": 1.92,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f3"
+  },
+  "Año": 1,
+  "Semana": 13,
+  "Tasa_Mesa": 1.92,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f4"
+  },
+  "Año": 1,
+  "Semana": 13,
+  "Tasa_Mesa": 1.92,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f5"
+  },
+  "Año": 1,
+  "Semana": 13,
+  "Tasa_Mesa": 1.92,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f6"
+  },
+  "Año": 1,
+  "Semana": 13,
+  "Tasa_Mesa": 1.92,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f7"
+  },
+  "Año": 1,
+  "Semana": 14,
+  "Tasa_Mesa": 1.55,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f8"
+  },
+  "Año": 1,
+  "Semana": 14,
+  "Tasa_Mesa": 1.55,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f9"
+  },
+  "Año": 1,
+  "Semana": 14,
+  "Tasa_Mesa": 1.55,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5fa"
+  },
+  "Año": 1,
+  "Semana": 14,
+  "Tasa_Mesa": 1.55,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5fb"
+  },
+  "Año": 1,
+  "Semana": 14,
+  "Tasa_Mesa": 1.55,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5fc"
+  },
+  "Año": 1,
+  "Semana": 14,
+  "Tasa_Mesa": 1.55,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5fd"
+  },
+  "Año": 1,
+  "Semana": 14,
+  "Tasa_Mesa": 1.55,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5fe"
+  },
+  "Año": 1,
+  "Semana": 15,
+  "Tasa_Mesa": 1.46,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ff"
+  },
+  "Año": 1,
+  "Semana": 15,
+  "Tasa_Mesa": 1.46,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e600"
+  },
+  "Año": 1,
+  "Semana": 15,
+  "Tasa_Mesa": 1.46,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e601"
+  },
+  "Año": 1,
+  "Semana": 15,
+  "Tasa_Mesa": 1.46,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e602"
+  },
+  "Año": 1,
+  "Semana": 15,
+  "Tasa_Mesa": 1.46,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e603"
+  },
+  "Año": 1,
+  "Semana": 15,
+  "Tasa_Mesa": 1.46,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e604"
+  },
+  "Año": 1,
+  "Semana": 15,
+  "Tasa_Mesa": 1.46,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e605"
+  },
+  "Año": 1,
+  "Semana": 16,
+  "Tasa_Mesa": 1.78,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e606"
+  },
+  "Año": 1,
+  "Semana": 16,
+  "Tasa_Mesa": 1.78,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e607"
+  },
+  "Año": 1,
+  "Semana": 16,
+  "Tasa_Mesa": 1.78,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e608"
+  },
+  "Año": 1,
+  "Semana": 16,
+  "Tasa_Mesa": 1.78,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e609"
+  },
+  "Año": 1,
+  "Semana": 16,
+  "Tasa_Mesa": 1.78,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e60a"
+  },
+  "Año": 1,
+  "Semana": 16,
+  "Tasa_Mesa": 1.78,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e60b"
+  },
+  "Año": 1,
+  "Semana": 16,
+  "Tasa_Mesa": 1.78,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e60c"
+  },
+  "Año": 1,
+  "Semana": 17,
+  "Tasa_Mesa": 1.69,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e60d"
+  },
+  "Año": 1,
+  "Semana": 17,
+  "Tasa_Mesa": 1.69,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e60e"
+  },
+  "Año": 1,
+  "Semana": 17,
+  "Tasa_Mesa": 1.69,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e60f"
+  },
+  "Año": 1,
+  "Semana": 17,
+  "Tasa_Mesa": 1.69,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e610"
+  },
+  "Año": 1,
+  "Semana": 17,
+  "Tasa_Mesa": 1.69,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e611"
+  },
+  "Año": 1,
+  "Semana": 17,
+  "Tasa_Mesa": 1.69,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e612"
+  },
+  "Año": 1,
+  "Semana": 17,
+  "Tasa_Mesa": 1.69,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e613"
+  },
+  "Año": 1,
+  "Semana": 18,
+  "Tasa_Mesa": 1.66,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e614"
+  },
+  "Año": 1,
+  "Semana": 18,
+  "Tasa_Mesa": 1.66,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e615"
+  },
+  "Año": 1,
+  "Semana": 18,
+  "Tasa_Mesa": 1.66,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e616"
+  },
+  "Año": 1,
+  "Semana": 18,
+  "Tasa_Mesa": 1.66,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e617"
+  },
+  "Año": 1,
+  "Semana": 18,
+  "Tasa_Mesa": 1.66,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e618"
+  },
+  "Año": 1,
+  "Semana": 18,
+  "Tasa_Mesa": 1.66,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e619"
+  },
+  "Año": 1,
+  "Semana": 18,
+  "Tasa_Mesa": 1.66,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e61a"
+  },
+  "Año": 1,
+  "Semana": 19,
+  "Tasa_Mesa": 1.41,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e61b"
+  },
+  "Año": 1,
+  "Semana": 19,
+  "Tasa_Mesa": 1.41,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e61c"
+  },
+  "Año": 1,
+  "Semana": 19,
+  "Tasa_Mesa": 1.41,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e61d"
+  },
+  "Año": 1,
+  "Semana": 19,
+  "Tasa_Mesa": 1.41,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e61e"
+  },
+  "Año": 1,
+  "Semana": 19,
+  "Tasa_Mesa": 1.41,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e61f"
+  },
+  "Año": 1,
+  "Semana": 19,
+  "Tasa_Mesa": 1.41,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e620"
+  },
+  "Año": 1,
+  "Semana": 19,
+  "Tasa_Mesa": 1.41,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e621"
+  },
+  "Año": 1,
+  "Semana": 20,
+  "Tasa_Mesa": 1.54,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e622"
+  },
+  "Año": 1,
+  "Semana": 20,
+  "Tasa_Mesa": 1.54,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e623"
+  },
+  "Año": 1,
+  "Semana": 20,
+  "Tasa_Mesa": 1.54,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e624"
+  },
+  "Año": 1,
+  "Semana": 20,
+  "Tasa_Mesa": 1.54,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e625"
+  },
+  "Año": 1,
+  "Semana": 20,
+  "Tasa_Mesa": 1.54,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e626"
+  },
+  "Año": 1,
+  "Semana": 20,
+  "Tasa_Mesa": 1.54,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e627"
+  },
+  "Año": 1,
+  "Semana": 20,
+  "Tasa_Mesa": 1.54,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e628"
+  },
+  "Año": 1,
+  "Semana": 21,
+  "Tasa_Mesa": 1.48,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e629"
+  },
+  "Año": 1,
+  "Semana": 21,
+  "Tasa_Mesa": 1.48,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e62a"
+  },
+  "Año": 1,
+  "Semana": 21,
+  "Tasa_Mesa": 1.48,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e62b"
+  },
+  "Año": 1,
+  "Semana": 21,
+  "Tasa_Mesa": 1.48,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e62c"
+  },
+  "Año": 1,
+  "Semana": 21,
+  "Tasa_Mesa": 1.48,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e62d"
+  },
+  "Año": 1,
+  "Semana": 21,
+  "Tasa_Mesa": 1.48,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e62e"
+  },
+  "Año": 1,
+  "Semana": 21,
+  "Tasa_Mesa": 1.48,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e62f"
+  },
+  "Año": 1,
+  "Semana": 22,
+  "Tasa_Mesa": 1.53,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e630"
+  },
+  "Año": 1,
+  "Semana": 22,
+  "Tasa_Mesa": 1.53,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e631"
+  },
+  "Año": 1,
+  "Semana": 22,
+  "Tasa_Mesa": 1.53,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e632"
+  },
+  "Año": 1,
+  "Semana": 22,
+  "Tasa_Mesa": 1.53,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e633"
+  },
+  "Año": 1,
+  "Semana": 22,
+  "Tasa_Mesa": 1.53,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e634"
+  },
+  "Año": 1,
+  "Semana": 22,
+  "Tasa_Mesa": 1.53,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e635"
+  },
+  "Año": 1,
+  "Semana": 22,
+  "Tasa_Mesa": 1.53,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e636"
+  },
+  "Año": 1,
+  "Semana": 23,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e637"
+  },
+  "Año": 1,
+  "Semana": 23,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e638"
+  },
+  "Año": 1,
+  "Semana": 23,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e639"
+  },
+  "Año": 1,
+  "Semana": 23,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e63a"
+  },
+  "Año": 1,
+  "Semana": 23,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e63b"
+  },
+  "Año": 1,
+  "Semana": 23,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e63c"
+  },
+  "Año": 1,
+  "Semana": 23,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e63d"
+  },
+  "Año": 1,
+  "Semana": 24,
+  "Tasa_Mesa": 1.07,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e63e"
+  },
+  "Año": 1,
+  "Semana": 24,
+  "Tasa_Mesa": 1.07,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e63f"
+  },
+  "Año": 1,
+  "Semana": 24,
+  "Tasa_Mesa": 1.07,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e640"
+  },
+  "Año": 1,
+  "Semana": 24,
+  "Tasa_Mesa": 1.07,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e641"
+  },
+  "Año": 1,
+  "Semana": 24,
+  "Tasa_Mesa": 1.07,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e642"
+  },
+  "Año": 1,
+  "Semana": 24,
+  "Tasa_Mesa": 1.07,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e643"
+  },
+  "Año": 1,
+  "Semana": 24,
+  "Tasa_Mesa": 1.07,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e644"
+  },
+  "Año": 1,
+  "Semana": 25,
+  "Tasa_Mesa": 0.9,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e645"
+  },
+  "Año": 1,
+  "Semana": 25,
+  "Tasa_Mesa": 0.9,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e646"
+  },
+  "Año": 1,
+  "Semana": 25,
+  "Tasa_Mesa": 0.9,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e647"
+  },
+  "Año": 1,
+  "Semana": 25,
+  "Tasa_Mesa": 0.9,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e648"
+  },
+  "Año": 1,
+  "Semana": 25,
+  "Tasa_Mesa": 0.9,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e649"
+  },
+  "Año": 1,
+  "Semana": 25,
+  "Tasa_Mesa": 0.9,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e64a"
+  },
+  "Año": 1,
+  "Semana": 25,
+  "Tasa_Mesa": 0.9,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e64b"
+  },
+  "Año": 1,
+  "Semana": 26,
+  "Tasa_Mesa": 0.77,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e64c"
+  },
+  "Año": 1,
+  "Semana": 26,
+  "Tasa_Mesa": 0.77,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e64d"
+  },
+  "Año": 1,
+  "Semana": 26,
+  "Tasa_Mesa": 0.77,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e64e"
+  },
+  "Año": 1,
+  "Semana": 26,
+  "Tasa_Mesa": 0.77,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e64f"
+  },
+  "Año": 1,
+  "Semana": 26,
+  "Tasa_Mesa": 0.77,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e650"
+  },
+  "Año": 1,
+  "Semana": 26,
+  "Tasa_Mesa": 0.77,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e651"
+  },
+  "Año": 1,
+  "Semana": 26,
+  "Tasa_Mesa": 0.77,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e652"
+  },
+  "Año": 1,
+  "Semana": 27,
+  "Tasa_Mesa": 0.65,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e653"
+  },
+  "Año": 1,
+  "Semana": 27,
+  "Tasa_Mesa": 0.65,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e654"
+  },
+  "Año": 1,
+  "Semana": 27,
+  "Tasa_Mesa": 0.65,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e655"
+  },
+  "Año": 1,
+  "Semana": 27,
+  "Tasa_Mesa": 0.65,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e656"
+  },
+  "Año": 1,
+  "Semana": 27,
+  "Tasa_Mesa": 0.65,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e657"
+  },
+  "Año": 1,
+  "Semana": 27,
+  "Tasa_Mesa": 0.65,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e658"
+  },
+  "Año": 1,
+  "Semana": 27,
+  "Tasa_Mesa": 0.65,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e659"
+  },
+  "Año": 1,
+  "Semana": 28,
+  "Tasa_Mesa": 0.61,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e65a"
+  },
+  "Año": 1,
+  "Semana": 28,
+  "Tasa_Mesa": 0.61,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e65b"
+  },
+  "Año": 1,
+  "Semana": 28,
+  "Tasa_Mesa": 0.61,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e65c"
+  },
+  "Año": 1,
+  "Semana": 28,
+  "Tasa_Mesa": 0.61,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e65d"
+  },
+  "Año": 1,
+  "Semana": 28,
+  "Tasa_Mesa": 0.61,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e65e"
+  },
+  "Año": 1,
+  "Semana": 28,
+  "Tasa_Mesa": 0.61,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e65f"
+  },
+  "Año": 1,
+  "Semana": 28,
+  "Tasa_Mesa": 0.61,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e660"
+  },
+  "Año": 1,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e661"
+  },
+  "Año": 1,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e662"
+  },
+  "Año": 1,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e663"
+  },
+  "Año": 1,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e664"
+  },
+  "Año": 1,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e665"
+  },
+  "Año": 1,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e666"
+  },
+  "Año": 1,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e667"
+  },
+  "Año": 1,
+  "Semana": 30,
+  "Tasa_Mesa": 0.33,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e668"
+  },
+  "Año": 1,
+  "Semana": 30,
+  "Tasa_Mesa": 0.33,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e669"
+  },
+  "Año": 1,
+  "Semana": 30,
+  "Tasa_Mesa": 0.33,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e66a"
+  },
+  "Año": 1,
+  "Semana": 30,
+  "Tasa_Mesa": 0.33,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e66b"
+  },
+  "Año": 1,
+  "Semana": 30,
+  "Tasa_Mesa": 0.33,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e66c"
+  },
+  "Año": 1,
+  "Semana": 30,
+  "Tasa_Mesa": 0.33,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e66d"
+  },
+  "Año": 1,
+  "Semana": 30,
+  "Tasa_Mesa": 0.33,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e66e"
+  },
+  "Año": 1,
+  "Semana": 31,
+  "Tasa_Mesa": 0.31,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e66f"
+  },
+  "Año": 1,
+  "Semana": 31,
+  "Tasa_Mesa": 0.31,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e670"
+  },
+  "Año": 1,
+  "Semana": 31,
+  "Tasa_Mesa": 0.31,
+  "Temporada": "Temporada_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e671"
+  },
+  "Año": 2,
+  "Semana": 1,
+  "Tasa_Mesa": 1.31,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e672"
+  },
+  "Año": 2,
+  "Semana": 1,
+  "Tasa_Mesa": 1.31,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e673"
+  },
+  "Año": 2,
+  "Semana": 1,
+  "Tasa_Mesa": 1.31,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e674"
+  },
+  "Año": 2,
+  "Semana": 1,
+  "Tasa_Mesa": 1.31,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e675"
+  },
+  "Año": 2,
+  "Semana": 1,
+  "Tasa_Mesa": 1.31,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e676"
+  },
+  "Año": 2,
+  "Semana": 1,
+  "Tasa_Mesa": 1.31,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e677"
+  },
+  "Año": 2,
+  "Semana": 1,
+  "Tasa_Mesa": 1.31,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e678"
+  },
+  "Año": 2,
+  "Semana": 2,
+  "Tasa_Mesa": 1.04,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e679"
+  },
+  "Año": 2,
+  "Semana": 2,
+  "Tasa_Mesa": 1.04,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e67a"
+  },
+  "Año": 2,
+  "Semana": 2,
+  "Tasa_Mesa": 1.04,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e67b"
+  },
+  "Año": 2,
+  "Semana": 2,
+  "Tasa_Mesa": 1.04,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e67c"
+  },
+  "Año": 2,
+  "Semana": 2,
+  "Tasa_Mesa": 1.04,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e67d"
+  },
+  "Año": 2,
+  "Semana": 2,
+  "Tasa_Mesa": 1.04,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e67e"
+  },
+  "Año": 2,
+  "Semana": 2,
+  "Tasa_Mesa": 1.04,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e67f"
+  },
+  "Año": 2,
+  "Semana": 3,
+  "Tasa_Mesa": 2.83,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e680"
+  },
+  "Año": 2,
+  "Semana": 3,
+  "Tasa_Mesa": 2.83,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e681"
+  },
+  "Año": 2,
+  "Semana": 3,
+  "Tasa_Mesa": 2.83,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e682"
+  },
+  "Año": 2,
+  "Semana": 3,
+  "Tasa_Mesa": 2.83,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e683"
+  },
+  "Año": 2,
+  "Semana": 3,
+  "Tasa_Mesa": 2.83,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e684"
+  },
+  "Año": 2,
+  "Semana": 3,
+  "Tasa_Mesa": 2.83,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e685"
+  },
+  "Año": 2,
+  "Semana": 3,
+  "Tasa_Mesa": 2.83,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e686"
+  },
+  "Año": 2,
+  "Semana": 4,
+  "Tasa_Mesa": 4.46,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e687"
+  },
+  "Año": 2,
+  "Semana": 4,
+  "Tasa_Mesa": 4.46,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e688"
+  },
+  "Año": 2,
+  "Semana": 4,
+  "Tasa_Mesa": 4.46,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e689"
+  },
+  "Año": 2,
+  "Semana": 4,
+  "Tasa_Mesa": 4.46,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e68a"
+  },
+  "Año": 2,
+  "Semana": 4,
+  "Tasa_Mesa": 4.46,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e68b"
+  },
+  "Año": 2,
+  "Semana": 4,
+  "Tasa_Mesa": 4.46,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e68c"
+  },
+  "Año": 2,
+  "Semana": 4,
+  "Tasa_Mesa": 4.46,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e68d"
+  },
+  "Año": 2,
+  "Semana": 5,
+  "Tasa_Mesa": 4.12,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e68e"
+  },
+  "Año": 2,
+  "Semana": 5,
+  "Tasa_Mesa": 4.12,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e68f"
+  },
+  "Año": 2,
+  "Semana": 5,
+  "Tasa_Mesa": 4.12,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e690"
+  },
+  "Año": 2,
+  "Semana": 5,
+  "Tasa_Mesa": 4.12,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e691"
+  },
+  "Año": 2,
+  "Semana": 5,
+  "Tasa_Mesa": 4.12,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e692"
+  },
+  "Año": 2,
+  "Semana": 5,
+  "Tasa_Mesa": 4.12,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e693"
+  },
+  "Año": 2,
+  "Semana": 5,
+  "Tasa_Mesa": 4.12,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e694"
+  },
+  "Año": 2,
+  "Semana": 6,
+  "Tasa_Mesa": 2.54,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e695"
+  },
+  "Año": 2,
+  "Semana": 6,
+  "Tasa_Mesa": 2.54,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e696"
+  },
+  "Año": 2,
+  "Semana": 6,
+  "Tasa_Mesa": 2.54,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e697"
+  },
+  "Año": 2,
+  "Semana": 6,
+  "Tasa_Mesa": 2.54,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e698"
+  },
+  "Año": 2,
+  "Semana": 6,
+  "Tasa_Mesa": 2.54,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e699"
+  },
+  "Año": 2,
+  "Semana": 6,
+  "Tasa_Mesa": 2.54,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e69a"
+  },
+  "Año": 2,
+  "Semana": 6,
+  "Tasa_Mesa": 2.54,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e69b"
+  },
+  "Año": 2,
+  "Semana": 7,
+  "Tasa_Mesa": 1.82,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e69c"
+  },
+  "Año": 2,
+  "Semana": 7,
+  "Tasa_Mesa": 1.82,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e69d"
+  },
+  "Año": 2,
+  "Semana": 7,
+  "Tasa_Mesa": 1.82,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e69e"
+  },
+  "Año": 2,
+  "Semana": 7,
+  "Tasa_Mesa": 1.82,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e69f"
+  },
+  "Año": 2,
+  "Semana": 7,
+  "Tasa_Mesa": 1.82,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a0"
+  },
+  "Año": 2,
+  "Semana": 7,
+  "Tasa_Mesa": 1.82,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a1"
+  },
+  "Año": 2,
+  "Semana": 7,
+  "Tasa_Mesa": 1.82,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a2"
+  },
+  "Año": 2,
+  "Semana": 8,
+  "Tasa_Mesa": 1.76,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a3"
+  },
+  "Año": 2,
+  "Semana": 8,
+  "Tasa_Mesa": 1.76,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a4"
+  },
+  "Año": 2,
+  "Semana": 8,
+  "Tasa_Mesa": 1.76,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a5"
+  },
+  "Año": 2,
+  "Semana": 8,
+  "Tasa_Mesa": 1.76,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a6"
+  },
+  "Año": 2,
+  "Semana": 8,
+  "Tasa_Mesa": 1.76,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a7"
+  },
+  "Año": 2,
+  "Semana": 8,
+  "Tasa_Mesa": 1.76,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a8"
+  },
+  "Año": 2,
+  "Semana": 8,
+  "Tasa_Mesa": 1.76,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a9"
+  },
+  "Año": 2,
+  "Semana": 9,
+  "Tasa_Mesa": 3.78,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6aa"
+  },
+  "Año": 2,
+  "Semana": 9,
+  "Tasa_Mesa": 3.78,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ab"
+  },
+  "Año": 2,
+  "Semana": 9,
+  "Tasa_Mesa": 3.78,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ac"
+  },
+  "Año": 2,
+  "Semana": 9,
+  "Tasa_Mesa": 3.78,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ad"
+  },
+  "Año": 2,
+  "Semana": 9,
+  "Tasa_Mesa": 3.78,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ae"
+  },
+  "Año": 2,
+  "Semana": 9,
+  "Tasa_Mesa": 3.78,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6af"
+  },
+  "Año": 2,
+  "Semana": 9,
+  "Tasa_Mesa": 3.78,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b0"
+  },
+  "Año": 2,
+  "Semana": 10,
+  "Tasa_Mesa": 2.78,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b1"
+  },
+  "Año": 2,
+  "Semana": 10,
+  "Tasa_Mesa": 2.78,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b2"
+  },
+  "Año": 2,
+  "Semana": 10,
+  "Tasa_Mesa": 2.78,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b3"
+  },
+  "Año": 2,
+  "Semana": 10,
+  "Tasa_Mesa": 2.78,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b4"
+  },
+  "Año": 2,
+  "Semana": 10,
+  "Tasa_Mesa": 2.78,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b5"
+  },
+  "Año": 2,
+  "Semana": 10,
+  "Tasa_Mesa": 2.78,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b6"
+  },
+  "Año": 2,
+  "Semana": 10,
+  "Tasa_Mesa": 2.78,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b7"
+  },
+  "Año": 2,
+  "Semana": 11,
+  "Tasa_Mesa": 1.88,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b8"
+  },
+  "Año": 2,
+  "Semana": 11,
+  "Tasa_Mesa": 1.88,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b9"
+  },
+  "Año": 2,
+  "Semana": 11,
+  "Tasa_Mesa": 1.88,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ba"
+  },
+  "Año": 2,
+  "Semana": 11,
+  "Tasa_Mesa": 1.88,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6bb"
+  },
+  "Año": 2,
+  "Semana": 11,
+  "Tasa_Mesa": 1.88,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6bc"
+  },
+  "Año": 2,
+  "Semana": 11,
+  "Tasa_Mesa": 1.88,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6bd"
+  },
+  "Año": 2,
+  "Semana": 11,
+  "Tasa_Mesa": 1.88,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6be"
+  },
+  "Año": 2,
+  "Semana": 12,
+  "Tasa_Mesa": 1.91,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6bf"
+  },
+  "Año": 2,
+  "Semana": 12,
+  "Tasa_Mesa": 1.91,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c0"
+  },
+  "Año": 2,
+  "Semana": 12,
+  "Tasa_Mesa": 1.91,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c1"
+  },
+  "Año": 2,
+  "Semana": 12,
+  "Tasa_Mesa": 1.91,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c2"
+  },
+  "Año": 2,
+  "Semana": 12,
+  "Tasa_Mesa": 1.91,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c3"
+  },
+  "Año": 2,
+  "Semana": 12,
+  "Tasa_Mesa": 1.91,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c4"
+  },
+  "Año": 2,
+  "Semana": 12,
+  "Tasa_Mesa": 1.91,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c5"
+  },
+  "Año": 2,
+  "Semana": 13,
+  "Tasa_Mesa": 1.32,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c6"
+  },
+  "Año": 2,
+  "Semana": 13,
+  "Tasa_Mesa": 1.32,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c7"
+  },
+  "Año": 2,
+  "Semana": 13,
+  "Tasa_Mesa": 1.32,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c8"
+  },
+  "Año": 2,
+  "Semana": 13,
+  "Tasa_Mesa": 1.32,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c9"
+  },
+  "Año": 2,
+  "Semana": 13,
+  "Tasa_Mesa": 1.32,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ca"
+  },
+  "Año": 2,
+  "Semana": 13,
+  "Tasa_Mesa": 1.32,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6cb"
+  },
+  "Año": 2,
+  "Semana": 13,
+  "Tasa_Mesa": 1.32,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6cc"
+  },
+  "Año": 2,
+  "Semana": 14,
+  "Tasa_Mesa": 1.1,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6cd"
+  },
+  "Año": 2,
+  "Semana": 14,
+  "Tasa_Mesa": 1.1,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ce"
+  },
+  "Año": 2,
+  "Semana": 14,
+  "Tasa_Mesa": 1.1,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6cf"
+  },
+  "Año": 2,
+  "Semana": 14,
+  "Tasa_Mesa": 1.1,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d0"
+  },
+  "Año": 2,
+  "Semana": 14,
+  "Tasa_Mesa": 1.1,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d1"
+  },
+  "Año": 2,
+  "Semana": 14,
+  "Tasa_Mesa": 1.1,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d2"
+  },
+  "Año": 2,
+  "Semana": 14,
+  "Tasa_Mesa": 1.1,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d3"
+  },
+  "Año": 2,
+  "Semana": 15,
+  "Tasa_Mesa": 0.99,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d4"
+  },
+  "Año": 2,
+  "Semana": 15,
+  "Tasa_Mesa": 0.99,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d5"
+  },
+  "Año": 2,
+  "Semana": 15,
+  "Tasa_Mesa": 0.99,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d6"
+  },
+  "Año": 2,
+  "Semana": 15,
+  "Tasa_Mesa": 0.99,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d7"
+  },
+  "Año": 2,
+  "Semana": 15,
+  "Tasa_Mesa": 0.99,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d8"
+  },
+  "Año": 2,
+  "Semana": 15,
+  "Tasa_Mesa": 0.99,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d9"
+  },
+  "Año": 2,
+  "Semana": 15,
+  "Tasa_Mesa": 0.99,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6da"
+  },
+  "Año": 2,
+  "Semana": 16,
+  "Tasa_Mesa": 1.5,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6db"
+  },
+  "Año": 2,
+  "Semana": 16,
+  "Tasa_Mesa": 1.5,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6dc"
+  },
+  "Año": 2,
+  "Semana": 16,
+  "Tasa_Mesa": 1.5,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6dd"
+  },
+  "Año": 2,
+  "Semana": 16,
+  "Tasa_Mesa": 1.5,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6de"
+  },
+  "Año": 2,
+  "Semana": 16,
+  "Tasa_Mesa": 1.5,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6df"
+  },
+  "Año": 2,
+  "Semana": 16,
+  "Tasa_Mesa": 1.5,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e0"
+  },
+  "Año": 2,
+  "Semana": 16,
+  "Tasa_Mesa": 1.5,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e1"
+  },
+  "Año": 2,
+  "Semana": 17,
+  "Tasa_Mesa": 1.42,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e2"
+  },
+  "Año": 2,
+  "Semana": 17,
+  "Tasa_Mesa": 1.42,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e3"
+  },
+  "Año": 2,
+  "Semana": 17,
+  "Tasa_Mesa": 1.42,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e4"
+  },
+  "Año": 2,
+  "Semana": 17,
+  "Tasa_Mesa": 1.42,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e5"
+  },
+  "Año": 2,
+  "Semana": 17,
+  "Tasa_Mesa": 1.42,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e6"
+  },
+  "Año": 2,
+  "Semana": 17,
+  "Tasa_Mesa": 1.42,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e7"
+  },
+  "Año": 2,
+  "Semana": 17,
+  "Tasa_Mesa": 1.42,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e8"
+  },
+  "Año": 2,
+  "Semana": 18,
+  "Tasa_Mesa": 1.36,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e9"
+  },
+  "Año": 2,
+  "Semana": 18,
+  "Tasa_Mesa": 1.36,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ea"
+  },
+  "Año": 2,
+  "Semana": 18,
+  "Tasa_Mesa": 1.36,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6eb"
+  },
+  "Año": 2,
+  "Semana": 18,
+  "Tasa_Mesa": 1.36,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ec"
+  },
+  "Año": 2,
+  "Semana": 18,
+  "Tasa_Mesa": 1.36,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ed"
+  },
+  "Año": 2,
+  "Semana": 18,
+  "Tasa_Mesa": 1.36,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ee"
+  },
+  "Año": 2,
+  "Semana": 18,
+  "Tasa_Mesa": 1.36,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ef"
+  },
+  "Año": 2,
+  "Semana": 19,
+  "Tasa_Mesa": 1.15,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f0"
+  },
+  "Año": 2,
+  "Semana": 19,
+  "Tasa_Mesa": 1.15,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f1"
+  },
+  "Año": 2,
+  "Semana": 19,
+  "Tasa_Mesa": 1.15,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f2"
+  },
+  "Año": 2,
+  "Semana": 19,
+  "Tasa_Mesa": 1.15,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f3"
+  },
+  "Año": 2,
+  "Semana": 19,
+  "Tasa_Mesa": 1.15,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f4"
+  },
+  "Año": 2,
+  "Semana": 19,
+  "Tasa_Mesa": 1.15,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f5"
+  },
+  "Año": 2,
+  "Semana": 19,
+  "Tasa_Mesa": 1.15,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f6"
+  },
+  "Año": 2,
+  "Semana": 20,
+  "Tasa_Mesa": 1.25,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f7"
+  },
+  "Año": 2,
+  "Semana": 20,
+  "Tasa_Mesa": 1.25,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f8"
+  },
+  "Año": 2,
+  "Semana": 20,
+  "Tasa_Mesa": 1.25,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f9"
+  },
+  "Año": 2,
+  "Semana": 20,
+  "Tasa_Mesa": 1.25,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6fa"
+  },
+  "Año": 2,
+  "Semana": 20,
+  "Tasa_Mesa": 1.25,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6fb"
+  },
+  "Año": 2,
+  "Semana": 20,
+  "Tasa_Mesa": 1.25,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6fc"
+  },
+  "Año": 2,
+  "Semana": 20,
+  "Tasa_Mesa": 1.25,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6fd"
+  },
+  "Año": 2,
+  "Semana": 21,
+  "Tasa_Mesa": 1.21,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6fe"
+  },
+  "Año": 2,
+  "Semana": 21,
+  "Tasa_Mesa": 1.21,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ff"
+  },
+  "Año": 2,
+  "Semana": 21,
+  "Tasa_Mesa": 1.21,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e700"
+  },
+  "Año": 2,
+  "Semana": 21,
+  "Tasa_Mesa": 1.21,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e701"
+  },
+  "Año": 2,
+  "Semana": 21,
+  "Tasa_Mesa": 1.21,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e702"
+  },
+  "Año": 2,
+  "Semana": 21,
+  "Tasa_Mesa": 1.21,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e703"
+  },
+  "Año": 2,
+  "Semana": 21,
+  "Tasa_Mesa": 1.21,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e704"
+  },
+  "Año": 2,
+  "Semana": 22,
+  "Tasa_Mesa": 1.27,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e705"
+  },
+  "Año": 2,
+  "Semana": 22,
+  "Tasa_Mesa": 1.27,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e706"
+  },
+  "Año": 2,
+  "Semana": 22,
+  "Tasa_Mesa": 1.27,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e707"
+  },
+  "Año": 2,
+  "Semana": 22,
+  "Tasa_Mesa": 1.27,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e708"
+  },
+  "Año": 2,
+  "Semana": 22,
+  "Tasa_Mesa": 1.27,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e709"
+  },
+  "Año": 2,
+  "Semana": 22,
+  "Tasa_Mesa": 1.27,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e70a"
+  },
+  "Año": 2,
+  "Semana": 22,
+  "Tasa_Mesa": 1.27,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e70b"
+  },
+  "Año": 2,
+  "Semana": 23,
+  "Tasa_Mesa": 1.05,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e70c"
+  },
+  "Año": 2,
+  "Semana": 23,
+  "Tasa_Mesa": 1.05,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e70d"
+  },
+  "Año": 2,
+  "Semana": 23,
+  "Tasa_Mesa": 1.05,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e70e"
+  },
+  "Año": 2,
+  "Semana": 23,
+  "Tasa_Mesa": 1.05,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e70f"
+  },
+  "Año": 2,
+  "Semana": 23,
+  "Tasa_Mesa": 1.05,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e710"
+  },
+  "Año": 2,
+  "Semana": 23,
+  "Tasa_Mesa": 1.05,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e711"
+  },
+  "Año": 2,
+  "Semana": 23,
+  "Tasa_Mesa": 1.05,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e712"
+  },
+  "Año": 2,
+  "Semana": 24,
+  "Tasa_Mesa": 0.98,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e713"
+  },
+  "Año": 2,
+  "Semana": 24,
+  "Tasa_Mesa": 0.98,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e714"
+  },
+  "Año": 2,
+  "Semana": 24,
+  "Tasa_Mesa": 0.98,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e715"
+  },
+  "Año": 2,
+  "Semana": 24,
+  "Tasa_Mesa": 0.98,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e716"
+  },
+  "Año": 2,
+  "Semana": 24,
+  "Tasa_Mesa": 0.98,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e717"
+  },
+  "Año": 2,
+  "Semana": 24,
+  "Tasa_Mesa": 0.98,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e718"
+  },
+  "Año": 2,
+  "Semana": 24,
+  "Tasa_Mesa": 0.98,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e719"
+  },
+  "Año": 2,
+  "Semana": 25,
+  "Tasa_Mesa": 0.88,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e71a"
+  },
+  "Año": 2,
+  "Semana": 25,
+  "Tasa_Mesa": 0.88,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e71b"
+  },
+  "Año": 2,
+  "Semana": 25,
+  "Tasa_Mesa": 0.88,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e71c"
+  },
+  "Año": 2,
+  "Semana": 25,
+  "Tasa_Mesa": 0.88,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e71d"
+  },
+  "Año": 2,
+  "Semana": 25,
+  "Tasa_Mesa": 0.88,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e71e"
+  },
+  "Año": 2,
+  "Semana": 25,
+  "Tasa_Mesa": 0.88,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e71f"
+  },
+  "Año": 2,
+  "Semana": 25,
+  "Tasa_Mesa": 0.88,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e720"
+  },
+  "Año": 2,
+  "Semana": 26,
+  "Tasa_Mesa": 0.82,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e721"
+  },
+  "Año": 2,
+  "Semana": 26,
+  "Tasa_Mesa": 0.82,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e722"
+  },
+  "Año": 2,
+  "Semana": 26,
+  "Tasa_Mesa": 0.82,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e723"
+  },
+  "Año": 2,
+  "Semana": 26,
+  "Tasa_Mesa": 0.82,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e724"
+  },
+  "Año": 2,
+  "Semana": 26,
+  "Tasa_Mesa": 0.82,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e725"
+  },
+  "Año": 2,
+  "Semana": 26,
+  "Tasa_Mesa": 0.82,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e726"
+  },
+  "Año": 2,
+  "Semana": 26,
+  "Tasa_Mesa": 0.82,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e727"
+  },
+  "Año": 2,
+  "Semana": 27,
+  "Tasa_Mesa": 0.8,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e728"
+  },
+  "Año": 2,
+  "Semana": 27,
+  "Tasa_Mesa": 0.8,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e729"
+  },
+  "Año": 2,
+  "Semana": 27,
+  "Tasa_Mesa": 0.8,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e72a"
+  },
+  "Año": 2,
+  "Semana": 27,
+  "Tasa_Mesa": 0.8,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e72b"
+  },
+  "Año": 2,
+  "Semana": 27,
+  "Tasa_Mesa": 0.8,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e72c"
+  },
+  "Año": 2,
+  "Semana": 27,
+  "Tasa_Mesa": 0.8,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e72d"
+  },
+  "Año": 2,
+  "Semana": 27,
+  "Tasa_Mesa": 0.8,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e72e"
+  },
+  "Año": 2,
+  "Semana": 28,
+  "Tasa_Mesa": 0.8,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e72f"
+  },
+  "Año": 2,
+  "Semana": 28,
+  "Tasa_Mesa": 0.8,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e730"
+  },
+  "Año": 2,
+  "Semana": 28,
+  "Tasa_Mesa": 0.8,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e731"
+  },
+  "Año": 2,
+  "Semana": 28,
+  "Tasa_Mesa": 0.8,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e732"
+  },
+  "Año": 2,
+  "Semana": 28,
+  "Tasa_Mesa": 0.8,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e733"
+  },
+  "Año": 2,
+  "Semana": 28,
+  "Tasa_Mesa": 0.8,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e734"
+  },
+  "Año": 2,
+  "Semana": 28,
+  "Tasa_Mesa": 0.8,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e735"
+  },
+  "Año": 2,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e736"
+  },
+  "Año": 2,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e737"
+  },
+  "Año": 2,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e738"
+  },
+  "Año": 2,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e739"
+  },
+  "Año": 2,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e73a"
+  },
+  "Año": 2,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e73b"
+  },
+  "Año": 2,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e73c"
+  },
+  "Año": 2,
+  "Semana": 30,
+  "Tasa_Mesa": 0.25,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e73d"
+  },
+  "Año": 2,
+  "Semana": 30,
+  "Tasa_Mesa": 0.25,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e73e"
+  },
+  "Año": 2,
+  "Semana": 30,
+  "Tasa_Mesa": 0.25,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e73f"
+  },
+  "Año": 2,
+  "Semana": 30,
+  "Tasa_Mesa": 0.25,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e740"
+  },
+  "Año": 2,
+  "Semana": 30,
+  "Tasa_Mesa": 0.25,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e741"
+  },
+  "Año": 2,
+  "Semana": 30,
+  "Tasa_Mesa": 0.25,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e742"
+  },
+  "Año": 2,
+  "Semana": 30,
+  "Tasa_Mesa": 0.25,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e743"
+  },
+  "Año": 2,
+  "Semana": 31,
+  "Tasa_Mesa": 0.27,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e744"
+  },
+  "Año": 2,
+  "Semana": 31,
+  "Tasa_Mesa": 0.27,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e745"
+  },
+  "Año": 2,
+  "Semana": 31,
+  "Tasa_Mesa": 0.27,
+  "Temporada": "Temporada_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e746"
+  },
+  "Año": 3,
+  "Semana": 1,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e747"
+  },
+  "Año": 3,
+  "Semana": 1,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e748"
+  },
+  "Año": 3,
+  "Semana": 1,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e749"
+  },
+  "Año": 3,
+  "Semana": 1,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e74a"
+  },
+  "Año": 3,
+  "Semana": 1,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e74b"
+  },
+  "Año": 3,
+  "Semana": 1,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e74c"
+  },
+  "Año": 3,
+  "Semana": 1,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e74d"
+  },
+  "Año": 3,
+  "Semana": 2,
+  "Tasa_Mesa": 1.63,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e74e"
+  },
+  "Año": 3,
+  "Semana": 2,
+  "Tasa_Mesa": 1.63,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e74f"
+  },
+  "Año": 3,
+  "Semana": 2,
+  "Tasa_Mesa": 1.63,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e750"
+  },
+  "Año": 3,
+  "Semana": 2,
+  "Tasa_Mesa": 1.63,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e751"
+  },
+  "Año": 3,
+  "Semana": 2,
+  "Tasa_Mesa": 1.63,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e752"
+  },
+  "Año": 3,
+  "Semana": 2,
+  "Tasa_Mesa": 1.63,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e753"
+  },
+  "Año": 3,
+  "Semana": 2,
+  "Tasa_Mesa": 1.63,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e754"
+  },
+  "Año": 3,
+  "Semana": 3,
+  "Tasa_Mesa": 1.63,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e755"
+  },
+  "Año": 3,
+  "Semana": 3,
+  "Tasa_Mesa": 1.63,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e756"
+  },
+  "Año": 3,
+  "Semana": 3,
+  "Tasa_Mesa": 1.63,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e757"
+  },
+  "Año": 3,
+  "Semana": 3,
+  "Tasa_Mesa": 1.63,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e758"
+  },
+  "Año": 3,
+  "Semana": 3,
+  "Tasa_Mesa": 1.63,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e759"
+  },
+  "Año": 3,
+  "Semana": 3,
+  "Tasa_Mesa": 1.63,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e75a"
+  },
+  "Año": 3,
+  "Semana": 3,
+  "Tasa_Mesa": 1.63,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e75b"
+  },
+  "Año": 3,
+  "Semana": 4,
+  "Tasa_Mesa": 1.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e75c"
+  },
+  "Año": 3,
+  "Semana": 4,
+  "Tasa_Mesa": 1.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e75d"
+  },
+  "Año": 3,
+  "Semana": 4,
+  "Tasa_Mesa": 1.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e75e"
+  },
+  "Año": 3,
+  "Semana": 4,
+  "Tasa_Mesa": 1.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e75f"
+  },
+  "Año": 3,
+  "Semana": 4,
+  "Tasa_Mesa": 1.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e760"
+  },
+  "Año": 3,
+  "Semana": 4,
+  "Tasa_Mesa": 1.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e761"
+  },
+  "Año": 3,
+  "Semana": 4,
+  "Tasa_Mesa": 1.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e762"
+  },
+  "Año": 3,
+  "Semana": 5,
+  "Tasa_Mesa": 1.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e763"
+  },
+  "Año": 3,
+  "Semana": 5,
+  "Tasa_Mesa": 1.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e764"
+  },
+  "Año": 3,
+  "Semana": 5,
+  "Tasa_Mesa": 1.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e765"
+  },
+  "Año": 3,
+  "Semana": 5,
+  "Tasa_Mesa": 1.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e766"
+  },
+  "Año": 3,
+  "Semana": 5,
+  "Tasa_Mesa": 1.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e767"
+  },
+  "Año": 3,
+  "Semana": 5,
+  "Tasa_Mesa": 1.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e768"
+  },
+  "Año": 3,
+  "Semana": 5,
+  "Tasa_Mesa": 1.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e769"
+  },
+  "Año": 3,
+  "Semana": 6,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e76a"
+  },
+  "Año": 3,
+  "Semana": 6,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e76b"
+  },
+  "Año": 3,
+  "Semana": 6,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e76c"
+  },
+  "Año": 3,
+  "Semana": 6,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e76d"
+  },
+  "Año": 3,
+  "Semana": 6,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e76e"
+  },
+  "Año": 3,
+  "Semana": 6,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e76f"
+  },
+  "Año": 3,
+  "Semana": 6,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e770"
+  },
+  "Año": 3,
+  "Semana": 7,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e771"
+  },
+  "Año": 3,
+  "Semana": 7,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e772"
+  },
+  "Año": 3,
+  "Semana": 7,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e773"
+  },
+  "Año": 3,
+  "Semana": 7,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e774"
+  },
+  "Año": 3,
+  "Semana": 7,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e775"
+  },
+  "Año": 3,
+  "Semana": 7,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e776"
+  },
+  "Año": 3,
+  "Semana": 7,
+  "Tasa_Mesa": 1.2,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e777"
+  },
+  "Año": 3,
+  "Semana": 8,
+  "Tasa_Mesa": 0.96,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e778"
+  },
+  "Año": 3,
+  "Semana": 8,
+  "Tasa_Mesa": 0.96,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e779"
+  },
+  "Año": 3,
+  "Semana": 8,
+  "Tasa_Mesa": 0.96,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e77a"
+  },
+  "Año": 3,
+  "Semana": 8,
+  "Tasa_Mesa": 0.96,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e77b"
+  },
+  "Año": 3,
+  "Semana": 8,
+  "Tasa_Mesa": 0.96,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e77c"
+  },
+  "Año": 3,
+  "Semana": 8,
+  "Tasa_Mesa": 0.96,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e77d"
+  },
+  "Año": 3,
+  "Semana": 8,
+  "Tasa_Mesa": 0.96,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e77e"
+  },
+  "Año": 3,
+  "Semana": 9,
+  "Tasa_Mesa": 0.96,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e77f"
+  },
+  "Año": 3,
+  "Semana": 9,
+  "Tasa_Mesa": 0.96,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e780"
+  },
+  "Año": 3,
+  "Semana": 9,
+  "Tasa_Mesa": 0.96,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e781"
+  },
+  "Año": 3,
+  "Semana": 9,
+  "Tasa_Mesa": 0.96,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e782"
+  },
+  "Año": 3,
+  "Semana": 9,
+  "Tasa_Mesa": 0.96,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e783"
+  },
+  "Año": 3,
+  "Semana": 9,
+  "Tasa_Mesa": 0.96,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e784"
+  },
+  "Año": 3,
+  "Semana": 9,
+  "Tasa_Mesa": 0.96,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e785"
+  },
+  "Año": 3,
+  "Semana": 10,
+  "Tasa_Mesa": 0.91,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e786"
+  },
+  "Año": 3,
+  "Semana": 10,
+  "Tasa_Mesa": 0.91,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e787"
+  },
+  "Año": 3,
+  "Semana": 10,
+  "Tasa_Mesa": 0.91,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e788"
+  },
+  "Año": 3,
+  "Semana": 10,
+  "Tasa_Mesa": 0.91,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e789"
+  },
+  "Año": 3,
+  "Semana": 10,
+  "Tasa_Mesa": 0.91,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e78a"
+  },
+  "Año": 3,
+  "Semana": 10,
+  "Tasa_Mesa": 0.91,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e78b"
+  },
+  "Año": 3,
+  "Semana": 10,
+  "Tasa_Mesa": 0.91,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e78c"
+  },
+  "Año": 3,
+  "Semana": 11,
+  "Tasa_Mesa": 0.91,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e78d"
+  },
+  "Año": 3,
+  "Semana": 11,
+  "Tasa_Mesa": 0.91,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e78e"
+  },
+  "Año": 3,
+  "Semana": 11,
+  "Tasa_Mesa": 0.91,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e78f"
+  },
+  "Año": 3,
+  "Semana": 11,
+  "Tasa_Mesa": 0.91,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e790"
+  },
+  "Año": 3,
+  "Semana": 11,
+  "Tasa_Mesa": 0.91,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e791"
+  },
+  "Año": 3,
+  "Semana": 11,
+  "Tasa_Mesa": 0.91,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e792"
+  },
+  "Año": 3,
+  "Semana": 11,
+  "Tasa_Mesa": 0.91,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e793"
+  },
+  "Año": 3,
+  "Semana": 12,
+  "Tasa_Mesa": 0.81,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e794"
+  },
+  "Año": 3,
+  "Semana": 12,
+  "Tasa_Mesa": 0.81,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e795"
+  },
+  "Año": 3,
+  "Semana": 12,
+  "Tasa_Mesa": 0.81,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e796"
+  },
+  "Año": 3,
+  "Semana": 12,
+  "Tasa_Mesa": 0.81,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e797"
+  },
+  "Año": 3,
+  "Semana": 12,
+  "Tasa_Mesa": 0.81,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e798"
+  },
+  "Año": 3,
+  "Semana": 12,
+  "Tasa_Mesa": 0.81,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e799"
+  },
+  "Año": 3,
+  "Semana": 12,
+  "Tasa_Mesa": 0.81,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e79a"
+  },
+  "Año": 3,
+  "Semana": 13,
+  "Tasa_Mesa": 0.81,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e79b"
+  },
+  "Año": 3,
+  "Semana": 13,
+  "Tasa_Mesa": 0.81,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e79c"
+  },
+  "Año": 3,
+  "Semana": 13,
+  "Tasa_Mesa": 0.81,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e79d"
+  },
+  "Año": 3,
+  "Semana": 13,
+  "Tasa_Mesa": 0.81,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e79e"
+  },
+  "Año": 3,
+  "Semana": 13,
+  "Tasa_Mesa": 0.81,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e79f"
+  },
+  "Año": 3,
+  "Semana": 13,
+  "Tasa_Mesa": 0.81,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a0"
+  },
+  "Año": 3,
+  "Semana": 13,
+  "Tasa_Mesa": 0.81,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a1"
+  },
+  "Año": 3,
+  "Semana": 14,
+  "Tasa_Mesa": 0.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a2"
+  },
+  "Año": 3,
+  "Semana": 14,
+  "Tasa_Mesa": 0.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a3"
+  },
+  "Año": 3,
+  "Semana": 14,
+  "Tasa_Mesa": 0.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a4"
+  },
+  "Año": 3,
+  "Semana": 14,
+  "Tasa_Mesa": 0.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a5"
+  },
+  "Año": 3,
+  "Semana": 14,
+  "Tasa_Mesa": 0.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a6"
+  },
+  "Año": 3,
+  "Semana": 14,
+  "Tasa_Mesa": 0.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a7"
+  },
+  "Año": 3,
+  "Semana": 14,
+  "Tasa_Mesa": 0.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a8"
+  },
+  "Año": 3,
+  "Semana": 15,
+  "Tasa_Mesa": 0.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a9"
+  },
+  "Año": 3,
+  "Semana": 15,
+  "Tasa_Mesa": 0.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7aa"
+  },
+  "Año": 3,
+  "Semana": 15,
+  "Tasa_Mesa": 0.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ab"
+  },
+  "Año": 3,
+  "Semana": 15,
+  "Tasa_Mesa": 0.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ac"
+  },
+  "Año": 3,
+  "Semana": 15,
+  "Tasa_Mesa": 0.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ad"
+  },
+  "Año": 3,
+  "Semana": 15,
+  "Tasa_Mesa": 0.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ae"
+  },
+  "Año": 3,
+  "Semana": 15,
+  "Tasa_Mesa": 0.72,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7af"
+  },
+  "Año": 3,
+  "Semana": 16,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b0"
+  },
+  "Año": 3,
+  "Semana": 16,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b1"
+  },
+  "Año": 3,
+  "Semana": 16,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b2"
+  },
+  "Año": 3,
+  "Semana": 16,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b3"
+  },
+  "Año": 3,
+  "Semana": 16,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b4"
+  },
+  "Año": 3,
+  "Semana": 16,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b5"
+  },
+  "Año": 3,
+  "Semana": 16,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b6"
+  },
+  "Año": 3,
+  "Semana": 17,
+  "Tasa_Mesa": 1.11,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b7"
+  },
+  "Año": 3,
+  "Semana": 17,
+  "Tasa_Mesa": 1.11,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b8"
+  },
+  "Año": 3,
+  "Semana": 17,
+  "Tasa_Mesa": 1.11,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b9"
+  },
+  "Año": 3,
+  "Semana": 17,
+  "Tasa_Mesa": 1.11,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ba"
+  },
+  "Año": 3,
+  "Semana": 17,
+  "Tasa_Mesa": 1.11,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7bb"
+  },
+  "Año": 3,
+  "Semana": 17,
+  "Tasa_Mesa": 1.11,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7bc"
+  },
+  "Año": 3,
+  "Semana": 17,
+  "Tasa_Mesa": 1.11,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7bd"
+  },
+  "Año": 3,
+  "Semana": 18,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7be"
+  },
+  "Año": 3,
+  "Semana": 18,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7bf"
+  },
+  "Año": 3,
+  "Semana": 18,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c0"
+  },
+  "Año": 3,
+  "Semana": 18,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c1"
+  },
+  "Año": 3,
+  "Semana": 18,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c2"
+  },
+  "Año": 3,
+  "Semana": 18,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c3"
+  },
+  "Año": 3,
+  "Semana": 18,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c4"
+  },
+  "Año": 3,
+  "Semana": 19,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c5"
+  },
+  "Año": 3,
+  "Semana": 19,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c6"
+  },
+  "Año": 3,
+  "Semana": 19,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c7"
+  },
+  "Año": 3,
+  "Semana": 19,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c8"
+  },
+  "Año": 3,
+  "Semana": 19,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c9"
+  },
+  "Año": 3,
+  "Semana": 19,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ca"
+  },
+  "Año": 3,
+  "Semana": 19,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7cb"
+  },
+  "Año": 3,
+  "Semana": 20,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7cc"
+  },
+  "Año": 3,
+  "Semana": 20,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7cd"
+  },
+  "Año": 3,
+  "Semana": 20,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ce"
+  },
+  "Año": 3,
+  "Semana": 20,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7cf"
+  },
+  "Año": 3,
+  "Semana": 20,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d0"
+  },
+  "Año": 3,
+  "Semana": 20,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d1"
+  },
+  "Año": 3,
+  "Semana": 20,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d2"
+  },
+  "Año": 3,
+  "Semana": 21,
+  "Tasa_Mesa": 0.83,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d3"
+  },
+  "Año": 3,
+  "Semana": 21,
+  "Tasa_Mesa": 0.83,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d4"
+  },
+  "Año": 3,
+  "Semana": 21,
+  "Tasa_Mesa": 0.83,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d5"
+  },
+  "Año": 3,
+  "Semana": 21,
+  "Tasa_Mesa": 0.83,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d6"
+  },
+  "Año": 3,
+  "Semana": 21,
+  "Tasa_Mesa": 0.83,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d7"
+  },
+  "Año": 3,
+  "Semana": 21,
+  "Tasa_Mesa": 0.83,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d8"
+  },
+  "Año": 3,
+  "Semana": 21,
+  "Tasa_Mesa": 0.83,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d9"
+  },
+  "Año": 3,
+  "Semana": 22,
+  "Tasa_Mesa": 0.87,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7da"
+  },
+  "Año": 3,
+  "Semana": 22,
+  "Tasa_Mesa": 0.87,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7db"
+  },
+  "Año": 3,
+  "Semana": 22,
+  "Tasa_Mesa": 0.87,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7dc"
+  },
+  "Año": 3,
+  "Semana": 22,
+  "Tasa_Mesa": 0.87,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7dd"
+  },
+  "Año": 3,
+  "Semana": 22,
+  "Tasa_Mesa": 0.87,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7de"
+  },
+  "Año": 3,
+  "Semana": 22,
+  "Tasa_Mesa": 0.87,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7df"
+  },
+  "Año": 3,
+  "Semana": 22,
+  "Tasa_Mesa": 0.87,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e0"
+  },
+  "Año": 3,
+  "Semana": 23,
+  "Tasa_Mesa": 0.66,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e1"
+  },
+  "Año": 3,
+  "Semana": 23,
+  "Tasa_Mesa": 0.66,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e2"
+  },
+  "Año": 3,
+  "Semana": 23,
+  "Tasa_Mesa": 0.66,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e3"
+  },
+  "Año": 3,
+  "Semana": 23,
+  "Tasa_Mesa": 0.66,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e4"
+  },
+  "Año": 3,
+  "Semana": 23,
+  "Tasa_Mesa": 0.66,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e5"
+  },
+  "Año": 3,
+  "Semana": 23,
+  "Tasa_Mesa": 0.66,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e6"
+  },
+  "Año": 3,
+  "Semana": 23,
+  "Tasa_Mesa": 0.66,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e7"
+  },
+  "Año": 3,
+  "Semana": 24,
+  "Tasa_Mesa": 0.62,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e8"
+  },
+  "Año": 3,
+  "Semana": 24,
+  "Tasa_Mesa": 0.62,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e9"
+  },
+  "Año": 3,
+  "Semana": 24,
+  "Tasa_Mesa": 0.62,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ea"
+  },
+  "Año": 3,
+  "Semana": 24,
+  "Tasa_Mesa": 0.62,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7eb"
+  },
+  "Año": 3,
+  "Semana": 24,
+  "Tasa_Mesa": 0.62,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ec"
+  },
+  "Año": 3,
+  "Semana": 24,
+  "Tasa_Mesa": 0.62,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ed"
+  },
+  "Año": 3,
+  "Semana": 24,
+  "Tasa_Mesa": 0.62,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ee"
+  },
+  "Año": 3,
+  "Semana": 25,
+  "Tasa_Mesa": 0.52,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ef"
+  },
+  "Año": 3,
+  "Semana": 25,
+  "Tasa_Mesa": 0.52,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f0"
+  },
+  "Año": 3,
+  "Semana": 25,
+  "Tasa_Mesa": 0.52,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f1"
+  },
+  "Año": 3,
+  "Semana": 25,
+  "Tasa_Mesa": 0.52,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f2"
+  },
+  "Año": 3,
+  "Semana": 25,
+  "Tasa_Mesa": 0.52,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f3"
+  },
+  "Año": 3,
+  "Semana": 25,
+  "Tasa_Mesa": 0.52,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f4"
+  },
+  "Año": 3,
+  "Semana": 25,
+  "Tasa_Mesa": 0.52,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f5"
+  },
+  "Año": 3,
+  "Semana": 26,
+  "Tasa_Mesa": 0.48,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f6"
+  },
+  "Año": 3,
+  "Semana": 26,
+  "Tasa_Mesa": 0.48,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f7"
+  },
+  "Año": 3,
+  "Semana": 26,
+  "Tasa_Mesa": 0.48,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f8"
+  },
+  "Año": 3,
+  "Semana": 26,
+  "Tasa_Mesa": 0.48,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f9"
+  },
+  "Año": 3,
+  "Semana": 26,
+  "Tasa_Mesa": 0.48,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7fa"
+  },
+  "Año": 3,
+  "Semana": 26,
+  "Tasa_Mesa": 0.48,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7fb"
+  },
+  "Año": 3,
+  "Semana": 26,
+  "Tasa_Mesa": 0.48,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7fc"
+  },
+  "Año": 3,
+  "Semana": 27,
+  "Tasa_Mesa": 0.4,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7fd"
+  },
+  "Año": 3,
+  "Semana": 27,
+  "Tasa_Mesa": 0.4,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7fe"
+  },
+  "Año": 3,
+  "Semana": 27,
+  "Tasa_Mesa": 0.4,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ff"
+  },
+  "Año": 3,
+  "Semana": 27,
+  "Tasa_Mesa": 0.4,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e800"
+  },
+  "Año": 3,
+  "Semana": 27,
+  "Tasa_Mesa": 0.4,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e801"
+  },
+  "Año": 3,
+  "Semana": 27,
+  "Tasa_Mesa": 0.4,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e802"
+  },
+  "Año": 3,
+  "Semana": 27,
+  "Tasa_Mesa": 0.4,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e803"
+  },
+  "Año": 3,
+  "Semana": 28,
+  "Tasa_Mesa": 0.38,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e804"
+  },
+  "Año": 3,
+  "Semana": 28,
+  "Tasa_Mesa": 0.38,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e805"
+  },
+  "Año": 3,
+  "Semana": 28,
+  "Tasa_Mesa": 0.38,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e806"
+  },
+  "Año": 3,
+  "Semana": 28,
+  "Tasa_Mesa": 0.38,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e807"
+  },
+  "Año": 3,
+  "Semana": 28,
+  "Tasa_Mesa": 0.38,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e808"
+  },
+  "Año": 3,
+  "Semana": 28,
+  "Tasa_Mesa": 0.38,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e809"
+  },
+  "Año": 3,
+  "Semana": 28,
+  "Tasa_Mesa": 0.38,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e80a"
+  },
+  "Año": 3,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e80b"
+  },
+  "Año": 3,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e80c"
+  },
+  "Año": 3,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e80d"
+  },
+  "Año": 3,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e80e"
+  },
+  "Año": 3,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e80f"
+  },
+  "Año": 3,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e810"
+  },
+  "Año": 3,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e811"
+  },
+  "Año": 3,
+  "Semana": 30,
+  "Tasa_Mesa": 0.22,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e812"
+  },
+  "Año": 3,
+  "Semana": 30,
+  "Tasa_Mesa": 0.22,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e813"
+  },
+  "Año": 3,
+  "Semana": 30,
+  "Tasa_Mesa": 0.22,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e814"
+  },
+  "Año": 3,
+  "Semana": 30,
+  "Tasa_Mesa": 0.22,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e815"
+  },
+  "Año": 3,
+  "Semana": 30,
+  "Tasa_Mesa": 0.22,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e816"
+  },
+  "Año": 3,
+  "Semana": 30,
+  "Tasa_Mesa": 0.22,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e817"
+  },
+  "Año": 3,
+  "Semana": 30,
+  "Tasa_Mesa": 0.22,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e818"
+  },
+  "Año": 3,
+  "Semana": 31,
+  "Tasa_Mesa": 0.21,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e819"
+  },
+  "Año": 3,
+  "Semana": 31,
+  "Tasa_Mesa": 0.21,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e81a"
+  },
+  "Año": 3,
+  "Semana": 31,
+  "Tasa_Mesa": 0.21,
+  "Temporada": "Temporada_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e81b"
+  },
+  "Año": 4,
+  "Semana": 1,
+  "Tasa_Mesa": 1.62,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e81c"
+  },
+  "Año": 4,
+  "Semana": 1,
+  "Tasa_Mesa": 1.62,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e81d"
+  },
+  "Año": 4,
+  "Semana": 1,
+  "Tasa_Mesa": 1.62,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e81e"
+  },
+  "Año": 4,
+  "Semana": 1,
+  "Tasa_Mesa": 1.62,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e81f"
+  },
+  "Año": 4,
+  "Semana": 1,
+  "Tasa_Mesa": 1.62,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e820"
+  },
+  "Año": 4,
+  "Semana": 1,
+  "Tasa_Mesa": 1.62,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e821"
+  },
+  "Año": 4,
+  "Semana": 1,
+  "Tasa_Mesa": 1.62,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e822"
+  },
+  "Año": 4,
+  "Semana": 2,
+  "Tasa_Mesa": 2.19,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e823"
+  },
+  "Año": 4,
+  "Semana": 2,
+  "Tasa_Mesa": 2.19,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e824"
+  },
+  "Año": 4,
+  "Semana": 2,
+  "Tasa_Mesa": 2.19,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e825"
+  },
+  "Año": 4,
+  "Semana": 2,
+  "Tasa_Mesa": 2.19,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e826"
+  },
+  "Año": 4,
+  "Semana": 2,
+  "Tasa_Mesa": 2.19,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e827"
+  },
+  "Año": 4,
+  "Semana": 2,
+  "Tasa_Mesa": 2.19,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e828"
+  },
+  "Año": 4,
+  "Semana": 2,
+  "Tasa_Mesa": 2.19,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e829"
+  },
+  "Año": 4,
+  "Semana": 3,
+  "Tasa_Mesa": 2.25,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e82a"
+  },
+  "Año": 4,
+  "Semana": 3,
+  "Tasa_Mesa": 2.25,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e82b"
+  },
+  "Año": 4,
+  "Semana": 3,
+  "Tasa_Mesa": 2.25,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e82c"
+  },
+  "Año": 4,
+  "Semana": 3,
+  "Tasa_Mesa": 2.25,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e82d"
+  },
+  "Año": 4,
+  "Semana": 3,
+  "Tasa_Mesa": 2.25,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e82e"
+  },
+  "Año": 4,
+  "Semana": 3,
+  "Tasa_Mesa": 2.25,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e82f"
+  },
+  "Año": 4,
+  "Semana": 3,
+  "Tasa_Mesa": 2.25,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e830"
+  },
+  "Año": 4,
+  "Semana": 4,
+  "Tasa_Mesa": 2.14,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e831"
+  },
+  "Año": 4,
+  "Semana": 4,
+  "Tasa_Mesa": 2.14,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e832"
+  },
+  "Año": 4,
+  "Semana": 4,
+  "Tasa_Mesa": 2.14,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e833"
+  },
+  "Año": 4,
+  "Semana": 4,
+  "Tasa_Mesa": 2.14,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e834"
+  },
+  "Año": 4,
+  "Semana": 4,
+  "Tasa_Mesa": 2.14,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e835"
+  },
+  "Año": 4,
+  "Semana": 4,
+  "Tasa_Mesa": 2.14,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e836"
+  },
+  "Año": 4,
+  "Semana": 4,
+  "Tasa_Mesa": 2.14,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e837"
+  },
+  "Año": 4,
+  "Semana": 5,
+  "Tasa_Mesa": 1.58,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e838"
+  },
+  "Año": 4,
+  "Semana": 5,
+  "Tasa_Mesa": 1.58,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e839"
+  },
+  "Año": 4,
+  "Semana": 5,
+  "Tasa_Mesa": 1.58,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e83a"
+  },
+  "Año": 4,
+  "Semana": 5,
+  "Tasa_Mesa": 1.58,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e83b"
+  },
+  "Año": 4,
+  "Semana": 5,
+  "Tasa_Mesa": 1.58,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e83c"
+  },
+  "Año": 4,
+  "Semana": 5,
+  "Tasa_Mesa": 1.58,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e83d"
+  },
+  "Año": 4,
+  "Semana": 5,
+  "Tasa_Mesa": 1.58,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e83e"
+  },
+  "Año": 4,
+  "Semana": 6,
+  "Tasa_Mesa": 1.52,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e83f"
+  },
+  "Año": 4,
+  "Semana": 6,
+  "Tasa_Mesa": 1.52,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e840"
+  },
+  "Año": 4,
+  "Semana": 6,
+  "Tasa_Mesa": 1.52,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e841"
+  },
+  "Año": 4,
+  "Semana": 6,
+  "Tasa_Mesa": 1.52,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e842"
+  },
+  "Año": 4,
+  "Semana": 6,
+  "Tasa_Mesa": 1.52,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e843"
+  },
+  "Año": 4,
+  "Semana": 6,
+  "Tasa_Mesa": 1.52,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e844"
+  },
+  "Año": 4,
+  "Semana": 6,
+  "Tasa_Mesa": 1.52,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e845"
+  },
+  "Año": 4,
+  "Semana": 7,
+  "Tasa_Mesa": 2.55,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e846"
+  },
+  "Año": 4,
+  "Semana": 7,
+  "Tasa_Mesa": 2.55,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e847"
+  },
+  "Año": 4,
+  "Semana": 7,
+  "Tasa_Mesa": 2.55,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e848"
+  },
+  "Año": 4,
+  "Semana": 7,
+  "Tasa_Mesa": 2.55,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e849"
+  },
+  "Año": 4,
+  "Semana": 7,
+  "Tasa_Mesa": 2.55,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e84a"
+  },
+  "Año": 4,
+  "Semana": 7,
+  "Tasa_Mesa": 2.55,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e84b"
+  },
+  "Año": 4,
+  "Semana": 7,
+  "Tasa_Mesa": 2.55,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e84c"
+  },
+  "Año": 4,
+  "Semana": 8,
+  "Tasa_Mesa": 2.1,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e84d"
+  },
+  "Año": 4,
+  "Semana": 8,
+  "Tasa_Mesa": 2.1,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e84e"
+  },
+  "Año": 4,
+  "Semana": 8,
+  "Tasa_Mesa": 2.1,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e84f"
+  },
+  "Año": 4,
+  "Semana": 8,
+  "Tasa_Mesa": 2.1,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e850"
+  },
+  "Año": 4,
+  "Semana": 8,
+  "Tasa_Mesa": 2.1,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e851"
+  },
+  "Año": 4,
+  "Semana": 8,
+  "Tasa_Mesa": 2.1,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e852"
+  },
+  "Año": 4,
+  "Semana": 8,
+  "Tasa_Mesa": 2.1,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e853"
+  },
+  "Año": 4,
+  "Semana": 9,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e854"
+  },
+  "Año": 4,
+  "Semana": 9,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e855"
+  },
+  "Año": 4,
+  "Semana": 9,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e856"
+  },
+  "Año": 4,
+  "Semana": 9,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e857"
+  },
+  "Año": 4,
+  "Semana": 9,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e858"
+  },
+  "Año": 4,
+  "Semana": 9,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e859"
+  },
+  "Año": 4,
+  "Semana": 9,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e85a"
+  },
+  "Año": 4,
+  "Semana": 10,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e85b"
+  },
+  "Año": 4,
+  "Semana": 10,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e85c"
+  },
+  "Año": 4,
+  "Semana": 10,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e85d"
+  },
+  "Año": 4,
+  "Semana": 10,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e85e"
+  },
+  "Año": 4,
+  "Semana": 10,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e85f"
+  },
+  "Año": 4,
+  "Semana": 10,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e860"
+  },
+  "Año": 4,
+  "Semana": 10,
+  "Tasa_Mesa": 1.72,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e861"
+  },
+  "Año": 4,
+  "Semana": 11,
+  "Tasa_Mesa": 1.53,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e862"
+  },
+  "Año": 4,
+  "Semana": 11,
+  "Tasa_Mesa": 1.53,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e863"
+  },
+  "Año": 4,
+  "Semana": 11,
+  "Tasa_Mesa": 1.53,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e864"
+  },
+  "Año": 4,
+  "Semana": 11,
+  "Tasa_Mesa": 1.53,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e865"
+  },
+  "Año": 4,
+  "Semana": 11,
+  "Tasa_Mesa": 1.53,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e866"
+  },
+  "Año": 4,
+  "Semana": 11,
+  "Tasa_Mesa": 1.53,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e867"
+  },
+  "Año": 4,
+  "Semana": 11,
+  "Tasa_Mesa": 1.53,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e868"
+  },
+  "Año": 4,
+  "Semana": 12,
+  "Tasa_Mesa": 1.31,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e869"
+  },
+  "Año": 4,
+  "Semana": 12,
+  "Tasa_Mesa": 1.31,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e86a"
+  },
+  "Año": 4,
+  "Semana": 12,
+  "Tasa_Mesa": 1.31,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e86b"
+  },
+  "Año": 4,
+  "Semana": 12,
+  "Tasa_Mesa": 1.31,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e86c"
+  },
+  "Año": 4,
+  "Semana": 12,
+  "Tasa_Mesa": 1.31,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e86d"
+  },
+  "Año": 4,
+  "Semana": 12,
+  "Tasa_Mesa": 1.31,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e86e"
+  },
+  "Año": 4,
+  "Semana": 12,
+  "Tasa_Mesa": 1.31,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e86f"
+  },
+  "Año": 4,
+  "Semana": 13,
+  "Tasa_Mesa": 1.05,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e870"
+  },
+  "Año": 4,
+  "Semana": 13,
+  "Tasa_Mesa": 1.05,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e871"
+  },
+  "Año": 4,
+  "Semana": 13,
+  "Tasa_Mesa": 1.05,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e872"
+  },
+  "Año": 4,
+  "Semana": 13,
+  "Tasa_Mesa": 1.05,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e873"
+  },
+  "Año": 4,
+  "Semana": 13,
+  "Tasa_Mesa": 1.05,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e874"
+  },
+  "Año": 4,
+  "Semana": 13,
+  "Tasa_Mesa": 1.05,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e875"
+  },
+  "Año": 4,
+  "Semana": 13,
+  "Tasa_Mesa": 1.05,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e876"
+  },
+  "Año": 4,
+  "Semana": 14,
+  "Tasa_Mesa": 0.98,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e877"
+  },
+  "Año": 4,
+  "Semana": 14,
+  "Tasa_Mesa": 0.98,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e878"
+  },
+  "Año": 4,
+  "Semana": 14,
+  "Tasa_Mesa": 0.98,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e879"
+  },
+  "Año": 4,
+  "Semana": 14,
+  "Tasa_Mesa": 0.98,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e87a"
+  },
+  "Año": 4,
+  "Semana": 14,
+  "Tasa_Mesa": 0.98,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e87b"
+  },
+  "Año": 4,
+  "Semana": 14,
+  "Tasa_Mesa": 0.98,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e87c"
+  },
+  "Año": 4,
+  "Semana": 14,
+  "Tasa_Mesa": 0.98,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e87d"
+  },
+  "Año": 4,
+  "Semana": 15,
+  "Tasa_Mesa": 1,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e87e"
+  },
+  "Año": 4,
+  "Semana": 15,
+  "Tasa_Mesa": 1,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e87f"
+  },
+  "Año": 4,
+  "Semana": 15,
+  "Tasa_Mesa": 1,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e880"
+  },
+  "Año": 4,
+  "Semana": 15,
+  "Tasa_Mesa": 1,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e881"
+  },
+  "Año": 4,
+  "Semana": 15,
+  "Tasa_Mesa": 1,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e882"
+  },
+  "Año": 4,
+  "Semana": 15,
+  "Tasa_Mesa": 1,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e883"
+  },
+  "Año": 4,
+  "Semana": 15,
+  "Tasa_Mesa": 1,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e884"
+  },
+  "Año": 4,
+  "Semana": 16,
+  "Tasa_Mesa": 1.65,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e885"
+  },
+  "Año": 4,
+  "Semana": 16,
+  "Tasa_Mesa": 1.65,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e886"
+  },
+  "Año": 4,
+  "Semana": 16,
+  "Tasa_Mesa": 1.65,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e887"
+  },
+  "Año": 4,
+  "Semana": 16,
+  "Tasa_Mesa": 1.65,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e888"
+  },
+  "Año": 4,
+  "Semana": 16,
+  "Tasa_Mesa": 1.65,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e889"
+  },
+  "Año": 4,
+  "Semana": 16,
+  "Tasa_Mesa": 1.65,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e88a"
+  },
+  "Año": 4,
+  "Semana": 16,
+  "Tasa_Mesa": 1.65,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e88b"
+  },
+  "Año": 4,
+  "Semana": 17,
+  "Tasa_Mesa": 1.61,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e88c"
+  },
+  "Año": 4,
+  "Semana": 17,
+  "Tasa_Mesa": 1.61,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e88d"
+  },
+  "Año": 4,
+  "Semana": 17,
+  "Tasa_Mesa": 1.61,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e88e"
+  },
+  "Año": 4,
+  "Semana": 17,
+  "Tasa_Mesa": 1.61,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e88f"
+  },
+  "Año": 4,
+  "Semana": 17,
+  "Tasa_Mesa": 1.61,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e890"
+  },
+  "Año": 4,
+  "Semana": 17,
+  "Tasa_Mesa": 1.61,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e891"
+  },
+  "Año": 4,
+  "Semana": 17,
+  "Tasa_Mesa": 1.61,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e892"
+  },
+  "Año": 4,
+  "Semana": 18,
+  "Tasa_Mesa": 1.55,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e893"
+  },
+  "Año": 4,
+  "Semana": 18,
+  "Tasa_Mesa": 1.55,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e894"
+  },
+  "Año": 4,
+  "Semana": 18,
+  "Tasa_Mesa": 1.55,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e895"
+  },
+  "Año": 4,
+  "Semana": 18,
+  "Tasa_Mesa": 1.55,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e896"
+  },
+  "Año": 4,
+  "Semana": 18,
+  "Tasa_Mesa": 1.55,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e897"
+  },
+  "Año": 4,
+  "Semana": 18,
+  "Tasa_Mesa": 1.55,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e898"
+  },
+  "Año": 4,
+  "Semana": 18,
+  "Tasa_Mesa": 1.55,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e899"
+  },
+  "Año": 4,
+  "Semana": 19,
+  "Tasa_Mesa": 1.22,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e89a"
+  },
+  "Año": 4,
+  "Semana": 19,
+  "Tasa_Mesa": 1.22,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e89b"
+  },
+  "Año": 4,
+  "Semana": 19,
+  "Tasa_Mesa": 1.22,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e89c"
+  },
+  "Año": 4,
+  "Semana": 19,
+  "Tasa_Mesa": 1.22,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e89d"
+  },
+  "Año": 4,
+  "Semana": 19,
+  "Tasa_Mesa": 1.22,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e89e"
+  },
+  "Año": 4,
+  "Semana": 19,
+  "Tasa_Mesa": 1.22,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e89f"
+  },
+  "Año": 4,
+  "Semana": 19,
+  "Tasa_Mesa": 1.22,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a0"
+  },
+  "Año": 4,
+  "Semana": 20,
+  "Tasa_Mesa": 1.36,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a1"
+  },
+  "Año": 4,
+  "Semana": 20,
+  "Tasa_Mesa": 1.36,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a2"
+  },
+  "Año": 4,
+  "Semana": 20,
+  "Tasa_Mesa": 1.36,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a3"
+  },
+  "Año": 4,
+  "Semana": 20,
+  "Tasa_Mesa": 1.36,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a4"
+  },
+  "Año": 4,
+  "Semana": 20,
+  "Tasa_Mesa": 1.36,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a5"
+  },
+  "Año": 4,
+  "Semana": 20,
+  "Tasa_Mesa": 1.36,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a6"
+  },
+  "Año": 4,
+  "Semana": 20,
+  "Tasa_Mesa": 1.36,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a7"
+  },
+  "Año": 4,
+  "Semana": 21,
+  "Tasa_Mesa": 1.3,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a8"
+  },
+  "Año": 4,
+  "Semana": 21,
+  "Tasa_Mesa": 1.3,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a9"
+  },
+  "Año": 4,
+  "Semana": 21,
+  "Tasa_Mesa": 1.3,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8aa"
+  },
+  "Año": 4,
+  "Semana": 21,
+  "Tasa_Mesa": 1.3,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ab"
+  },
+  "Año": 4,
+  "Semana": 21,
+  "Tasa_Mesa": 1.3,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ac"
+  },
+  "Año": 4,
+  "Semana": 21,
+  "Tasa_Mesa": 1.3,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ad"
+  },
+  "Año": 4,
+  "Semana": 21,
+  "Tasa_Mesa": 1.3,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ae"
+  },
+  "Año": 4,
+  "Semana": 22,
+  "Tasa_Mesa": 1.77,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8af"
+  },
+  "Año": 4,
+  "Semana": 22,
+  "Tasa_Mesa": 1.77,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b0"
+  },
+  "Año": 4,
+  "Semana": 22,
+  "Tasa_Mesa": 1.77,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b1"
+  },
+  "Año": 4,
+  "Semana": 22,
+  "Tasa_Mesa": 1.77,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b2"
+  },
+  "Año": 4,
+  "Semana": 22,
+  "Tasa_Mesa": 1.77,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b3"
+  },
+  "Año": 4,
+  "Semana": 22,
+  "Tasa_Mesa": 1.77,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b4"
+  },
+  "Año": 4,
+  "Semana": 22,
+  "Tasa_Mesa": 1.77,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b5"
+  },
+  "Año": 4,
+  "Semana": 23,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b6"
+  },
+  "Año": 4,
+  "Semana": 23,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b7"
+  },
+  "Año": 4,
+  "Semana": 23,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b8"
+  },
+  "Año": 4,
+  "Semana": 23,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b9"
+  },
+  "Año": 4,
+  "Semana": 23,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ba"
+  },
+  "Año": 4,
+  "Semana": 23,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8bb"
+  },
+  "Año": 4,
+  "Semana": 23,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8bc"
+  },
+  "Año": 4,
+  "Semana": 24,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8bd"
+  },
+  "Año": 4,
+  "Semana": 24,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8be"
+  },
+  "Año": 4,
+  "Semana": 24,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8bf"
+  },
+  "Año": 4,
+  "Semana": 24,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c0"
+  },
+  "Año": 4,
+  "Semana": 24,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c1"
+  },
+  "Año": 4,
+  "Semana": 24,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c2"
+  },
+  "Año": 4,
+  "Semana": 24,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c3"
+  },
+  "Año": 4,
+  "Semana": 25,
+  "Tasa_Mesa": 0.92,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c4"
+  },
+  "Año": 4,
+  "Semana": 25,
+  "Tasa_Mesa": 0.92,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c5"
+  },
+  "Año": 4,
+  "Semana": 25,
+  "Tasa_Mesa": 0.92,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c6"
+  },
+  "Año": 4,
+  "Semana": 25,
+  "Tasa_Mesa": 0.92,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c7"
+  },
+  "Año": 4,
+  "Semana": 25,
+  "Tasa_Mesa": 0.92,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c8"
+  },
+  "Año": 4,
+  "Semana": 25,
+  "Tasa_Mesa": 0.92,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c9"
+  },
+  "Año": 4,
+  "Semana": 25,
+  "Tasa_Mesa": 0.92,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ca"
+  },
+  "Año": 4,
+  "Semana": 26,
+  "Tasa_Mesa": 0.84,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8cb"
+  },
+  "Año": 4,
+  "Semana": 26,
+  "Tasa_Mesa": 0.84,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8cc"
+  },
+  "Año": 4,
+  "Semana": 26,
+  "Tasa_Mesa": 0.84,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8cd"
+  },
+  "Año": 4,
+  "Semana": 26,
+  "Tasa_Mesa": 0.84,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ce"
+  },
+  "Año": 4,
+  "Semana": 26,
+  "Tasa_Mesa": 0.84,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8cf"
+  },
+  "Año": 4,
+  "Semana": 26,
+  "Tasa_Mesa": 0.84,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d0"
+  },
+  "Año": 4,
+  "Semana": 26,
+  "Tasa_Mesa": 0.84,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d1"
+  },
+  "Año": 4,
+  "Semana": 27,
+  "Tasa_Mesa": 0.83,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d2"
+  },
+  "Año": 4,
+  "Semana": 27,
+  "Tasa_Mesa": 0.83,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d3"
+  },
+  "Año": 4,
+  "Semana": 27,
+  "Tasa_Mesa": 0.83,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d4"
+  },
+  "Año": 4,
+  "Semana": 27,
+  "Tasa_Mesa": 0.83,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d5"
+  },
+  "Año": 4,
+  "Semana": 27,
+  "Tasa_Mesa": 0.83,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d6"
+  },
+  "Año": 4,
+  "Semana": 27,
+  "Tasa_Mesa": 0.83,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d7"
+  },
+  "Año": 4,
+  "Semana": 27,
+  "Tasa_Mesa": 0.83,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d8"
+  },
+  "Año": 4,
+  "Semana": 28,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d9"
+  },
+  "Año": 4,
+  "Semana": 28,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8da"
+  },
+  "Año": 4,
+  "Semana": 28,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8db"
+  },
+  "Año": 4,
+  "Semana": 28,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8dc"
+  },
+  "Año": 4,
+  "Semana": 28,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8dd"
+  },
+  "Año": 4,
+  "Semana": 28,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8de"
+  },
+  "Año": 4,
+  "Semana": 28,
+  "Tasa_Mesa": 0.86,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8df"
+  },
+  "Año": 4,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e0"
+  },
+  "Año": 4,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e1"
+  },
+  "Año": 4,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e2"
+  },
+  "Año": 4,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e3"
+  },
+  "Año": 4,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e4"
+  },
+  "Año": 4,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e5"
+  },
+  "Año": 4,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e6"
+  },
+  "Año": 4,
+  "Semana": 30,
+  "Tasa_Mesa": 0.26,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e7"
+  },
+  "Año": 4,
+  "Semana": 30,
+  "Tasa_Mesa": 0.26,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e8"
+  },
+  "Año": 4,
+  "Semana": 30,
+  "Tasa_Mesa": 0.26,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e9"
+  },
+  "Año": 4,
+  "Semana": 30,
+  "Tasa_Mesa": 0.26,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ea"
+  },
+  "Año": 4,
+  "Semana": 30,
+  "Tasa_Mesa": 0.26,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8eb"
+  },
+  "Año": 4,
+  "Semana": 30,
+  "Tasa_Mesa": 0.26,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ec"
+  },
+  "Año": 4,
+  "Semana": 30,
+  "Tasa_Mesa": 0.26,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ed"
+  },
+  "Año": 4,
+  "Semana": 31,
+  "Tasa_Mesa": 0.25,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ee"
+  },
+  "Año": 4,
+  "Semana": 31,
+  "Tasa_Mesa": 0.25,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ef"
+  },
+  "Año": 4,
+  "Semana": 31,
+  "Tasa_Mesa": 0.25,
+  "Temporada": "Temporada_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f0"
+  },
+  "Año": 5,
+  "Semana": 1,
+  "Tasa_Mesa": 1.75,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f1"
+  },
+  "Año": 5,
+  "Semana": 1,
+  "Tasa_Mesa": 1.75,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f2"
+  },
+  "Año": 5,
+  "Semana": 1,
+  "Tasa_Mesa": 1.75,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f3"
+  },
+  "Año": 5,
+  "Semana": 1,
+  "Tasa_Mesa": 1.75,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f4"
+  },
+  "Año": 5,
+  "Semana": 1,
+  "Tasa_Mesa": 1.75,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f5"
+  },
+  "Año": 5,
+  "Semana": 1,
+  "Tasa_Mesa": 1.75,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f6"
+  },
+  "Año": 5,
+  "Semana": 1,
+  "Tasa_Mesa": 1.75,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f7"
+  },
+  "Año": 5,
+  "Semana": 2,
+  "Tasa_Mesa": 1.86,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f8"
+  },
+  "Año": 5,
+  "Semana": 2,
+  "Tasa_Mesa": 1.86,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f9"
+  },
+  "Año": 5,
+  "Semana": 2,
+  "Tasa_Mesa": 1.86,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8fa"
+  },
+  "Año": 5,
+  "Semana": 2,
+  "Tasa_Mesa": 1.86,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8fb"
+  },
+  "Año": 5,
+  "Semana": 2,
+  "Tasa_Mesa": 1.86,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8fc"
+  },
+  "Año": 5,
+  "Semana": 2,
+  "Tasa_Mesa": 1.86,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8fd"
+  },
+  "Año": 5,
+  "Semana": 2,
+  "Tasa_Mesa": 1.86,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8fe"
+  },
+  "Año": 5,
+  "Semana": 3,
+  "Tasa_Mesa": 2,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ff"
+  },
+  "Año": 5,
+  "Semana": 3,
+  "Tasa_Mesa": 2,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e900"
+  },
+  "Año": 5,
+  "Semana": 3,
+  "Tasa_Mesa": 2,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e901"
+  },
+  "Año": 5,
+  "Semana": 3,
+  "Tasa_Mesa": 2,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e902"
+  },
+  "Año": 5,
+  "Semana": 3,
+  "Tasa_Mesa": 2,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e903"
+  },
+  "Año": 5,
+  "Semana": 3,
+  "Tasa_Mesa": 2,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e904"
+  },
+  "Año": 5,
+  "Semana": 3,
+  "Tasa_Mesa": 2,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e905"
+  },
+  "Año": 5,
+  "Semana": 4,
+  "Tasa_Mesa": 1.94,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e906"
+  },
+  "Año": 5,
+  "Semana": 4,
+  "Tasa_Mesa": 1.94,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e907"
+  },
+  "Año": 5,
+  "Semana": 4,
+  "Tasa_Mesa": 1.94,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e908"
+  },
+  "Año": 5,
+  "Semana": 4,
+  "Tasa_Mesa": 1.94,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e909"
+  },
+  "Año": 5,
+  "Semana": 4,
+  "Tasa_Mesa": 1.94,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e90a"
+  },
+  "Año": 5,
+  "Semana": 4,
+  "Tasa_Mesa": 1.94,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e90b"
+  },
+  "Año": 5,
+  "Semana": 4,
+  "Tasa_Mesa": 1.94,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e90c"
+  },
+  "Año": 5,
+  "Semana": 5,
+  "Tasa_Mesa": 1.59,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e90d"
+  },
+  "Año": 5,
+  "Semana": 5,
+  "Tasa_Mesa": 1.59,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e90e"
+  },
+  "Año": 5,
+  "Semana": 5,
+  "Tasa_Mesa": 1.59,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e90f"
+  },
+  "Año": 5,
+  "Semana": 5,
+  "Tasa_Mesa": 1.59,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e910"
+  },
+  "Año": 5,
+  "Semana": 5,
+  "Tasa_Mesa": 1.59,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e911"
+  },
+  "Año": 5,
+  "Semana": 5,
+  "Tasa_Mesa": 1.59,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e912"
+  },
+  "Año": 5,
+  "Semana": 5,
+  "Tasa_Mesa": 1.59,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e913"
+  },
+  "Año": 5,
+  "Semana": 6,
+  "Tasa_Mesa": 1.41,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e914"
+  },
+  "Año": 5,
+  "Semana": 6,
+  "Tasa_Mesa": 1.41,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e915"
+  },
+  "Año": 5,
+  "Semana": 6,
+  "Tasa_Mesa": 1.41,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e916"
+  },
+  "Año": 5,
+  "Semana": 6,
+  "Tasa_Mesa": 1.41,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e917"
+  },
+  "Año": 5,
+  "Semana": 6,
+  "Tasa_Mesa": 1.41,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e918"
+  },
+  "Año": 5,
+  "Semana": 6,
+  "Tasa_Mesa": 1.41,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e919"
+  },
+  "Año": 5,
+  "Semana": 6,
+  "Tasa_Mesa": 1.41,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e91a"
+  },
+  "Año": 5,
+  "Semana": 7,
+  "Tasa_Mesa": 1.32,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e91b"
+  },
+  "Año": 5,
+  "Semana": 7,
+  "Tasa_Mesa": 1.32,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e91c"
+  },
+  "Año": 5,
+  "Semana": 7,
+  "Tasa_Mesa": 1.32,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e91d"
+  },
+  "Año": 5,
+  "Semana": 7,
+  "Tasa_Mesa": 1.32,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e91e"
+  },
+  "Año": 5,
+  "Semana": 7,
+  "Tasa_Mesa": 1.32,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e91f"
+  },
+  "Año": 5,
+  "Semana": 7,
+  "Tasa_Mesa": 1.32,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e920"
+  },
+  "Año": 5,
+  "Semana": 7,
+  "Tasa_Mesa": 1.32,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e921"
+  },
+  "Año": 5,
+  "Semana": 8,
+  "Tasa_Mesa": 1.26,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e922"
+  },
+  "Año": 5,
+  "Semana": 8,
+  "Tasa_Mesa": 1.26,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e923"
+  },
+  "Año": 5,
+  "Semana": 8,
+  "Tasa_Mesa": 1.26,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e924"
+  },
+  "Año": 5,
+  "Semana": 8,
+  "Tasa_Mesa": 1.26,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e925"
+  },
+  "Año": 5,
+  "Semana": 8,
+  "Tasa_Mesa": 1.26,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e926"
+  },
+  "Año": 5,
+  "Semana": 8,
+  "Tasa_Mesa": 1.26,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e927"
+  },
+  "Año": 5,
+  "Semana": 8,
+  "Tasa_Mesa": 1.26,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e928"
+  },
+  "Año": 5,
+  "Semana": 9,
+  "Tasa_Mesa": 1.27,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e929"
+  },
+  "Año": 5,
+  "Semana": 9,
+  "Tasa_Mesa": 1.27,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e92a"
+  },
+  "Año": 5,
+  "Semana": 9,
+  "Tasa_Mesa": 1.27,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e92b"
+  },
+  "Año": 5,
+  "Semana": 9,
+  "Tasa_Mesa": 1.27,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e92c"
+  },
+  "Año": 5,
+  "Semana": 9,
+  "Tasa_Mesa": 1.27,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e92d"
+  },
+  "Año": 5,
+  "Semana": 9,
+  "Tasa_Mesa": 1.27,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e92e"
+  },
+  "Año": 5,
+  "Semana": 9,
+  "Tasa_Mesa": 1.27,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e92f"
+  },
+  "Año": 5,
+  "Semana": 10,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e930"
+  },
+  "Año": 5,
+  "Semana": 10,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e931"
+  },
+  "Año": 5,
+  "Semana": 10,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e932"
+  },
+  "Año": 5,
+  "Semana": 10,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e933"
+  },
+  "Año": 5,
+  "Semana": 10,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e934"
+  },
+  "Año": 5,
+  "Semana": 10,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e935"
+  },
+  "Año": 5,
+  "Semana": 10,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e936"
+  },
+  "Año": 5,
+  "Semana": 11,
+  "Tasa_Mesa": 0.85,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e937"
+  },
+  "Año": 5,
+  "Semana": 11,
+  "Tasa_Mesa": 0.85,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e938"
+  },
+  "Año": 5,
+  "Semana": 11,
+  "Tasa_Mesa": 0.85,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e939"
+  },
+  "Año": 5,
+  "Semana": 11,
+  "Tasa_Mesa": 0.85,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e93a"
+  },
+  "Año": 5,
+  "Semana": 11,
+  "Tasa_Mesa": 0.85,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e93b"
+  },
+  "Año": 5,
+  "Semana": 11,
+  "Tasa_Mesa": 0.85,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e93c"
+  },
+  "Año": 5,
+  "Semana": 11,
+  "Tasa_Mesa": 0.85,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e93d"
+  },
+  "Año": 5,
+  "Semana": 12,
+  "Tasa_Mesa": 0.76,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e93e"
+  },
+  "Año": 5,
+  "Semana": 12,
+  "Tasa_Mesa": 0.76,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e93f"
+  },
+  "Año": 5,
+  "Semana": 12,
+  "Tasa_Mesa": 0.76,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e940"
+  },
+  "Año": 5,
+  "Semana": 12,
+  "Tasa_Mesa": 0.76,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e941"
+  },
+  "Año": 5,
+  "Semana": 12,
+  "Tasa_Mesa": 0.76,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e942"
+  },
+  "Año": 5,
+  "Semana": 12,
+  "Tasa_Mesa": 0.76,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e943"
+  },
+  "Año": 5,
+  "Semana": 12,
+  "Tasa_Mesa": 0.76,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e944"
+  },
+  "Año": 5,
+  "Semana": 13,
+  "Tasa_Mesa": 0.7,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e945"
+  },
+  "Año": 5,
+  "Semana": 13,
+  "Tasa_Mesa": 0.7,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e946"
+  },
+  "Año": 5,
+  "Semana": 13,
+  "Tasa_Mesa": 0.7,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e947"
+  },
+  "Año": 5,
+  "Semana": 13,
+  "Tasa_Mesa": 0.7,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e948"
+  },
+  "Año": 5,
+  "Semana": 13,
+  "Tasa_Mesa": 0.7,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e949"
+  },
+  "Año": 5,
+  "Semana": 13,
+  "Tasa_Mesa": 0.7,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e94a"
+  },
+  "Año": 5,
+  "Semana": 13,
+  "Tasa_Mesa": 0.7,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e94b"
+  },
+  "Año": 5,
+  "Semana": 14,
+  "Tasa_Mesa": 0.79,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e94c"
+  },
+  "Año": 5,
+  "Semana": 14,
+  "Tasa_Mesa": 0.79,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e94d"
+  },
+  "Año": 5,
+  "Semana": 14,
+  "Tasa_Mesa": 0.79,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e94e"
+  },
+  "Año": 5,
+  "Semana": 14,
+  "Tasa_Mesa": 0.79,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e94f"
+  },
+  "Año": 5,
+  "Semana": 14,
+  "Tasa_Mesa": 0.79,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e950"
+  },
+  "Año": 5,
+  "Semana": 14,
+  "Tasa_Mesa": 0.79,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e951"
+  },
+  "Año": 5,
+  "Semana": 14,
+  "Tasa_Mesa": 0.79,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e952"
+  },
+  "Año": 5,
+  "Semana": 15,
+  "Tasa_Mesa": 0.78,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e953"
+  },
+  "Año": 5,
+  "Semana": 15,
+  "Tasa_Mesa": 0.78,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e954"
+  },
+  "Año": 5,
+  "Semana": 15,
+  "Tasa_Mesa": 0.78,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e955"
+  },
+  "Año": 5,
+  "Semana": 15,
+  "Tasa_Mesa": 0.78,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e956"
+  },
+  "Año": 5,
+  "Semana": 15,
+  "Tasa_Mesa": 0.78,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e957"
+  },
+  "Año": 5,
+  "Semana": 15,
+  "Tasa_Mesa": 0.78,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e958"
+  },
+  "Año": 5,
+  "Semana": 15,
+  "Tasa_Mesa": 0.78,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e959"
+  },
+  "Año": 5,
+  "Semana": 16,
+  "Tasa_Mesa": 1.28,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e95a"
+  },
+  "Año": 5,
+  "Semana": 16,
+  "Tasa_Mesa": 1.28,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e95b"
+  },
+  "Año": 5,
+  "Semana": 16,
+  "Tasa_Mesa": 1.28,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e95c"
+  },
+  "Año": 5,
+  "Semana": 16,
+  "Tasa_Mesa": 1.28,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e95d"
+  },
+  "Año": 5,
+  "Semana": 16,
+  "Tasa_Mesa": 1.28,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e95e"
+  },
+  "Año": 5,
+  "Semana": 16,
+  "Tasa_Mesa": 1.28,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e95f"
+  },
+  "Año": 5,
+  "Semana": 16,
+  "Tasa_Mesa": 1.28,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e960"
+  },
+  "Año": 5,
+  "Semana": 17,
+  "Tasa_Mesa": 1.24,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e961"
+  },
+  "Año": 5,
+  "Semana": 17,
+  "Tasa_Mesa": 1.24,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e962"
+  },
+  "Año": 5,
+  "Semana": 17,
+  "Tasa_Mesa": 1.24,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e963"
+  },
+  "Año": 5,
+  "Semana": 17,
+  "Tasa_Mesa": 1.24,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e964"
+  },
+  "Año": 5,
+  "Semana": 17,
+  "Tasa_Mesa": 1.24,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e965"
+  },
+  "Año": 5,
+  "Semana": 17,
+  "Tasa_Mesa": 1.24,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e966"
+  },
+  "Año": 5,
+  "Semana": 17,
+  "Tasa_Mesa": 1.24,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e967"
+  },
+  "Año": 5,
+  "Semana": 18,
+  "Tasa_Mesa": 1.19,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e968"
+  },
+  "Año": 5,
+  "Semana": 18,
+  "Tasa_Mesa": 1.19,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e969"
+  },
+  "Año": 5,
+  "Semana": 18,
+  "Tasa_Mesa": 1.19,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e96a"
+  },
+  "Año": 5,
+  "Semana": 18,
+  "Tasa_Mesa": 1.19,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e96b"
+  },
+  "Año": 5,
+  "Semana": 18,
+  "Tasa_Mesa": 1.19,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e96c"
+  },
+  "Año": 5,
+  "Semana": 18,
+  "Tasa_Mesa": 1.19,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e96d"
+  },
+  "Año": 5,
+  "Semana": 18,
+  "Tasa_Mesa": 1.19,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e96e"
+  },
+  "Año": 5,
+  "Semana": 19,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e96f"
+  },
+  "Año": 5,
+  "Semana": 19,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e970"
+  },
+  "Año": 5,
+  "Semana": 19,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e971"
+  },
+  "Año": 5,
+  "Semana": 19,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e972"
+  },
+  "Año": 5,
+  "Semana": 19,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e973"
+  },
+  "Año": 5,
+  "Semana": 19,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e974"
+  },
+  "Año": 5,
+  "Semana": 19,
+  "Tasa_Mesa": 1.01,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e975"
+  },
+  "Año": 5,
+  "Semana": 20,
+  "Tasa_Mesa": 1.12,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e976"
+  },
+  "Año": 5,
+  "Semana": 20,
+  "Tasa_Mesa": 1.12,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e977"
+  },
+  "Año": 5,
+  "Semana": 20,
+  "Tasa_Mesa": 1.12,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e978"
+  },
+  "Año": 5,
+  "Semana": 20,
+  "Tasa_Mesa": 1.12,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e979"
+  },
+  "Año": 5,
+  "Semana": 20,
+  "Tasa_Mesa": 1.12,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e97a"
+  },
+  "Año": 5,
+  "Semana": 20,
+  "Tasa_Mesa": 1.12,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e97b"
+  },
+  "Año": 5,
+  "Semana": 20,
+  "Tasa_Mesa": 1.12,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e97c"
+  },
+  "Año": 5,
+  "Semana": 21,
+  "Tasa_Mesa": 1.08,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e97d"
+  },
+  "Año": 5,
+  "Semana": 21,
+  "Tasa_Mesa": 1.08,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e97e"
+  },
+  "Año": 5,
+  "Semana": 21,
+  "Tasa_Mesa": 1.08,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e97f"
+  },
+  "Año": 5,
+  "Semana": 21,
+  "Tasa_Mesa": 1.08,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e980"
+  },
+  "Año": 5,
+  "Semana": 21,
+  "Tasa_Mesa": 1.08,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e981"
+  },
+  "Año": 5,
+  "Semana": 21,
+  "Tasa_Mesa": 1.08,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e982"
+  },
+  "Año": 5,
+  "Semana": 21,
+  "Tasa_Mesa": 1.08,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e983"
+  },
+  "Año": 5,
+  "Semana": 22,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e984"
+  },
+  "Año": 5,
+  "Semana": 22,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e985"
+  },
+  "Año": 5,
+  "Semana": 22,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e986"
+  },
+  "Año": 5,
+  "Semana": 22,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e987"
+  },
+  "Año": 5,
+  "Semana": 22,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e988"
+  },
+  "Año": 5,
+  "Semana": 22,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e989"
+  },
+  "Año": 5,
+  "Semana": 22,
+  "Tasa_Mesa": 1.13,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e98a"
+  },
+  "Año": 5,
+  "Semana": 23,
+  "Tasa_Mesa": 0.93,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e98b"
+  },
+  "Año": 5,
+  "Semana": 23,
+  "Tasa_Mesa": 0.93,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e98c"
+  },
+  "Año": 5,
+  "Semana": 23,
+  "Tasa_Mesa": 0.93,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e98d"
+  },
+  "Año": 5,
+  "Semana": 23,
+  "Tasa_Mesa": 0.93,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e98e"
+  },
+  "Año": 5,
+  "Semana": 23,
+  "Tasa_Mesa": 0.93,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e98f"
+  },
+  "Año": 5,
+  "Semana": 23,
+  "Tasa_Mesa": 0.93,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e990"
+  },
+  "Año": 5,
+  "Semana": 23,
+  "Tasa_Mesa": 0.93,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e991"
+  },
+  "Año": 5,
+  "Semana": 24,
+  "Tasa_Mesa": 0.88,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e992"
+  },
+  "Año": 5,
+  "Semana": 24,
+  "Tasa_Mesa": 0.88,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e993"
+  },
+  "Año": 5,
+  "Semana": 24,
+  "Tasa_Mesa": 0.88,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e994"
+  },
+  "Año": 5,
+  "Semana": 24,
+  "Tasa_Mesa": 0.88,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e995"
+  },
+  "Año": 5,
+  "Semana": 24,
+  "Tasa_Mesa": 0.88,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e996"
+  },
+  "Año": 5,
+  "Semana": 24,
+  "Tasa_Mesa": 0.88,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e997"
+  },
+  "Año": 5,
+  "Semana": 24,
+  "Tasa_Mesa": 0.88,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e998"
+  },
+  "Año": 5,
+  "Semana": 25,
+  "Tasa_Mesa": 0.79,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e999"
+  },
+  "Año": 5,
+  "Semana": 25,
+  "Tasa_Mesa": 0.79,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e99a"
+  },
+  "Año": 5,
+  "Semana": 25,
+  "Tasa_Mesa": 0.79,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e99b"
+  },
+  "Año": 5,
+  "Semana": 25,
+  "Tasa_Mesa": 0.79,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e99c"
+  },
+  "Año": 5,
+  "Semana": 25,
+  "Tasa_Mesa": 0.79,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e99d"
+  },
+  "Año": 5,
+  "Semana": 25,
+  "Tasa_Mesa": 0.79,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e99e"
+  },
+  "Año": 5,
+  "Semana": 25,
+  "Tasa_Mesa": 0.79,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e99f"
+  },
+  "Año": 5,
+  "Semana": 26,
+  "Tasa_Mesa": 0.74,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a0"
+  },
+  "Año": 5,
+  "Semana": 26,
+  "Tasa_Mesa": 0.74,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a1"
+  },
+  "Año": 5,
+  "Semana": 26,
+  "Tasa_Mesa": 0.74,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a2"
+  },
+  "Año": 5,
+  "Semana": 26,
+  "Tasa_Mesa": 0.74,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a3"
+  },
+  "Año": 5,
+  "Semana": 26,
+  "Tasa_Mesa": 0.74,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a4"
+  },
+  "Año": 5,
+  "Semana": 26,
+  "Tasa_Mesa": 0.74,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a5"
+  },
+  "Año": 5,
+  "Semana": 26,
+  "Tasa_Mesa": 0.74,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a6"
+  },
+  "Año": 5,
+  "Semana": 27,
+  "Tasa_Mesa": 0.53,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a7"
+  },
+  "Año": 5,
+  "Semana": 27,
+  "Tasa_Mesa": 0.53,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a8"
+  },
+  "Año": 5,
+  "Semana": 27,
+  "Tasa_Mesa": 0.53,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a9"
+  },
+  "Año": 5,
+  "Semana": 27,
+  "Tasa_Mesa": 0.53,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9aa"
+  },
+  "Año": 5,
+  "Semana": 27,
+  "Tasa_Mesa": 0.53,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9ab"
+  },
+  "Año": 5,
+  "Semana": 27,
+  "Tasa_Mesa": 0.53,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9ac"
+  },
+  "Año": 5,
+  "Semana": 27,
+  "Tasa_Mesa": 0.53,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9ad"
+  },
+  "Año": 5,
+  "Semana": 28,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9ae"
+  },
+  "Año": 5,
+  "Semana": 28,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9af"
+  },
+  "Año": 5,
+  "Semana": 28,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b0"
+  },
+  "Año": 5,
+  "Semana": 28,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b1"
+  },
+  "Año": 5,
+  "Semana": 28,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b2"
+  },
+  "Año": 5,
+  "Semana": 28,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b3"
+  },
+  "Año": 5,
+  "Semana": 28,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b4"
+  },
+  "Año": 5,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b5"
+  },
+  "Año": 5,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b6"
+  },
+  "Año": 5,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b7"
+  },
+  "Año": 5,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b8"
+  },
+  "Año": 5,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b9"
+  },
+  "Año": 5,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9ba"
+  },
+  "Año": 5,
+  "Semana": 29,
+  "Tasa_Mesa": 0.43,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9bb"
+  },
+  "Año": 5,
+  "Semana": 30,
+  "Tasa_Mesa": 0.17,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9bc"
+  },
+  "Año": 5,
+  "Semana": 30,
+  "Tasa_Mesa": 0.17,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9bd"
+  },
+  "Año": 5,
+  "Semana": 30,
+  "Tasa_Mesa": 0.17,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9be"
+  },
+  "Año": 5,
+  "Semana": 30,
+  "Tasa_Mesa": 0.17,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9bf"
+  },
+  "Año": 5,
+  "Semana": 30,
+  "Tasa_Mesa": 0.17,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9c0"
+  },
+  "Año": 5,
+  "Semana": 30,
+  "Tasa_Mesa": 0.17,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9c1"
+  },
+  "Año": 5,
+  "Semana": 30,
+  "Tasa_Mesa": 0.17,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9c2"
+  },
+  "Año": 5,
+  "Semana": 31,
+  "Tasa_Mesa": 0.19,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9c3"
+  },
+  "Año": 5,
+  "Semana": 31,
+  "Tasa_Mesa": 0.19,
+  "Temporada": "Temporada_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9c4"
+  },
+  "Año": 5,
+  "Semana": 31,
+  "Tasa_Mesa": 0.19,
+  "Temporada": "Temporada_5"
+}]

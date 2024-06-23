@@ -1,0 +1,396 @@
+[{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580badf"
+  },
+  "Rol": "189-264",
+  "Id_Parcela": 5803,
+  "Grupo": "Cereales",
+  "Subcla1920": "Maiz",
+  "Superficie": 3.2,
+  "Acciones": 1.6,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 1,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Egoista",
+  "OUA": 1,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580bae0"
+  },
+  "Rol": "189-265",
+  "Id_Parcela": 5802,
+  "Grupo": "Cereales",
+  "Subcla1920": "Trigo",
+  "Superficie": 4.9,
+  "Acciones": 2.45,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 2,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Colaborador",
+  "OUA": 1,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580bae1"
+  },
+  "Rol": "189-259",
+  "Id_Parcela": 5970,
+  "Grupo": "Frutales menores",
+  "Subcla1920": "Arandano americano",
+  "Superficie": 7,
+  "Acciones": 3.5,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 5,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Egoista",
+  "OUA": 1,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580bae2"
+  },
+  "Rol": "189-260",
+  "Id_Parcela": 5798,
+  "Grupo": "Hortalizas",
+  "Subcla1920": "Esparragos",
+  "Superficie": 7.9,
+  "Acciones": 3.95,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 2,
+  "Orden_Turno": 1,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Neutral",
+  "OUA": 2,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580bae3"
+  },
+  "Rol": "180-258",
+  "Id_Parcela": 5890,
+  "Grupo": "Cereales",
+  "Subcla1920": "Maiz",
+  "Superficie": 1.9,
+  "Acciones": 0.95,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 8,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Colaborador",
+  "OUA": 1,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580bae5"
+  },
+  "Rol": "189-263",
+  "Id_Parcela": 5891,
+  "Grupo": "Cereales",
+  "Subcla1920": "Trigo",
+  "Superficie": 6.9,
+  "Acciones": 3.45,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 3,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Neutral",
+  "OUA": 1,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580bae6"
+  },
+  "Rol": "189-263",
+  "Id_Parcela": 5801,
+  "Grupo": "Forrajeras",
+  "Subcla1920": "Alfalfa",
+  "Superficie": 1.7,
+  "Acciones": 0.85,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 2,
+  "Orden_Turno": 4,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Egoista",
+  "OUA": 1,
+  "Dia_Riego": 1
+},
+{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580bae4"
+  },
+  "Rol": "189-258",
+  "Id_Parcela": 5889,
+  "Grupo": "Cereales",
+  "Subcla1920": "Maiz",
+  "Superficie": 6.6,
+  "Acciones": 3.3,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 9,
+  "Aplicacion_R": "Tendido",
+  "Personalidad": "Colaborador",
+  "OUA": 1,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535cd"
+  },
+  "Rol": "189-80",
+  "Id_Parcela": 5730,
+  "Grupo": "Cultivo Industrial",
+  "Subcla1920": "Alamo",
+  "Superficie": 5.5,
+  "Acciones": 2.75,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 7,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Egoista",
+  "OUA": 2,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535ce"
+  },
+  "Rol": "189-255",
+  "Id_Parcela": 5726,
+  "Grupo": "Forrajeras",
+  "Subcla1920": "Alfalfa",
+  "Superficie": 3,
+  "Acciones": 1.5,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 2,
+  "Orden_Turno": 4,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Colaborador",
+  "OUA": 2,
+  "Dia_Riego": 1
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535cf"
+  },
+  "Rol": "189-255",
+  "Id_Parcela": 5728,
+  "Grupo": "Forrajeras",
+  "Subcla1920": "Alfalfa",
+  "Superficie": 2.7,
+  "Acciones": 1.35,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 2,
+  "Orden_Turno": 3,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Neutral",
+  "OUA": 2,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d0"
+  },
+  "Rol": "189-255",
+  "Id_Parcela": 5729,
+  "Grupo": "Forrajeras",
+  "Subcla1920": "Alfalfa",
+  "Superficie": 0.9,
+  "Acciones": 0.45,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 2,
+  "Orden_Turno": 8,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Egoista",
+  "OUA": 2,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d1"
+  },
+  "Rol": "189-238",
+  "Id_Parcela": 5795,
+  "Grupo": "Forrajeras",
+  "Subcla1920": "Alfalfa",
+  "Superficie": 11.2,
+  "Acciones": 5.6,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 2,
+  "Orden_Turno": 6,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Egoista",
+  "OUA": 2,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d2"
+  },
+  "Rol": "ST-32",
+  "Id_Parcela": 5835,
+  "Grupo": "Hortalizas",
+  "Subcla1920": "Esparragos",
+  "Superficie": 1.7,
+  "Acciones": 0.85,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 3,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Neutral",
+  "OUA": 3,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d3"
+  },
+  "Rol": "189-252",
+  "Id_Parcela": 5796,
+  "Grupo": "Cereales",
+  "Subcla1920": "Maiz",
+  "Superficie": 2.9,
+  "Acciones": 1.45,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 5,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Colaborador",
+  "OUA": 2,
+  "Dia_Riego": 1
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d4"
+  },
+  "Rol": "180-257",
+  "Id_Parcela": 5800,
+  "Grupo": "Cereales",
+  "Subcla1920": "Maiz",
+  "Superficie": 3.5,
+  "Acciones": 1.75,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 1,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Egoista",
+  "OUA": 3,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d5"
+  },
+  "Rol": "189-254",
+  "Id_Parcela": 5837,
+  "Grupo": "Cereales",
+  "Subcla1920": "Maiz",
+  "Superficie": 7.7,
+  "Acciones": 3.85,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 5,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Egoista",
+  "OUA": 3,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d6"
+  },
+  "Rol": "189-261",
+  "Id_Parcela": 5944,
+  "Grupo": "Cereales",
+  "Subcla1920": "Maiz",
+  "Superficie": 2,
+  "Acciones": 1,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 6,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Egoista",
+  "OUA": 1,
+  "Dia_Riego": 1
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d7"
+  },
+  "Rol": "189-259",
+  "Id_Parcela": 5971,
+  "Grupo": "Cereales",
+  "Subcla1920": "Maiz",
+  "Superficie": 2.8,
+  "Acciones": 1.4,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 7,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Neutral",
+  "OUA": 1,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d8"
+  },
+  "Rol": "189-260",
+  "Id_Parcela": 5797,
+  "Grupo": "Cereales",
+  "Subcla1920": "Trigo",
+  "Superficie": 5.3,
+  "Acciones": 2.65,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 2,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Colaborador",
+  "OUA": 2,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d9"
+  },
+  "Rol": "189-257",
+  "Id_Parcela": 5799,
+  "Grupo": "Cereales",
+  "Subcla1920": "Trigo",
+  "Superficie": 7.9,
+  "Acciones": 3.95,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 2,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Egoista",
+  "OUA": 3,
+  "Dia_Riego": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535da"
+  },
+  "Rol": "189-254",
+  "Id_Parcela": 5836,
+  "Grupo": "Cereales",
+  "Subcla1920": "Trigo",
+  "Superficie": 5.1,
+  "Acciones": 2.55,
+  "Bocatoma": "Primera Abajo",
+  "Prioridad_crop": 1,
+  "Orden_Turno": 4,
+  "Aplicacion_R": "Surco",
+  "Personalidad": "Colaborador",
+  "OUA": 3,
+  "Dia_Riego": 2
+}]
