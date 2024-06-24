@@ -80,11 +80,16 @@ classDiagram
     Crop --> Farmer_Agent
 ```
 ```mermaid
-graph TD
-    A[Aplicación] --> B
-    style B fill:#f9f,stroke:#333,stroke-width:4px;
-    class B className;
-    classDef className style fill:#f9f,stroke:#333,stroke-width:4px,shape:cylinder;
+classDiagram
+    class Aplicacion {
+        +operacion()
+    }
+    class BaseDeDatos {
+        +consulta()
+        +inserta()
+    }
+    Aplicacion --> BaseDeDatos : lee/escribe
+    
 ```
 ## Results
 
