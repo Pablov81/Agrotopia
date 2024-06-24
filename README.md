@@ -58,7 +58,17 @@ classDiagram
     }
 
     class Farmer_Agent {
-        +Valor()
+        show_Agricultor_data()
+        fusionar_datos()
+        Ag_tasas_ordenadas():
+        recibe_crop()
+        organizar_info_crop()
+        insumo_Ag()
+        preparar_rx_Ag()
+        organizar_datos()
+        calcular_rx_Ag()
+        organiza_accion_Ag()
+        influencia_entorno()
     }
 
     class Crop {
