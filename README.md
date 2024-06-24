@@ -102,12 +102,13 @@ classDiagram
 ```
 
  ```  mermaid
-stateDiagram
-    [*] --> Ocioso
-    Ocioso --> Ejecutando : EventoInicio
-    Ejecutando --> Ocioso : EventoPausa
-    Ejecutando --> Finalizado : EventoFin
-    Finalizado --> [*]
+fishbone
+    title Causa y Efecto
+    Efecto <-- Identificación de problema
+    Efecto <-- Análisis de causa
+    Efecto <-- Implementación de solución
+    Efecto <-- Revisión y mejora
+
 
 
 ```
