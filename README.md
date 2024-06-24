@@ -91,7 +91,9 @@ classDiagram
     }
 
     class Infraestructure {
-        +hola
+        canal_coat
+        irrigation_tech
+        reservoir
     }
 
     class Economic_changes {
