@@ -87,7 +87,7 @@ classDiagram
     }
 
     class Info_Mix {
-        +hola
+        obtener_informacion()
     }
 
     class Infraestructure {
