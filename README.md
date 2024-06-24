@@ -90,7 +90,7 @@ classDiagram
         +hola
     }
 
-    class Econimic_changes {
+    class Economic_changes {
         +hola
     }
 
