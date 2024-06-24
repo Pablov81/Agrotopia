@@ -2,7 +2,7 @@
 ## About this Repository
 Este repositorio fue realizada en el marco de la investigacion doctoral de Pablo Velásquez Cisterna, Methodology for the Development of Potential Scenarios for the Integrated Management of Watershed Water Resources durante los años 2019-2024. La cual fue supervisada por el Dr. Mario Lillo Saavedra
 
-En Universwidad de concepcion, programa de 
+En Universwidad de concepcion, programa de Doctorado Recursos hidricos para la agricultura
 ## Abstract
 
 
@@ -21,7 +21,7 @@ PRueba de texto
 </details>
 
 ## Data
-La informacion utilizada en la base de datos MongoDb (AgroDB) está en la carpeta Data del proyecto
+La informacion utilizada en la base de datos MongoDb (AgroDB) está en la carpeta Data del proyecto, es la necesaria para las cuatro colecciones en MongoDb, Farmer_Table, Crop_Demand, Crop_Table y Offer_Table.
 
 ![alt text](https://github.com/Pablov81/Agrotopia/blob/main/images/AgroDb.png?raw=true)
 
