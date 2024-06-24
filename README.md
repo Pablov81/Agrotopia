@@ -105,13 +105,13 @@ classDiagram
         variacion_economica()
     }
 
-    Water_Board --> Canal_Administrator: water_actions, stock_rates
+    Water_Board --> Canal_Administrator: wb_rates
     Canal_Administrator --> Farmer_Agent: board_name, table_rates
     MongoDB --> Water_Board: water board rates
     MongoDB --> Farmer_Agent: farmer data
     MongoDB --> Crop: Crop demand rates
     Farmer_Agent --> Crop: delivery_rates_ag
-    Farmer_Agent --> Decission:hola 🥇
+    Farmer_Agent --> Decission
     Info_Mix-->Farmer_Agent
     Economic_changes-->Farmer_Agent
     Infraestructure-->Canal_Administrator
