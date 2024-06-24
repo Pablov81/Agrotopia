@@ -46,6 +46,10 @@ hola= pd.csv_read('Path\file', sep='')
 ```mermaid
 classDiagram
     class MongoDB {
+        Farmer_Table
+        Crop_Demand
+        Crop_Table
+        Offer_Table
     }
 
     class Water_Board {
