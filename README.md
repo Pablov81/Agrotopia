@@ -65,6 +65,10 @@ classDiagram
         +list crop_data
     }
 
+    class Decission {
+        +hola
+    }
+
 
 
     MongoDB --> Water_Board: water board rates
@@ -73,6 +77,7 @@ classDiagram
     Water_Board --> Canal_Administrator: water_actions, stock_rates
     Canal_Administrator --> Farmer_Agent: board_name, table_rates
     Farmer_Agent --> Crop: crop_data, delivery_rates_ag
+    Farmer_agent <--> Decission:hola 🥇
     Crop --> Farmer_Agent
 ```
 
