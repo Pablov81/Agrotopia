@@ -21,6 +21,7 @@ PRueba de texto
 </details>
 
 ## Data
+La informacion utilizada en la base de datos MongoDb (AgroDB) está en la carpeta Data del proyecto
 
 ![alt text](https://github.com/Pablov81/Agrotopia/blob/main/images/AgroDb.png?raw=true)
 
