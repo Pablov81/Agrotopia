@@ -82,7 +82,8 @@ classDiagram
     }
 
     class Decission {
-        +hola
+        calcular_percepcion()
+        decision_ag()
     }
 
     class Info_Mix {
@@ -94,7 +95,7 @@ classDiagram
     }
 
     class Economic_changes {
-        +hola
+        variacion_economica()
     }
 
     Water_Board --> Canal_Administrator: water_actions, stock_rates
