@@ -49,12 +49,15 @@ classDiagram
     }
 
     class Water_Board {
-        +string board_name
+        elegir_semana_y_abrir_embalse()
+        organizar_tasas_por_semana()
+        mostrar_cantidad_embalse()
     }
 
     class Canal_Administrator{
-        +string canal_name
-        +float channel_actions
+        obtener_tasas_reparto_ordenadas()
+        generar_calendario_riego()
+        calcular_reparto_Ag()
     }
 
     class Farmer_Agent {
