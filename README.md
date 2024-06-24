@@ -20,6 +20,13 @@ PRueba de texto
   <p>Same stuff here</p>
 </details>
 
+Area de Estudio,
+![alt text](https://github.com/Pablov81/Agrotopia/blob/main/images/primera_plot.png?raw=true)
+
+Area especifica,
+![alt text](https://github.com/Pablov81/Agrotopia/blob/main/images/plot_wuos_map.png?raw=true)
+
+
 ## Data
 La informacion utilizada en la base de datos MongoDb (AgroDB) está en la carpeta Data del proyecto, es la necesaria para las cuatro colecciones en MongoDb, Farmer_Table, Crop_Demand, Crop_Table y Offer_Table.
 
