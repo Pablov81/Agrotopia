@@ -69,21 +69,13 @@ classDiagram
 
     MongoDB <--> Water_Board: water board rates
     MongoDB <--> Farmer_Agent: farmer data
-    MongoDB <--> Info_Mix: Crop demand rates
-    MongoDB <--> Economic_Changes
+    MongoDB <--> Crop: Crop demand rates
     Water_Board --> Canal_Administrator: water_actions, stock_rates
-    Water_Board --> Farmer_Agent: board_name, table_rates
-    Water_Board --> Infrastructure: irrigation tech, canal rev, reservoir
-    Canal_Manager --> Farmer_Agent: canal_name, farmer_data, efficiency
-    Info_Mix --> Farmer_Agent: merge_data, input_Ag
+    Canal_Administrator --> Farmer_Agent: board_name, table_rates
     Farmer_Agent --> Crop: crop_data, delivery_rates_ag
     Crop --> Farmer_Agent
-    Economic_Changes --> Info_Mix: annual_dollar_value, market value
-    Decision --> Farmer_Agent: Calculate_perception, Farmer_decision
-
-
-
 ```
+
 
 
 ## Results
