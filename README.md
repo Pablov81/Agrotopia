@@ -52,13 +52,7 @@ classDiagram
         +string board_name
     }
 
-    class Infrastructure {
-        +canal_rev
-        +irrigation_tech
-        +reservoir
-    }
-
-    class Canal_Manager {
+    class Canal_Administrator{
         +string canal_name
         +float channel_actions
     }
@@ -67,23 +61,8 @@ classDiagram
         +Valor()
     }
 
-    class Decision {
-        +Calculate_perception()
-        +Farmer_decision()
-    }
-
     class Crop {
         +list crop_data
-    }
-
-    class Info_Mix {
-        +Personality_list()
-        ...
-    }
-
-    class Economic_Changes {
-        +annual_dollar_value
-        ... 
     }
 
 
@@ -92,7 +71,7 @@ classDiagram
     MongoDB <--> Farmer_Agent: farmer data
     MongoDB <--> Info_Mix: Crop demand rates
     MongoDB <--> Economic_Changes
-    Water_Board --> Canal_Manager: water_actions, stock_rates
+    Water_Board --> Canal_Administrator: water_actions, stock_rates
     Water_Board --> Farmer_Agent: board_name, table_rates
     Water_Board --> Infrastructure: irrigation tech, canal rev, reservoir
     Canal_Manager --> Farmer_Agent: canal_name, farmer_data, efficiency
