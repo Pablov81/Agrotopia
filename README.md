@@ -70,7 +70,11 @@ classDiagram
     }
 
 
-
+graph TD
+    A[Aplicación] --> B
+    style B fill:#f9f,stroke:#333,stroke-width:4px;
+    class B className;
+    classDef className style fill:#f9f,stroke:#333,stroke-width:4px,shape:cylinder;
 
     Water_Board --> Canal_Administrator: water_actions, stock_rates
     Canal_Administrator --> Farmer_Agent: board_name, table_rates
