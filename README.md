@@ -62,7 +62,10 @@ classDiagram
     }
 
     class Crop {
-        +list crop_data
+        ordenar_Ag()
+        ordenar_crop()
+        calcular_crop()
+        rx_crop()
     }
 
     class Decission {
