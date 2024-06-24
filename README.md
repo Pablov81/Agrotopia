@@ -79,17 +79,8 @@ classDiagram
     Farmer_Agent <--> Decission:hola 🥇
     Crop --> Farmer_Agent
 ```
-```mermaid
-classDiagram
-    class Aplicacion {
-        +operacion()
-    }
-    class BaseDeDatos {
-        +consulta()
-        +inserta()
-    }
-    Aplicacion --> BaseDeDatos : lee/escribe
-    
-```
+
+
+
 ## Results
 
