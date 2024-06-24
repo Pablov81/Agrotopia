@@ -102,14 +102,12 @@ classDiagram
 ```
 
  ```  mermaid
-fishbone
-    title Causa y Efecto
-    Efecto <-- Identificación de problema
-    Efecto <-- Análisis de causa
-    Efecto <-- Implementación de solución
-    Efecto <-- Revisión y mejora
-
-
+      fishbone
+          title Causa y Efecto
+          Efecto <-- Identificación de problema
+          Efecto <-- Análisis de causa
+          Efecto <-- Implementación de solución
+          Efecto <-- Revisión y mejora
 
 ```
 
