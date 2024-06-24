@@ -71,11 +71,12 @@ classDiagram
 
 
 
+
+    Water_Board --> Canal_Administrator: water_actions, stock_rates
+    Canal_Administrator --> Farmer_Agent: board_name, table_rates
     MongoDB --> Water_Board: water board rates
     MongoDB --> Farmer_Agent: farmer data
     MongoDB --> Crop: Crop demand rates
-    Water_Board --> Canal_Administrator: water_actions, stock_rates
-    Canal_Administrator --> Farmer_Agent: board_name, table_rates
     Farmer_Agent --> Crop: crop_data, delivery_rates_ag
     Farmer_Agent <--> Decission:hola 🥇
     Crop --> Farmer_Agent
