@@ -42,7 +42,7 @@ hola= pd.csv_read('Path\file', sep='')
 ## Use
 
 
-## Agrotopia Flow Diagram
+## Agrotopia Diagram
 
 ```mermaid
 classDiagram
