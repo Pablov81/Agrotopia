@@ -73,7 +73,13 @@ classDiagram
         +hola
     }
 
+    class Infraestructure {
+        +hola
+    }
 
+    class Econimic_changes {
+        +hola
+    }
 
     Water_Board --> Canal_Administrator: water_actions, stock_rates
     Canal_Administrator --> Farmer_Agent: board_name, table_rates
@@ -83,6 +89,7 @@ classDiagram
     Farmer_Agent --> Crop: delivery_rates_ag
     Farmer_Agent <--> Decission:hola 🥇
     Info_Mix-->Farmer_Agent
+    Infraestructure-->Canal_Administrator
     Crop --> Farmer_Agent:rx_crop()
 ```
 
