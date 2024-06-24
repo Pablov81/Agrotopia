@@ -104,7 +104,7 @@ classDiagram
     MongoDB --> Farmer_Agent: farmer data
     MongoDB --> Crop: Crop demand rates
     Farmer_Agent --> Crop: delivery_rates_ag
-    Farmer_Agent <--> Decission:hola 🥇
+    Farmer_Agent --> Decission:hola 🥇
     Info_Mix-->Farmer_Agent
     Infraestructure-->Canal_Administrator
     Crop --> Farmer_Agent:rx_crop()
