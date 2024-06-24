@@ -41,7 +41,7 @@ hola= pd.csv_read('Path\file', sep='')
 ## Use
 
 
-### Flow Diagram
+## Flow Diagram
 
 ```mermaid
 classDiagram
@@ -100,4 +100,4 @@ classDiagram
     Decision --> Farmer_Agent: Calculate_perception, Farmer_decision
 
 ```
-### Results
+## Results
