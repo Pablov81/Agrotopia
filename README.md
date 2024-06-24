@@ -112,6 +112,7 @@ classDiagram
     Farmer_Agent --> Crop: delivery_rates_ag
     Farmer_Agent --> Decission:hola 🥇
     Info_Mix-->Farmer_Agent
+    Economic_changes-->Farmer_Agent
     Infraestructure-->Canal_Administrator
     Crop --> Farmer_Agent:rx_crop()
 ```
