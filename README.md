@@ -86,6 +86,8 @@ classDiagram
         ... 
     }
 
+
+
     MongoDB <--> Water_Board: water board rates
     MongoDB <--> Farmer_Agent: farmer data
     MongoDB <--> Info_Mix: Crop demand rates
@@ -96,8 +98,11 @@ classDiagram
     Canal_Manager --> Farmer_Agent: canal_name, farmer_data, efficiency
     Info_Mix --> Farmer_Agent: merge_data, input_Ag
     Farmer_Agent --> Crop: crop_data, delivery_rates_ag
+    Crop --> Farmer_Agent
     Economic_Changes --> Info_Mix: annual_dollar_value, market value
     Decision --> Farmer_Agent: Calculate_perception, Farmer_decision
+
+
 
 ```
 
