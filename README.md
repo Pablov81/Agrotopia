@@ -60,7 +60,7 @@ classDiagram
     class Farmer_Agent {
         show_Agricultor_data()
         fusionar_datos()
-        Ag_tasas_ordenadas():
+        Ag_tasas_ordenadas()
         recibe_crop()
         organizar_info_crop()
         insumo_Ag()
