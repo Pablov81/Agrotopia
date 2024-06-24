@@ -106,11 +106,11 @@ classDiagram
     }
 
     Water_Board --> Canal_Administrator: wb_rates
-    Canal_Administrator --> Farmer_Agent: board_name, table_rates
-    MongoDB --> Water_Board: water board rates
-    MongoDB --> Farmer_Agent: farmer data
-    MongoDB --> Crop: Crop demand rates
-    Farmer_Agent --> Crop: delivery_rates_ag
+    Canal_Administrator --> Farmer_Agent: wb_rates
+    MongoDB --> Water_Board: wb_rates
+    MongoDB --> Farmer_Agent: farmer_data
+    MongoDB --> Crop: crop_rates
+    Farmer_Agent --> Crop: farmer_rates
     Farmer_Agent --> Decission
     Info_Mix-->Farmer_Agent
     Economic_changes-->Farmer_Agent
