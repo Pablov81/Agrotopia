@@ -1,8 +1,6 @@
 ## About this Repository
 
-Este repositorio fue realizado en el marco de la investigacion doctoral de Pablo Velásquez Cisterna, Methodology for the Development of Potential Scenarios for the Integrated Management of Watershed Water Resources durante los años 2019-2024. La cual fue supervisada por el Dr. Mario Lillo Saavedra
-
-En Universidad de Concepción, programa de Doctorado Recursos hidricos para la Agricultura
+This repository was created as part of the doctoral research of Pablo Velásquez Cisterna, Methodology for the Development of Potential Scenarios for the Integrated Management of Watershed Water Resources, conducted during the years 2019-2024. The research was supervised by Dr. Mario Lillo Saavedra at the University of Concepción, within the Doctorate Program in Water Resources for Agriculture.
 ## Abstract
 
 
