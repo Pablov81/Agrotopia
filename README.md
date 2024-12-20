@@ -22,6 +22,27 @@ Los datos recolectados mediante entrevistas, observaciones y encuestas alimentan
 
 ---
 
+### **📈 Resultados y Publicaciones**  
+
+#### **Resultados Clave de la Investigación**  
+- 🟢 **Patrones de Decisión:** Se observaron diferencias significativas en los patrones de toma de decisiones de los agentes según los niveles de supervisión y disponibilidad de agua.  
+- 🟢 **Gestión Adaptativa:** Los resultados destacan estrategias efectivas para la gestión adaptativa del agua, mejorando la sostenibilidad en áreas agrícolas afectadas por el cambio climático.  
+
+#### **Publicaciones Científicas**  
+
+- **Artículo 1:**  
+  **Título:** "Modelos Basados en Agentes para la Gestión Hídrica en la Cuenca del Río Longaví"  
+  **DOI:** [https://doi.org/XXXXXXXX](https://doi.org/XXXXXXXX)  
+  **Resumen:** Este artículo describe la implementación y validación del modelo SHABM (Socio-Hidrología y Modelos Basados en Agentes), destacando cómo las decisiones de riego de los agentes impactan la sostenibilidad del recurso hídrico.  
+
+- **Artículo 2:**  
+  **Título:** "Estrategias de Supervisión y Colaboración en Sistemas Socio-Hidrológicos"  
+  **DOI:** [https://doi.org/YYYYYYYY](https://doi.org/YYYYYYYY)  
+  **Resumen:** Se analiza cómo diferentes niveles de supervisión y colaboración entre usuarios del agua afectan la distribución y el uso sostenible del recurso.  
+
+---
+
+
 ### **🌍 Área de Estudio**  
 
 #### **Área General cambiar el mapa**  
