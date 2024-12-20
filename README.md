@@ -15,7 +15,8 @@ Para abordar estos problemas, el estudio integra la **Socio-Hidrología** con **
 La herramienta de simulación desarrollada utiliza **Python** y **MongoDB**, considerando variables como:  
 - Uso del suelo  
 - Demanda hídrica  
-- Factores económicos  
+- Factores económicos
+- Informe Social sobre preferencias de cultivo en función del valor del mercado del producto y resistencia a la sequía.  
 
 Los datos recolectados mediante entrevistas, observaciones y encuestas alimentan los modelos de simulación, permitiendo analizar comportamientos de usuarios **egoístas**, **neutrales** y **colaboradores**, según la disponibilidad de agua y los niveles de supervisión.  
 
@@ -23,7 +24,7 @@ Los datos recolectados mediante entrevistas, observaciones y encuestas alimentan
 
 ### **🌍 Área de Estudio**  
 
-#### **Área General**  
+#### **Área General cambiar el mapa**  
 ![Cuenca del Río Longaví](https://github.com/Pablov81/Agrotopia/blob/main/images/primera_plot.png?raw=true)  
 
 #### **Área Específica**  
@@ -55,48 +56,7 @@ La información almacenada en la base de datos **MongoDB (AgroDB)** se encuentra
 
 ### **📥 Instalación de Paquetes**  
 
-#### **Paso 1: Crear un entorno `conda`**  
-```bash
-conda create --name agrotopia_env python=3.9
-conda activate agrotopia_env
 
-
-## Contexto
-La implementación de esta herramienta consta de dos partes principales recopilacion de la informacion de demanda diaria de los cultivos
-la cuao esta en mm dia y es transformada a litros por segundos, se transforma a las a litros por segundo para ser ultilizada con lo referente a la oferta
-de agua en litros por segundo. los datos restantes se obtienen de sgun lo corresponda a cada cultivo rendidmiento, valor de mercado y otros lo cual es almancenado
-en la base de datos MongoDB llamada *AgroDB*
-PRueba de texto
-<details>
-  <summary>Title 1</summary>
-  <p>Some hidden content goes here</p>
-  Here is some more without a paragraph tag
-</details>
-<details>
-  <summary>Title 2</summary>
-  <p>Same stuff here</p>
-</details>
-
-Area de Estudio,
-![alt text](https://github.com/Pablov81/Agrotopia/blob/main/images/primera_plot.png?raw=true)
-
-Area especifica,
-![alt text](https://github.com/Pablov81/Agrotopia/blob/main/images/plot_wuos_map.png?raw=true)
-
-
-## Data
-La informacion utilizada en la base de datos MongoDb (AgroDB) está en la carpeta Data del proyecto, es la necesaria para las cuatro colecciones en MongoDb, Farmer_Table, Crop_Demand, Crop_Table y Offer_Table.
-
-![alt text](https://github.com/Pablov81/Agrotopia/blob/main/images/AgroDb.png?raw=true)
-
-
-
-
-
-
-## Requirements
-
-## Package Instalation
 
 
 ```python
