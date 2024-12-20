@@ -1,46 +1,75 @@
-#  🌱 Agrotopia: Metodología para la Gestión Integrada de Recursos Hídricos de Cuencas**  
+```markdown
+# 🌱 **Agrotopia: Metodología para la Gestión Integrada de Recursos Hídricos de Cuencas**
 
-### **📄 Sobre este Repositorio**  
-Este repositorio fue creado como parte de la investigación doctoral de **Pablo Velásquez Cisterna**, titulada **"Metodología para el Desarrollo de Escenarios Potenciales para la Gestión Integrada de Recursos Hídricos de Cuencas"**, llevada a cabo entre los años 2019 y 2024. La investigación fue supervisada por el **Dr. Mario Lillo Saavedra** en la **Universidad de Concepción**, dentro del **Programa de Doctorado en Recursos Hídricos para la Agricultura**.  
+### 📄 **Sobre este Repositorio**
+Este repositorio fue creado como parte de la investigación doctoral de **Pablo Velásquez Cisterna**, titulada **"Metodología para el Desarrollo de Escenarios Potenciales para la Gestión Integrada de Recursos Hídricos de Cuencas"**, llevada a cabo entre los años 2019 y 2024. La investigación fue supervisada por el **Dr. Mario Lillo Saavedra** en la **Universidad de Concepción**, dentro del **Programa de Doctorado en Recursos Hídricos para la Agricultura**.
 
 ---
 
-### **📚 Resumen de la Investigación**  
+### 📚 **Resumen de la Investigación**
 
 La investigación desarrolla una metodología para identificar y gestionar conflictos en la gestión de recursos hídricos a escala de cuenca, con un enfoque particular en la **cuenca del río Longaví**, en la región del Maule, Chile. Esta área enfrenta importantes desafíos debido a la fragmentación de la tierra y la variabilidad hídrica, agravados por el cambio climático.  
 
 Para abordar estos problemas, el estudio integra la **Socio-Hidrología** con **Modelos Basados en Agentes (ABM)** (SHABM), permitiendo un análisis detallado de las interacciones entre los usuarios del agua bajo distintos escenarios ambientales y normativos.  
 
-#### **Marco Tecnológico**  
-La herramienta de simulación desarrollada utiliza **Python** y **MongoDB**, considerando variables como:  
-- Uso del suelo  
-- Demanda hídrica  
-- Factores económicos
-- Informe Social sobre preferencias de cultivo en función del valor del mercado del producto y resistencia a la sequía.  
+#### **Marco Tecnológico**
+La herramienta de simulación desarrollada utiliza:
+- **Python** y **MongoDB** como tecnologías principales.
+- **Datos clave** como:
+  - Uso del suelo.
+  - Demanda hídrica específica para cada cultivo.
+  - Factores económicos, incluyendo análisis del valor de mercado y resiliencia de los cultivos ante la sequía.
+  - Informes sociales sobre preferencias de cultivos basados en la disponibilidad hídrica.
+- Integración de información geoespacial para modelar la dinámica de las parcelas dentro de la cuenca.
 
-Los datos recolectados mediante entrevistas, observaciones y encuestas alimentan los modelos de simulación, permitiendo analizar comportamientos de usuarios **egoístas**, **neutrales** y **colaboradores**, según la disponibilidad de agua y los niveles de supervisión.  
+Los datos recolectados mediante entrevistas, observaciones y encuestas alimentan los modelos, permitiendo analizar patrones de comportamiento de usuarios clasificados como:
+- **Egoístas** (priorizan su beneficio individual).
+- **Neutrales** (toman decisiones balanceadas).
+- **Colaboradores** (actúan en pro del bien común).
+
+---
+
+### 📈 **Resultados y Publicaciones**
+
+#### **Resultados Clave de la Investigación**
+- **Patrones de Decisión:** Los resultados revelan diferencias significativas en las decisiones de los agentes. Los agentes egoístas tienden a ignorar las reglas bajo condiciones de baja supervisión, mientras que los agentes colaboradores respetan las reglas consistentemente, incluso bajo estrés hídrico.
+- **Gestión Adaptativa:** La implementación de niveles de supervisión altos (90%) reduce considerablemente los conflictos, identificando áreas críticas que requieren atención prioritaria.
+- **Identificación de Conflictos:** Los análisis permiten identificar zonas de alto riesgo de conflicto en escenarios de baja disponibilidad hídrica.
+
+#### **Publicaciones Científicas**
+1. **Artículo 1:**  
+   - **Título:** *Socio-Hydrological Agent-Based Modeling as a Framework for Analyzing Conflicts Within Water User Organizations*  
+   - **DOI:** [https://doi.org/10.3390/w16223321](https://doi.org/10.3390/w16223321)  
+   - **Resumen:** Este artículo describe el desarrollo de un modelo socio-hidrológico basado en agentes (SHABM) aplicado a la cuenca del río Longaví, evaluando cómo la supervisión y disponibilidad de agua afectan los patrones de comportamiento y los conflictos en sistemas agrícolas.  
+
+2. **Artículo 2:**  
+   - **Título:** *Dataset for Reproducible Interaction in a Socio-Hydrological Model with ABM*  
+   - **DOI:** Publicación en progreso, enlace pendiente.  
+   - **Resumen:** Este trabajo introduce un conjunto de datos estructurados y documentados para analizar interacciones socio-hidrológicas reproducibles, evaluando estrategias de manejo hídrico y su impacto en el comportamiento de los usuarios.
+```
 
 ---
 
-### **📈 Resultados y Publicaciones**  
+### 📊 **Componentes Clave del Modelo**
+#### **1. Datos en MongoDB (AgroDB)**
+Estructura:
+- **Farmer_Table:** Información básica de agricultores.  
+- **Crop_Demand:** Demanda hídrica por cultivo.  
+- **Crop_Table:** Detalles técnicos y económicos de cultivos.  
+- **Offer_Table:** Disponibilidad semanal de agua.  
 
-#### **Resultados Clave de la Investigación**  
-- **Patrones de Decisión:** Los resultados demuestran cómo las decisiones de los agentes, clasificados como egoístas, neutrales y cooperativos, varían en función de los niveles de supervisión y disponibilidad de agua. Los agentes egoístas son más propensos a ignorar los turnos de riego bajo condiciones de escasez y baja supervisión, mientras que los agentes cooperativos respetan consistentemente las reglas.  
-- **Gestión Adaptativa:** Se observó que altos niveles de supervisión (90%) reducen significativamente los conflictos, mientras que escenarios de escasez de agua aumentan los comportamientos no cooperativos. Las áreas de alto riesgo de conflicto pueden identificarse y gestionarse de manera proactiva.  
-
-#### **Publicaciones Científicas**  
-
-- **Artículo 1:**  
-  - **Título:** *Socio-Hydrological Agent-Based Modeling as a Framework for Analyzing Conflicts Within Water User Organizations*  
-  - **DOI:** [https://doi.org/10.3390/w16223321](https://doi.org/10.3390/w16223321)  
-  - **Resumen:** Este artículo describe el desarrollo de un modelo socio-hidrológico basado en agentes (SHABM) para analizar y gestionar conflictos en organizaciones de usuarios del agua en la cuenca del río Longaví, Chile. Los resultados muestran cómo la supervisión y la disponibilidad de agua afectan los patrones de comportamiento y las dinámicas de conflicto en sistemas hídricos agrícolas.  
-
-- **Artículo 2:**  
-  - **Título:** *Dataset for Reproducible Interaction in a Socio-Hydrological Model with ABM*  
-  - **DOI:** Publicación en progreso, enlace pendiente.  
-  - **Resumen:** Este trabajo introduce un conjunto de datos estandarizados y bien documentados para el análisis reproducible de interacciones socio-hidrológicas utilizando modelos basados en agentes (ABM). El conjunto de datos permite explorar dinámicas complejas y evaluar estrategias de gestión hídrica en sistemas agrícolas.  
+#### **2. Integración Geoespacial**
+Se utiliza información geográfica (shapefiles) para modelar turnos de riego y la distribución de parcelas.
 
 ---
+
+### 🛠️ **Requisitos Técnicos**
+#### **Configuración del Entorno**
+1. **Crear entorno con Conda:**  
+   ```bash
+   conda create --name agrotopia_env python=3.9
+   conda activate agrotopia_env
+
 
 
 ### **🌍 Área de Estudio**  
