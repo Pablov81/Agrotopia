@@ -45,9 +45,7 @@ Los datos recolectados mediante entrevistas, observaciones y encuestas alimentan
    - **Título:** *Dataset for Reproducible Interaction in a Socio-Hydrological Model with ABM*  
    - **DOI:** Publicación en progreso, enlace pendiente.  
    - **Resumen:** Este trabajo introduce un conjunto de datos estructurados y documentados para analizar interacciones socio-hidrológicas reproducibles, evaluando estrategias de manejo hídrico y su impacto en el comportamiento de los usuarios.
-```
 
----
 
 ### 📊 **Componentes Clave del Modelo**
 #### **1. Datos en MongoDB (AgroDB)**
