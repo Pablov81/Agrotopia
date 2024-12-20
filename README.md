@@ -1,4 +1,3 @@
-```markdown
 # 🌱 **Agrotopia: Metodología para la Gestión Integrada de Recursos Hídricos de Cuencas**
 
 ### 📄 **Sobre este Repositorio**
