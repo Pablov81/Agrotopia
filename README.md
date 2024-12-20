@@ -21,7 +21,7 @@ La herramienta de simulación desarrollada utiliza:
   - Informes sociales sobre preferencias de cultivos basados en la disponibilidad hídrica.
 - Integración de información geoespacial para modelar la dinámica de las parcelas dentro de la cuenca.
 
-Los datos recolectados mediante entrevistas, observaciones y encuestas alimentan los modelos, permitiendo analizar patrones de comportamiento de usuarios clasificados como:
+Los datos recolectados mediante entrevistas, observaciones y encuestas alimentan los modelos, permitiendo analizar patrones de comportamiento de usuarios del agua aleatoriamente clasificados como:
 - **Egoístas** (priorizan su beneficio individual).
 - **Neutrales** (toman decisiones balanceadas).
 - **Colaboradores** (actúan en pro del bien común).
