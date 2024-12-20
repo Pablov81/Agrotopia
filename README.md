@@ -25,20 +25,20 @@ Los datos recolectados mediante entrevistas, observaciones y encuestas alimentan
 ### **📈 Resultados y Publicaciones**  
 
 #### **Resultados Clave de la Investigación**  
-- 🟢 **Patrones de Decisión:** Se observaron diferencias significativas en los patrones de toma de decisiones de los agentes según los niveles de supervisión y disponibilidad de agua.  
-- 🟢 **Gestión Adaptativa:** Los resultados destacan estrategias efectivas para la gestión adaptativa del agua, mejorando la sostenibilidad en áreas agrícolas afectadas por el cambio climático.  
+- **Patrones de Decisión:** Los resultados demuestran cómo las decisiones de los agentes, clasificados como egoístas, neutrales y cooperativos, varían en función de los niveles de supervisión y disponibilidad de agua. Los agentes egoístas son más propensos a ignorar los turnos de riego bajo condiciones de escasez y baja supervisión, mientras que los agentes cooperativos respetan consistentemente las reglas.  
+- **Gestión Adaptativa:** Se observó que altos niveles de supervisión (90%) reducen significativamente los conflictos, mientras que escenarios de escasez de agua aumentan los comportamientos no cooperativos. Las áreas de alto riesgo de conflicto pueden identificarse y gestionarse de manera proactiva.  
 
 #### **Publicaciones Científicas**  
 
 - **Artículo 1:**  
-  **Título:** "Modelos Basados en Agentes para la Gestión Hídrica en la Cuenca del Río Longaví"  
-  **DOI:** [https://doi.org/XXXXXXXX](https://doi.org/XXXXXXXX)  
-  **Resumen:** Este artículo describe la implementación y validación del modelo SHABM (Socio-Hidrología y Modelos Basados en Agentes), destacando cómo las decisiones de riego de los agentes impactan la sostenibilidad del recurso hídrico.  
+  - **Título:** *Socio-Hydrological Agent-Based Modeling as a Framework for Analyzing Conflicts Within Water User Organizations*  
+  - **DOI:** [https://doi.org/10.3390/w16223321](https://doi.org/10.3390/w16223321)  
+  - **Resumen:** Este artículo describe el desarrollo de un modelo socio-hidrológico basado en agentes (SHABM) para analizar y gestionar conflictos en organizaciones de usuarios del agua en la cuenca del río Longaví, Chile. Los resultados muestran cómo la supervisión y la disponibilidad de agua afectan los patrones de comportamiento y las dinámicas de conflicto en sistemas hídricos agrícolas.  
 
 - **Artículo 2:**  
-  **Título:** "Estrategias de Supervisión y Colaboración en Sistemas Socio-Hidrológicos"  
-  **DOI:** [https://doi.org/YYYYYYYY](https://doi.org/YYYYYYYY)  
-  **Resumen:** Se analiza cómo diferentes niveles de supervisión y colaboración entre usuarios del agua afectan la distribución y el uso sostenible del recurso.  
+  - **Título:** *Dataset for Reproducible Interaction in a Socio-Hydrological Model with ABM*  
+  - **DOI:** Publicación en progreso, enlace pendiente.  
+  - **Resumen:** Este trabajo introduce un conjunto de datos estandarizados y bien documentados para el análisis reproducible de interacciones socio-hidrológicas utilizando modelos basados en agentes (ABM). El conjunto de datos permite explorar dinámicas complejas y evaluar estrategias de gestión hídrica en sistemas agrícolas.  
 
 ---
 
