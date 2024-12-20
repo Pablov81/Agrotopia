@@ -1,9 +1,79 @@
-## About this Repository
+# **Agrotopia: Metodología para la Gestión Integrada de Recursos Hídricos de Cuencas**  
 
-This repository was created as part of the doctoral research of Pablo Velásquez Cisterna, Methodology for the Development of Potential Scenarios for the Integrated Management of Watershed Water Resources, conducted during the years 2019-2024. The research was supervised by Dr. Mario Lillo Saavedra at the University of Concepción, within the Doctorate Program in Water Resources for Agriculture.
-## Abstract
+### **📄 Sobre este Repositorio**  
+Este repositorio fue creado como parte de la investigación doctoral de **Pablo Velásquez Cisterna**, titulada **"Metodología para el Desarrollo de Escenarios Potenciales para la Gestión Integrada de Recursos Hídricos de Cuencas"**, llevada a cabo entre los años 2019 y 2024. La investigación fue supervisada por el **Dr. Mario Lillo Saavedra** en la **Universidad de Concepción**, dentro del **Programa de Doctorado en Recursos Hídricos para la Agricultura**.  
 
+---
 
+### **📚 Resumen de la Investigación**  
+
+La investigación desarrolla una metodología para identificar y gestionar conflictos en la gestión de recursos hídricos a escala de cuenca, con un enfoque particular en la **cuenca del río Longaví**, en la región del Maule, Chile. Esta área enfrenta importantes desafíos debido a la fragmentación de la tierra y la variabilidad hídrica, agravados por el cambio climático.  
+
+Para abordar estos problemas, el estudio integra la **Socio-Hidrología** con **Modelos Basados en Agentes (ABM)** (SHABM), permitiendo un análisis detallado de las interacciones entre los usuarios del agua bajo distintos escenarios ambientales y normativos.  
+
+#### **Marco Tecnológico**  
+La herramienta de simulación desarrollada utiliza **Python** y **MongoDB**, considerando variables como:  
+- Uso del suelo  
+- Demanda hídrica  
+- Factores económicos  
+
+Los datos recolectados mediante entrevistas, observaciones y encuestas alimentan los modelos de simulación, permitiendo analizar comportamientos de usuarios:  
+- **Egoístas**  
+- **Neutrales**  
+- **Colaboradores**  
+
+Estos comportamientos se evalúan en función de la disponibilidad de agua y los niveles de supervisión.  
+
+#### **Principales Resultados**  
+
+- **Patrones de Decisión:** Los resultados muestran cómo los patrones de toma de decisiones cambian según los niveles de supervisión y la disponibilidad de agua.  
+
+- **Gestión Adaptativa:** Se proponen estrategias para la gestión adaptativa de recursos hídricos, promoviendo la sostenibilidad en zonas agrícolas afectadas por el cambio climático.  
+
+#### **Direcciones para Investigaciones Futuras**  
+El estudio sugiere:  
+
+- Ampliar el análisis de datos sociales para comprender mejor los sistemas sociales complejos que influyen en la gestión hídrica.  
+- Explorar enfoques interdisciplinarios que mejoren la precisión de las simulaciones socio-hidrológicas.  
+- Desarrollar políticas y estrategias de gestión más efectivas basadas en resultados de simulación.  
+
+---
+
+### **🌍 Área de Estudio**  
+
+#### **Área General**  
+![Cuenca del Río Longaví](https://github.com/Pablov81/Agrotopia/blob/main/images/primera_plot.png?raw=true)  
+
+#### **Área Específica**  
+![Mapa de WUOs](https://github.com/Pablov81/Agrotopia/blob/main/images/plot_wuos_map.png?raw=true)  
+
+---
+
+### **📊 Datos**  
+La información almacenada en la base de datos **MongoDB (AgroDB)** se encuentra en la carpeta `Data` del proyecto. Incluye las siguientes colecciones:  
+
+- **Farmer_Table:** Información de los agricultores.  
+- **Crop_Demand:** Demanda de agua de los cultivos.  
+- **Crop_Table:** Detalles de los cultivos.  
+- **Offer_Table:** Oferta de agua disponible.  
+
+![Estructura de AgroDB](https://github.com/Pablov81/Agrotopia/blob/main/images/AgroDb.png?raw=true)  
+
+---
+
+### **📦 Requisitos**  
+- **Python 3.x**  
+- **MongoDB**  
+- **Conda**  
+
+---
+
+### **📥 Instalación de Paquetes**  
+
+#### **Paso 1: Crear un entorno `conda`**  
+```bash
+conda create --name agrotopia_env python=3.9
+conda activate agrotopia_env
 
 
 ## Contexto
