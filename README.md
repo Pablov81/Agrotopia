@@ -1,4 +1,4 @@
-# **Agrotopia: Metodología para la Gestión Integrada de Recursos Hídricos de Cuencas**  
+# ** 🌱 Agrotopia: Metodología para la Gestión Integrada de Recursos Hídricos de Cuencas**  
 
 ### **📄 Sobre este Repositorio**  
 Este repositorio fue creado como parte de la investigación doctoral de **Pablo Velásquez Cisterna**, titulada **"Metodología para el Desarrollo de Escenarios Potenciales para la Gestión Integrada de Recursos Hídricos de Cuencas"**, llevada a cabo entre los años 2019 y 2024. La investigación fue supervisada por el **Dr. Mario Lillo Saavedra** en la **Universidad de Concepción**, dentro del **Programa de Doctorado en Recursos Hídricos para la Agricultura**.  
@@ -142,7 +142,25 @@ classDiagram
     Crop --> Farmer_Agent:rx_crop()
 ```
 
+## **📁 Tratamiento de Archivos CSV**  
 
+🔄 **Procesamiento de datos**  
+El proyecto utiliza archivos CSV para almacenar y procesar información como demanda hídrica, datos económicos y detalles de cultivos.  
+
+### Ejemplo: Filtrado de datos  
+```python
+import pandas as pd
+
+# Leer archivo CSV
+data = pd.read_csv("data/cultivos.csv")
+
+# Filtrar por año y cultivo
+filtro = data[(data["Año"] == 2020) & (data["Cultivo"] == "Maíz")]
+
+# Guardar resultados filtrados
+filtro.to_csv("output/filtered_data.csv", index=False)
+
+print("Filtrado completado. Archivo guardado en 'output/filtered_data.csv'")
 
 ## Results
 La informacion utilizada en la base de datos MongoDb (AgroDB) está en la carpeta Data del proyecto, es la necesaria para las cuatro colecciones en MongoDb, Farmer_Table, Crop_Demand, Crop_Table y Offer_Table.
