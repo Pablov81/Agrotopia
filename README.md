@@ -17,25 +17,7 @@ La herramienta de simulación desarrollada utiliza **Python** y **MongoDB**, con
 - Demanda hídrica  
 - Factores económicos  
 
-Los datos recolectados mediante entrevistas, observaciones y encuestas alimentan los modelos de simulación, permitiendo analizar comportamientos de usuarios:  
-- **Egoístas**  
-- **Neutrales**  
-- **Colaboradores**  
-
-Estos comportamientos se evalúan en función de la disponibilidad de agua y los niveles de supervisión.  
-
-#### **Principales Resultados**  
-
-- **Patrones de Decisión:** Los resultados muestran cómo los patrones de toma de decisiones cambian según los niveles de supervisión y la disponibilidad de agua.  
-
-- **Gestión Adaptativa:** Se proponen estrategias para la gestión adaptativa de recursos hídricos, promoviendo la sostenibilidad en zonas agrícolas afectadas por el cambio climático.  
-
-#### **Direcciones para Investigaciones Futuras**  
-El estudio sugiere:  
-
-- Ampliar el análisis de datos sociales para comprender mejor los sistemas sociales complejos que influyen en la gestión hídrica.  
-- Explorar enfoques interdisciplinarios que mejoren la precisión de las simulaciones socio-hidrológicas.  
-- Desarrollar políticas y estrategias de gestión más efectivas basadas en resultados de simulación.  
+Los datos recolectados mediante entrevistas, observaciones y encuestas alimentan los modelos de simulación, permitiendo analizar comportamientos de usuarios **egoístas**, **neutrales** y **colaboradores**, según la disponibilidad de agua y los niveles de supervisión.  
 
 ---
 
@@ -58,6 +40,9 @@ La información almacenada en la base de datos **MongoDB (AgroDB)** se encuentra
 - **Offer_Table:** Oferta de agua disponible.  
 
 ![Estructura de AgroDB](https://github.com/Pablov81/Agrotopia/blob/main/images/AgroDb.png?raw=true)  
+
+---
+
 
 ---
 
