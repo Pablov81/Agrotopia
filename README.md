@@ -222,3 +222,15 @@ La informacion utilizada en la base de datos MongoDb (AgroDB) está en la carpet
 
 
 
+# 🚀 **Ejecución del Programa**
+
+### 🌍 **Introducción**
+Esta sección explica cómo ejecutar la herramienta en distintos entornos. 📎 Consulte la [documentación](#) para más detalles.
+
+### 📊 **Resultados**
+Los gráficos generados muestran tendencias claras:  
+- 📈 Incrementos en la eficiencia hídrica.
+- 🔍 Análisis detallados de los conflictos entre agentes.
+
+### ✍️ **Notas del Autor**
+Para consultas o colaboración, envíe un correo a: 📧 contacto@ejemplo.com  
