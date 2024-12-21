@@ -219,7 +219,7 @@ La informacion utilizada en la base de datos MongoDb (AgroDB) está en la carpet
 
 ![alt text](https://github.com/Pablov81/Agrotopia/blob/main/images/influence_nodes.png?raw=true)
 
-
+---
 
 
 # 🚀 **Ejecución del Programa**
