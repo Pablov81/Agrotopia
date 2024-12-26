@@ -219,7 +219,7 @@ La informacion utilizada en la base de datos MongoDb (AgroDB) está en la carpet
 
 ![alt text](https://github.com/Pablov81/Agrotopia/blob/main/images/influence_nodes.png?raw=true)
 
-
+---
 
 
 # 🚀 **Ejecución del Programa**
@@ -233,4 +233,4 @@ Los gráficos generados muestran tendencias claras:
 - 🔍 Análisis detallados de los conflictos entre agentes.
 
 ### ✍️ **Notas del Autor**
-Para consultas o colaboración, envíe un correo a: 📧 contacto@ejemplo.com  
+Para consultas
