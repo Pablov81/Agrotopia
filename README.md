@@ -173,8 +173,12 @@ classDiagram
 
 # 🚀 **Ejecución del Programa**
 
-Esta sección explica cómo ejecutar la herramienta en distintos entornos. 📎 Consulte la [documentación](#) para más detalles.
+### ✍️ **Notas del Autor**
+El proyecto tiene dos versiones:
+  - Español (SP)
+  - Inglés (ENG).
 
+crear el ambiente donde dejar el programa
    ```bash
    conda create --name agrotopia_env python=3.9
    conda activate agrotopia_env
@@ -182,16 +186,12 @@ Esta sección explica cómo ejecutar la herramienta en distintos entornos. 📎 
 ```
 
 
-
 ```python
-import pandas as pd
-hola= pd.csv_read('Path\file', sep='')
+   streamlit run interfaz.py
 ```
+Se ejecutra el servidor web local con las opciones para generar los dataset
 
-### ✍️ **Notas del Autor**
-El proyecto tiene dos versiones:
-  - Español (SP)
-  - Inglés (ENG).
+
 
 
 
