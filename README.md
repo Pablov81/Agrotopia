@@ -60,13 +60,6 @@ Se utiliza información geográfica (shapefiles) para modelar turnos de riego y 
 
 ---
 
-### 🛠️ **Requisitos Técnicos**
-#### **Configuración del Entorno**
-1. **Crear entorno con Conda:**  
-   ```bash
-   conda create --name agrotopia_env python=3.9
-   conda activate agrotopia_env
-
 
 
 ### **🌍 Área de Estudio**  
@@ -181,6 +174,14 @@ classDiagram
 # 🚀 **Ejecución del Programa**
 
 Esta sección explica cómo ejecutar la herramienta en distintos entornos. 📎 Consulte la [documentación](#) para más detalles.
+
+   ```bash
+   conda create --name agrotopia_env python=3.9
+   conda activate agrotopia_env
+
+```
+
+
 
 ```python
 import pandas as pd
