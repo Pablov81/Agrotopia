@@ -101,18 +101,6 @@ La información almacenada en la base de datos **MongoDB (AgroDB)** se encuentra
 
 ---
 
-### **📥 Instalación de Paquetes**  
-
-
-
-
-```python
-import pandas as pd
-hola= pd.csv_read('Path\file', sep='')
-```
-## Use
-
-
 ## Agrotopia Diagram
 
 ```mermaid
@@ -192,10 +180,12 @@ classDiagram
 
 # 🚀 **Ejecución del Programa**
 
-### 🌍 **Introducción**
 Esta sección explica cómo ejecutar la herramienta en distintos entornos. 📎 Consulte la [documentación](#) para más detalles.
 
-
+```python
+import pandas as pd
+hola= pd.csv_read('Path\file', sep='')
+```
 
 ### ✍️ **Notas del Autor**
 El proyecto tiene dos versiones:
