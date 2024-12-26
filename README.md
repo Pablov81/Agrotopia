@@ -232,5 +232,7 @@ Los gráficos generados muestran tendencias claras:
 - 🔍 Análisis detallados de los conflictos entre agentes.
 
 ### ✍️ **Notas del Autor**
-El proyecto tiene dos versiones: Español e Inglés, por motivos de dominio del lenguaje en Español tendrá más detalles.
+El proyecto tiene dos versiones:
+  - Español (SP)
+  - Inglés (ENG).
 
