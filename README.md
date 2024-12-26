@@ -189,6 +189,26 @@ classDiagram
     Crop --> Farmer_Agent:rx_crop()
 ```
 
+
+# 🚀 **Ejecución del Programa**
+
+### 🌍 **Introducción**
+Esta sección explica cómo ejecutar la herramienta en distintos entornos. 📎 Consulte la [documentación](#) para más detalles.
+
+### 📊 **Resultados**
+Los gráficos generados muestran tendencias claras:  
+- 📈 Incrementos en la eficiencia hídrica.
+- 🔍 Análisis detallados de los conflictos entre agentes.
+
+### ✍️ **Notas del Autor**
+El proyecto tiene dos versiones:
+  - Español (SP)
+  - Inglés (ENG).
+
+
+
+
+
 ## **📁 Tratamiento de Archivos CSV**  
 
 🔄 **Procesamiento de datos**  
@@ -220,19 +240,3 @@ La informacion utilizada en la base de datos MongoDb (AgroDB) está en la carpet
 ![alt text](https://github.com/Pablov81/Agrotopia/blob/main/images/influence_nodes.png?raw=true)
 
 ```
-
-# 🚀 **Ejecución del Programa**
-
-### 🌍 **Introducción**
-Esta sección explica cómo ejecutar la herramienta en distintos entornos. 📎 Consulte la [documentación](#) para más detalles.
-
-### 📊 **Resultados**
-Los gráficos generados muestran tendencias claras:  
-- 📈 Incrementos en la eficiencia hídrica.
-- 🔍 Análisis detallados de los conflictos entre agentes.
-
-### ✍️ **Notas del Autor**
-El proyecto tiene dos versiones:
-  - Español (SP)
-  - Inglés (ENG).
-
