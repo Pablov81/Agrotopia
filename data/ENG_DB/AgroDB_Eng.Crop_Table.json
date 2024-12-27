@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "6436da86aac438c63f759197"
+  },
+  "": 0,
+  "Group": "Cereals",
+  "Yield": 14000,
+  "Product_Value": 13033,
+  "Subcla1920": "Maize",
+  "Market_Value": 3000,
+  "Water_F": 343
+},
+{
+  "_id": {
+    "$oid": "6436da86aac438c63f759198"
+  },
+  "": 1,
+  "Group": "Cereals",
+  "Yield": 7500,
+  "Product_Value": 14500,
+  "Market_Value": 4500,
+  "Subcla1920": "Wheat",
+  "Water_F": 23424
+},
+{
+  "_id": {
+    "$oid": "6436da86aac438c63f759199"
+  },
+  "": 2,
+  "Group": "Minor Fruits",
+  "Yield": 11500,
+  "Product_Value": 1850,
+  "Subcla1920": "Blueberry",
+  "Market_Value": 3000,
+  "Water_F": 234
+},
+{
+  "_id": {
+    "$oid": "6436da86aac438c63f75919a"
+  },
+  "": 3,
+  "Group": "Vegetables",
+  "Yield": 5000,
+  "Product_Value": 900,
+  "Subcla1920": "Asparagus",
+  "Market_Value": 5645,
+  "Water_F": 34545
+},
+{
+  "_id": {
+    "$oid": "6436da86aac438c63f75919b"
+  },
+  "": 4,
+  "Group": "Forage",
+  "Yield": 18000,
+  "Product_Value": 100,
+  "Subcla1920": "Alfalfa",
+  "Market_Value": 3241,
+  "Water_F": 8675
+},
+{
+  "_id": {
+    "$oid": "66520918cf7bccbec3c7281c"
+  },
+  "Group": "Industrial Crop",
+  "Yield": "180005",
+  "Subcla1920": "Poplar",
+  "Market_Value": "290500",
+  "Product_Value": "23544",
+  "Water:F": "9500"
+}]

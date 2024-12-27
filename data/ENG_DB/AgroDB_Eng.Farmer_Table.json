@@ -1,0 +1,396 @@
+[{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580badf"
+  },
+  "Rol": "189-264",
+  "Id_Plot": 5803,
+  "Group": "Cereals",
+  "Subcla1920": "Maize",
+  "Surface": 3.2,
+  "Actions": 1.6,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 1,
+  "Irrigation_App": "Furrow",
+  "Personality": "Selfish",
+  "WUO": 1,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580bae0"
+  },
+  "Rol": "189-265",
+  "Id_Plot": 5802,
+  "Group": "Cereals",
+  "Subcla1920": "Wheat",
+  "Surface": 4.9,
+  "Actions": 2.45,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 2,
+  "Irrigation_App": "Flood",
+  "Personality": "Collaborator",
+  "WUO": 1,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580bae1"
+  },
+  "Rol": "189-259",
+  "Id_Plot": 5970,
+  "Group": "Minor Fruits",
+  "Subcla1920": "Blueberry",
+  "Surface": 7,
+  "Actions": 3.5,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 5,
+  "Irrigation_App": "Drip",
+  "Personality": "Selfish",
+  "WUO": 1,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580bae2"
+  },
+  "Rol": "189-260",
+  "Id_Plot": 5798,
+  "Group": "Vegetables",
+  "Subcla1920": "Asparagus",
+  "Surface": 7.9,
+  "Actions": 3.95,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 2,
+  "Shift_Order": 1,
+  "Irrigation_App": "Furrow",
+  "Personality": "Neutral",
+  "WUO": 2,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580bae3"
+  },
+  "Rol": "180-258",
+  "Id_Plot": 5890,
+  "Group": "Cereals",
+  "Subcla1920": "Maize",
+  "Surface": 1.9,
+  "Actions": 0.95,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 8,
+  "Irrigation_App": "Furrow",
+  "Personality": "Collaborator",
+  "WUO": 1,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580bae5"
+  },
+  "Rol": "189-263",
+  "Id_Plot": 5891,
+  "Group": "Cereals",
+  "Subcla1920": "Wheat",
+  "Surface": 6.9,
+  "Actions": 3.45,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 3,
+  "Irrigation_App": "Flood",
+  "Personality": "Neutral",
+  "WUO": 1,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580bae6"
+  },
+  "Rol": "189-263",
+  "Id_Plot": 5801,
+  "Group": "Forage",
+  "Subcla1920": "Alfalfa",
+  "Surface": 1.7,
+  "Actions": 0.85,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 2,
+  "Shift_Order": 4,
+  "Irrigation_App": "Flood",
+  "Personality": "Selfish",
+  "WUO": 1,
+  "Irrigation_Day": 1
+},
+{
+  "_id": {
+    "$oid": "64668d179bbd7c0cb580bae4"
+  },
+  "Rol": "189-258",
+  "Id_Plot": 5889,
+  "Group": "Cereals",
+  "Subcla1920": "Maize",
+  "Surface": 6.6,
+  "Actions": 3.3,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 9,
+  "Irrigation_App": "Furrow",
+  "Personality": "Collaborator",
+  "WUO": 1,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535cd"
+  },
+  "Rol": "189-80",
+  "Id_Plot": 5730,
+  "Group": "Industrial Crop",
+  "Subcla1920": "Poplar",
+  "Surface": 5.5,
+  "Actions": 2.75,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 7,
+  "Irrigation_App": "Drip",
+  "Personality": "Selfish",
+  "WUO": 2,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535ce"
+  },
+  "Rol": "189-255",
+  "Id_Plot": 5726,
+  "Group": "Forage",
+  "Subcla1920": "Alfalfa",
+  "Surface": 3,
+  "Actions": 1.5,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 2,
+  "Shift_Order": 4,
+  "Irrigation_App": "Flood",
+  "Personality": "Collaborator",
+  "WUO": 2,
+  "Irrigation_Day": 1
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535cf"
+  },
+  "Rol": "189-255",
+  "Id_Plot": 5728,
+  "Group": "Forage",
+  "Subcla1920": "Alfalfa",
+  "Surface": 2.7,
+  "Actions": 1.35,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 2,
+  "Shift_Order": 3,
+  "Irrigation_App": "Flood",
+  "Personality": "Neutral",
+  "WUO": 2,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d0"
+  },
+  "Rol": "189-255",
+  "Id_Plot": 5729,
+  "Group": "Forage",
+  "Subcla1920": "Alfalfa",
+  "Surface": 0.9,
+  "Actions": 0.45,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 2,
+  "Shift_Order": 8,
+  "Irrigation_App": "Flood",
+  "Personality": "Selfish",
+  "WUO": 2,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d1"
+  },
+  "Rol": "189-238",
+  "Id_Plot": 5795,
+  "Group": "Forage",
+  "Subcla1920": "Alfalfa",
+  "Surface": 11.2,
+  "Actions": 5.6,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 2,
+  "Shift_Order": 6,
+  "Irrigation_App": "Flood",
+  "Personality": "Selfish",
+  "WUO": 2,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d2"
+  },
+  "Rol": "ST-32",
+  "Id_Plot": 5835,
+  "Group": "Vegetables",
+  "Subcla1920": "Asparagus",
+  "Surface": 1.7,
+  "Actions": 0.85,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 3,
+  "Irrigation_App": "Furrow",
+  "Personality": "Neutral",
+  "WUO": 3,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d3"
+  },
+  "Rol": "189-252",
+  "Id_Plot": 5796,
+  "Group": "Cereals",
+  "Subcla1920": "Maize",
+  "Surface": 2.9,
+  "Actions": 1.45,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 5,
+  "Irrigation_App": "Furrow",
+  "Personality": "Collaborator",
+  "WUO": 2,
+  "Irrigation_Day": 1
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d4"
+  },
+  "Rol": "180-257",
+  "Id_Plot": 5800,
+  "Group": "Cereals",
+  "Subcla1920": "Maize",
+  "Surface": 3.5,
+  "Actions": 1.75,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 1,
+  "Irrigation_App": "Furrow",
+  "Personality": "Selfish",
+  "WUO": 3,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d5"
+  },
+  "Rol": "189-254",
+  "Id_Plot": 5837,
+  "Group": "Cereals",
+  "Subcla1920": "Maize",
+  "Surface": 7.7,
+  "Actions": 3.85,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 5,
+  "Irrigation_App": "Furrow",
+  "Personality": "Selfish",
+  "WUO": 3,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d6"
+  },
+  "Rol": "189-261",
+  "Id_Plot": 5944,
+  "Group": "Cereals",
+  "Subcla1920": "Maize",
+  "Surface": 2,
+  "Actions": 1,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 6,
+  "Irrigation_App": "Furrow",
+  "Personality": "Selfish",
+  "WUO": 1,
+  "Irrigation_Day": 1
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d7"
+  },
+  "Rol": "189-259",
+  "Id_Plot": 5971,
+  "Group": "Cereals",
+  "Subcla1920": "Maize",
+  "Surface": 2.8,
+  "Actions": 1.4,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 7,
+  "Irrigation_App": "Furrow",
+  "Personality": "Neutral",
+  "WUO": 1,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d8"
+  },
+  "Rol": "189-260",
+  "Id_Plot": 5797,
+  "Group": "Cereals",
+  "Subcla1920": "Wheat",
+  "Surface": 5.3,
+  "Actions": 2.65,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 2,
+  "Irrigation_App": "Flood",
+  "Personality": "Collaborator",
+  "WUO": 2,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535d9"
+  },
+  "Rol": "189-257",
+  "Id_Plot": 5799,
+  "Group": "Cereals",
+  "Subcla1920": "Wheat",
+  "Surface": 7.9,
+  "Actions": 3.95,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 2,
+  "Irrigation_App": "Flood",
+  "Personality": "Selfish",
+  "WUO": 3,
+  "Irrigation_Day": 2
+},
+{
+  "_id": {
+    "$oid": "6514d645636e51cc50a535da"
+  },
+  "Rol": "189-254",
+  "Id_Plot": 5836,
+  "Group": "Cereals",
+  "Subcla1920": "Wheat",
+  "Surface": 5.1,
+  "Actions": 2.55,
+  "WaterIntake": "Primera Abajo",
+  "Priority_crop": 1,
+  "Shift_Order": 4,
+  "Irrigation_App": "Flood",
+  "Personality": "Collaborator",
+  "WUO": 3,
+  "Irrigation_Day": 2
+}]

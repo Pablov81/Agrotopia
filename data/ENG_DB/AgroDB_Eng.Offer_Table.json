@@ -1,0 +1,9585 @@
+[{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e59c"
+  },
+  "Year": 1,
+  "Week": 1,
+  "Wb_rate": 2.93,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e59d"
+  },
+  "Year": 1,
+  "Week": 1,
+  "Wb_rate": 2.93,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e59e"
+  },
+  "Year": 1,
+  "Week": 1,
+  "Wb_rate": 2.93,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e59f"
+  },
+  "Year": 1,
+  "Week": 1,
+  "Wb_rate": 2.93,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a0"
+  },
+  "Year": 1,
+  "Week": 1,
+  "Wb_rate": 2.93,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a1"
+  },
+  "Year": 1,
+  "Week": 1,
+  "Wb_rate": 2.93,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a2"
+  },
+  "Year": 1,
+  "Week": 1,
+  "Wb_rate": 2.93,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a3"
+  },
+  "Year": 1,
+  "Week": 2,
+  "Wb_rate": 1.83,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a4"
+  },
+  "Year": 1,
+  "Week": 2,
+  "Wb_rate": 1.83,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a5"
+  },
+  "Year": 1,
+  "Week": 2,
+  "Wb_rate": 1.83,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a6"
+  },
+  "Year": 1,
+  "Week": 2,
+  "Wb_rate": 1.83,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a7"
+  },
+  "Year": 1,
+  "Week": 2,
+  "Wb_rate": 1.83,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a8"
+  },
+  "Year": 1,
+  "Week": 2,
+  "Wb_rate": 1.83,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5a9"
+  },
+  "Year": 1,
+  "Week": 2,
+  "Wb_rate": 1.83,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5aa"
+  },
+  "Year": 1,
+  "Week": 3,
+  "Wb_rate": 2.18,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ab"
+  },
+  "Year": 1,
+  "Week": 3,
+  "Wb_rate": 2.18,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ac"
+  },
+  "Year": 1,
+  "Week": 3,
+  "Wb_rate": 2.18,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ad"
+  },
+  "Year": 1,
+  "Week": 3,
+  "Wb_rate": 2.18,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ae"
+  },
+  "Year": 1,
+  "Week": 3,
+  "Wb_rate": 2.18,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5af"
+  },
+  "Year": 1,
+  "Week": 3,
+  "Wb_rate": 2.18,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b0"
+  },
+  "Year": 1,
+  "Week": 3,
+  "Wb_rate": 2.18,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b1"
+  },
+  "Year": 1,
+  "Week": 4,
+  "Wb_rate": 2.12,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b2"
+  },
+  "Year": 1,
+  "Week": 4,
+  "Wb_rate": 2.12,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b3"
+  },
+  "Year": 1,
+  "Week": 4,
+  "Wb_rate": 2.12,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b4"
+  },
+  "Year": 1,
+  "Week": 4,
+  "Wb_rate": 2.12,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b5"
+  },
+  "Year": 1,
+  "Week": 4,
+  "Wb_rate": 2.12,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b6"
+  },
+  "Year": 1,
+  "Week": 4,
+  "Wb_rate": 2.12,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b7"
+  },
+  "Year": 1,
+  "Week": 4,
+  "Wb_rate": 2.12,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b8"
+  },
+  "Year": 1,
+  "Week": 5,
+  "Wb_rate": 5.14,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5b9"
+  },
+  "Year": 1,
+  "Week": 5,
+  "Wb_rate": 5.14,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ba"
+  },
+  "Year": 1,
+  "Week": 5,
+  "Wb_rate": 5.14,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5bb"
+  },
+  "Year": 1,
+  "Week": 5,
+  "Wb_rate": 5.14,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5bc"
+  },
+  "Year": 1,
+  "Week": 5,
+  "Wb_rate": 5.14,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5bd"
+  },
+  "Year": 1,
+  "Week": 5,
+  "Wb_rate": 5.14,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5be"
+  },
+  "Year": 1,
+  "Week": 5,
+  "Wb_rate": 5.14,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5bf"
+  },
+  "Year": 1,
+  "Week": 6,
+  "Wb_rate": 4.06,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c0"
+  },
+  "Year": 1,
+  "Week": 6,
+  "Wb_rate": 4.06,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c1"
+  },
+  "Year": 1,
+  "Week": 6,
+  "Wb_rate": 4.06,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c2"
+  },
+  "Year": 1,
+  "Week": 6,
+  "Wb_rate": 4.06,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c3"
+  },
+  "Year": 1,
+  "Week": 6,
+  "Wb_rate": 4.06,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c4"
+  },
+  "Year": 1,
+  "Week": 6,
+  "Wb_rate": 4.06,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c5"
+  },
+  "Year": 1,
+  "Week": 6,
+  "Wb_rate": 4.06,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c6"
+  },
+  "Year": 1,
+  "Week": 7,
+  "Wb_rate": 2.8,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c7"
+  },
+  "Year": 1,
+  "Week": 7,
+  "Wb_rate": 2.8,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c8"
+  },
+  "Year": 1,
+  "Week": 7,
+  "Wb_rate": 2.8,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5c9"
+  },
+  "Year": 1,
+  "Week": 7,
+  "Wb_rate": 2.8,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ca"
+  },
+  "Year": 1,
+  "Week": 7,
+  "Wb_rate": 2.8,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5cb"
+  },
+  "Year": 1,
+  "Week": 7,
+  "Wb_rate": 2.8,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5cc"
+  },
+  "Year": 1,
+  "Week": 7,
+  "Wb_rate": 2.8,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5cd"
+  },
+  "Year": 1,
+  "Week": 8,
+  "Wb_rate": 2.29,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ce"
+  },
+  "Year": 1,
+  "Week": 8,
+  "Wb_rate": 2.29,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5cf"
+  },
+  "Year": 1,
+  "Week": 8,
+  "Wb_rate": 2.29,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d0"
+  },
+  "Year": 1,
+  "Week": 8,
+  "Wb_rate": 2.29,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d1"
+  },
+  "Year": 1,
+  "Week": 8,
+  "Wb_rate": 2.29,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d2"
+  },
+  "Year": 1,
+  "Week": 8,
+  "Wb_rate": 2.29,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d3"
+  },
+  "Year": 1,
+  "Week": 8,
+  "Wb_rate": 2.29,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d4"
+  },
+  "Year": 1,
+  "Week": 9,
+  "Wb_rate": 2.52,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d5"
+  },
+  "Year": 1,
+  "Week": 9,
+  "Wb_rate": 2.52,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d6"
+  },
+  "Year": 1,
+  "Week": 9,
+  "Wb_rate": 2.52,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d7"
+  },
+  "Year": 1,
+  "Week": 9,
+  "Wb_rate": 2.52,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d8"
+  },
+  "Year": 1,
+  "Week": 9,
+  "Wb_rate": 2.52,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5d9"
+  },
+  "Year": 1,
+  "Week": 9,
+  "Wb_rate": 2.52,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5da"
+  },
+  "Year": 1,
+  "Week": 9,
+  "Wb_rate": 2.52,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5db"
+  },
+  "Year": 1,
+  "Week": 10,
+  "Wb_rate": 3.22,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5dc"
+  },
+  "Year": 1,
+  "Week": 10,
+  "Wb_rate": 3.22,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5dd"
+  },
+  "Year": 1,
+  "Week": 10,
+  "Wb_rate": 3.22,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5de"
+  },
+  "Year": 1,
+  "Week": 10,
+  "Wb_rate": 3.22,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5df"
+  },
+  "Year": 1,
+  "Week": 10,
+  "Wb_rate": 3.22,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e0"
+  },
+  "Year": 1,
+  "Week": 10,
+  "Wb_rate": 3.22,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e1"
+  },
+  "Year": 1,
+  "Week": 10,
+  "Wb_rate": 3.22,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e2"
+  },
+  "Year": 1,
+  "Week": 11,
+  "Wb_rate": 2.67,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e3"
+  },
+  "Year": 1,
+  "Week": 11,
+  "Wb_rate": 2.67,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e4"
+  },
+  "Year": 1,
+  "Week": 11,
+  "Wb_rate": 2.67,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e5"
+  },
+  "Year": 1,
+  "Week": 11,
+  "Wb_rate": 2.67,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e6"
+  },
+  "Year": 1,
+  "Week": 11,
+  "Wb_rate": 2.67,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e7"
+  },
+  "Year": 1,
+  "Week": 11,
+  "Wb_rate": 2.67,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e8"
+  },
+  "Year": 1,
+  "Week": 11,
+  "Wb_rate": 2.67,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5e9"
+  },
+  "Year": 1,
+  "Week": 12,
+  "Wb_rate": 1.99,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ea"
+  },
+  "Year": 1,
+  "Week": 12,
+  "Wb_rate": 1.99,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5eb"
+  },
+  "Year": 1,
+  "Week": 12,
+  "Wb_rate": 1.99,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ec"
+  },
+  "Year": 1,
+  "Week": 12,
+  "Wb_rate": 1.99,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ed"
+  },
+  "Year": 1,
+  "Week": 12,
+  "Wb_rate": 1.99,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ee"
+  },
+  "Year": 1,
+  "Week": 12,
+  "Wb_rate": 1.99,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ef"
+  },
+  "Year": 1,
+  "Week": 12,
+  "Wb_rate": 1.99,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f0"
+  },
+  "Year": 1,
+  "Week": 13,
+  "Wb_rate": 1.92,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f1"
+  },
+  "Year": 1,
+  "Week": 13,
+  "Wb_rate": 1.92,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f2"
+  },
+  "Year": 1,
+  "Week": 13,
+  "Wb_rate": 1.92,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f3"
+  },
+  "Year": 1,
+  "Week": 13,
+  "Wb_rate": 1.92,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f4"
+  },
+  "Year": 1,
+  "Week": 13,
+  "Wb_rate": 1.92,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f5"
+  },
+  "Year": 1,
+  "Week": 13,
+  "Wb_rate": 1.92,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f6"
+  },
+  "Year": 1,
+  "Week": 13,
+  "Wb_rate": 1.92,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f7"
+  },
+  "Year": 1,
+  "Week": 14,
+  "Wb_rate": 1.55,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f8"
+  },
+  "Year": 1,
+  "Week": 14,
+  "Wb_rate": 1.55,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5f9"
+  },
+  "Year": 1,
+  "Week": 14,
+  "Wb_rate": 1.55,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5fa"
+  },
+  "Year": 1,
+  "Week": 14,
+  "Wb_rate": 1.55,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5fb"
+  },
+  "Year": 1,
+  "Week": 14,
+  "Wb_rate": 1.55,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5fc"
+  },
+  "Year": 1,
+  "Week": 14,
+  "Wb_rate": 1.55,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5fd"
+  },
+  "Year": 1,
+  "Week": 14,
+  "Wb_rate": 1.55,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5fe"
+  },
+  "Year": 1,
+  "Week": 15,
+  "Wb_rate": 1.46,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e5ff"
+  },
+  "Year": 1,
+  "Week": 15,
+  "Wb_rate": 1.46,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e600"
+  },
+  "Year": 1,
+  "Week": 15,
+  "Wb_rate": 1.46,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e601"
+  },
+  "Year": 1,
+  "Week": 15,
+  "Wb_rate": 1.46,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e602"
+  },
+  "Year": 1,
+  "Week": 15,
+  "Wb_rate": 1.46,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e603"
+  },
+  "Year": 1,
+  "Week": 15,
+  "Wb_rate": 1.46,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e604"
+  },
+  "Year": 1,
+  "Week": 15,
+  "Wb_rate": 1.46,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e605"
+  },
+  "Year": 1,
+  "Week": 16,
+  "Wb_rate": 1.78,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e606"
+  },
+  "Year": 1,
+  "Week": 16,
+  "Wb_rate": 1.78,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e607"
+  },
+  "Year": 1,
+  "Week": 16,
+  "Wb_rate": 1.78,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e608"
+  },
+  "Year": 1,
+  "Week": 16,
+  "Wb_rate": 1.78,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e609"
+  },
+  "Year": 1,
+  "Week": 16,
+  "Wb_rate": 1.78,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e60a"
+  },
+  "Year": 1,
+  "Week": 16,
+  "Wb_rate": 1.78,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e60b"
+  },
+  "Year": 1,
+  "Week": 16,
+  "Wb_rate": 1.78,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e60c"
+  },
+  "Year": 1,
+  "Week": 17,
+  "Wb_rate": 1.69,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e60d"
+  },
+  "Year": 1,
+  "Week": 17,
+  "Wb_rate": 1.69,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e60e"
+  },
+  "Year": 1,
+  "Week": 17,
+  "Wb_rate": 1.69,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e60f"
+  },
+  "Year": 1,
+  "Week": 17,
+  "Wb_rate": 1.69,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e610"
+  },
+  "Year": 1,
+  "Week": 17,
+  "Wb_rate": 1.69,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e611"
+  },
+  "Year": 1,
+  "Week": 17,
+  "Wb_rate": 1.69,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e612"
+  },
+  "Year": 1,
+  "Week": 17,
+  "Wb_rate": 1.69,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e613"
+  },
+  "Year": 1,
+  "Week": 18,
+  "Wb_rate": 1.66,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e614"
+  },
+  "Year": 1,
+  "Week": 18,
+  "Wb_rate": 1.66,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e615"
+  },
+  "Year": 1,
+  "Week": 18,
+  "Wb_rate": 1.66,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e616"
+  },
+  "Year": 1,
+  "Week": 18,
+  "Wb_rate": 1.66,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e617"
+  },
+  "Year": 1,
+  "Week": 18,
+  "Wb_rate": 1.66,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e618"
+  },
+  "Year": 1,
+  "Week": 18,
+  "Wb_rate": 1.66,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e619"
+  },
+  "Year": 1,
+  "Week": 18,
+  "Wb_rate": 1.66,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e61a"
+  },
+  "Year": 1,
+  "Week": 19,
+  "Wb_rate": 1.41,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e61b"
+  },
+  "Year": 1,
+  "Week": 19,
+  "Wb_rate": 1.41,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e61c"
+  },
+  "Year": 1,
+  "Week": 19,
+  "Wb_rate": 1.41,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e61d"
+  },
+  "Year": 1,
+  "Week": 19,
+  "Wb_rate": 1.41,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e61e"
+  },
+  "Year": 1,
+  "Week": 19,
+  "Wb_rate": 1.41,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e61f"
+  },
+  "Year": 1,
+  "Week": 19,
+  "Wb_rate": 1.41,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e620"
+  },
+  "Year": 1,
+  "Week": 19,
+  "Wb_rate": 1.41,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e621"
+  },
+  "Year": 1,
+  "Week": 20,
+  "Wb_rate": 1.54,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e622"
+  },
+  "Year": 1,
+  "Week": 20,
+  "Wb_rate": 1.54,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e623"
+  },
+  "Year": 1,
+  "Week": 20,
+  "Wb_rate": 1.54,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e624"
+  },
+  "Year": 1,
+  "Week": 20,
+  "Wb_rate": 1.54,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e625"
+  },
+  "Year": 1,
+  "Week": 20,
+  "Wb_rate": 1.54,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e626"
+  },
+  "Year": 1,
+  "Week": 20,
+  "Wb_rate": 1.54,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e627"
+  },
+  "Year": 1,
+  "Week": 20,
+  "Wb_rate": 1.54,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e628"
+  },
+  "Year": 1,
+  "Week": 21,
+  "Wb_rate": 1.48,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e629"
+  },
+  "Year": 1,
+  "Week": 21,
+  "Wb_rate": 1.48,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e62a"
+  },
+  "Year": 1,
+  "Week": 21,
+  "Wb_rate": 1.48,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e62b"
+  },
+  "Year": 1,
+  "Week": 21,
+  "Wb_rate": 1.48,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e62c"
+  },
+  "Year": 1,
+  "Week": 21,
+  "Wb_rate": 1.48,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e62d"
+  },
+  "Year": 1,
+  "Week": 21,
+  "Wb_rate": 1.48,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e62e"
+  },
+  "Year": 1,
+  "Week": 21,
+  "Wb_rate": 1.48,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e62f"
+  },
+  "Year": 1,
+  "Week": 22,
+  "Wb_rate": 1.53,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e630"
+  },
+  "Year": 1,
+  "Week": 22,
+  "Wb_rate": 1.53,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e631"
+  },
+  "Year": 1,
+  "Week": 22,
+  "Wb_rate": 1.53,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e632"
+  },
+  "Year": 1,
+  "Week": 22,
+  "Wb_rate": 1.53,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e633"
+  },
+  "Year": 1,
+  "Week": 22,
+  "Wb_rate": 1.53,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e634"
+  },
+  "Year": 1,
+  "Week": 22,
+  "Wb_rate": 1.53,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e635"
+  },
+  "Year": 1,
+  "Week": 22,
+  "Wb_rate": 1.53,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e636"
+  },
+  "Year": 1,
+  "Week": 23,
+  "Wb_rate": 1.2,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e637"
+  },
+  "Year": 1,
+  "Week": 23,
+  "Wb_rate": 1.2,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e638"
+  },
+  "Year": 1,
+  "Week": 23,
+  "Wb_rate": 1.2,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e639"
+  },
+  "Year": 1,
+  "Week": 23,
+  "Wb_rate": 1.2,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e63a"
+  },
+  "Year": 1,
+  "Week": 23,
+  "Wb_rate": 1.2,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e63b"
+  },
+  "Year": 1,
+  "Week": 23,
+  "Wb_rate": 1.2,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e63c"
+  },
+  "Year": 1,
+  "Week": 23,
+  "Wb_rate": 1.2,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e63d"
+  },
+  "Year": 1,
+  "Week": 24,
+  "Wb_rate": 1.07,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e63e"
+  },
+  "Year": 1,
+  "Week": 24,
+  "Wb_rate": 1.07,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e63f"
+  },
+  "Year": 1,
+  "Week": 24,
+  "Wb_rate": 1.07,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e640"
+  },
+  "Year": 1,
+  "Week": 24,
+  "Wb_rate": 1.07,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e641"
+  },
+  "Year": 1,
+  "Week": 24,
+  "Wb_rate": 1.07,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e642"
+  },
+  "Year": 1,
+  "Week": 24,
+  "Wb_rate": 1.07,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e643"
+  },
+  "Year": 1,
+  "Week": 24,
+  "Wb_rate": 1.07,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e644"
+  },
+  "Year": 1,
+  "Week": 25,
+  "Wb_rate": 0.9,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e645"
+  },
+  "Year": 1,
+  "Week": 25,
+  "Wb_rate": 0.9,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e646"
+  },
+  "Year": 1,
+  "Week": 25,
+  "Wb_rate": 0.9,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e647"
+  },
+  "Year": 1,
+  "Week": 25,
+  "Wb_rate": 0.9,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e648"
+  },
+  "Year": 1,
+  "Week": 25,
+  "Wb_rate": 0.9,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e649"
+  },
+  "Year": 1,
+  "Week": 25,
+  "Wb_rate": 0.9,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e64a"
+  },
+  "Year": 1,
+  "Week": 25,
+  "Wb_rate": 0.9,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e64b"
+  },
+  "Year": 1,
+  "Week": 26,
+  "Wb_rate": 0.77,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e64c"
+  },
+  "Year": 1,
+  "Week": 26,
+  "Wb_rate": 0.77,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e64d"
+  },
+  "Year": 1,
+  "Week": 26,
+  "Wb_rate": 0.77,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e64e"
+  },
+  "Year": 1,
+  "Week": 26,
+  "Wb_rate": 0.77,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e64f"
+  },
+  "Year": 1,
+  "Week": 26,
+  "Wb_rate": 0.77,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e650"
+  },
+  "Year": 1,
+  "Week": 26,
+  "Wb_rate": 0.77,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e651"
+  },
+  "Year": 1,
+  "Week": 26,
+  "Wb_rate": 0.77,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e652"
+  },
+  "Year": 1,
+  "Week": 27,
+  "Wb_rate": 0.65,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e653"
+  },
+  "Year": 1,
+  "Week": 27,
+  "Wb_rate": 0.65,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e654"
+  },
+  "Year": 1,
+  "Week": 27,
+  "Wb_rate": 0.65,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e655"
+  },
+  "Year": 1,
+  "Week": 27,
+  "Wb_rate": 0.65,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e656"
+  },
+  "Year": 1,
+  "Week": 27,
+  "Wb_rate": 0.65,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e657"
+  },
+  "Year": 1,
+  "Week": 27,
+  "Wb_rate": 0.65,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e658"
+  },
+  "Year": 1,
+  "Week": 27,
+  "Wb_rate": 0.65,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e659"
+  },
+  "Year": 1,
+  "Week": 28,
+  "Wb_rate": 0.61,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e65a"
+  },
+  "Year": 1,
+  "Week": 28,
+  "Wb_rate": 0.61,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e65b"
+  },
+  "Year": 1,
+  "Week": 28,
+  "Wb_rate": 0.61,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e65c"
+  },
+  "Year": 1,
+  "Week": 28,
+  "Wb_rate": 0.61,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e65d"
+  },
+  "Year": 1,
+  "Week": 28,
+  "Wb_rate": 0.61,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e65e"
+  },
+  "Year": 1,
+  "Week": 28,
+  "Wb_rate": 0.61,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e65f"
+  },
+  "Year": 1,
+  "Week": 28,
+  "Wb_rate": 0.61,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e660"
+  },
+  "Year": 1,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e661"
+  },
+  "Year": 1,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e662"
+  },
+  "Year": 1,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e663"
+  },
+  "Year": 1,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e664"
+  },
+  "Year": 1,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e665"
+  },
+  "Year": 1,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e666"
+  },
+  "Year": 1,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e667"
+  },
+  "Year": 1,
+  "Week": 30,
+  "Wb_rate": 0.33,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e668"
+  },
+  "Year": 1,
+  "Week": 30,
+  "Wb_rate": 0.33,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e669"
+  },
+  "Year": 1,
+  "Week": 30,
+  "Wb_rate": 0.33,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e66a"
+  },
+  "Year": 1,
+  "Week": 30,
+  "Wb_rate": 0.33,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e66b"
+  },
+  "Year": 1,
+  "Week": 30,
+  "Wb_rate": 0.33,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e66c"
+  },
+  "Year": 1,
+  "Week": 30,
+  "Wb_rate": 0.33,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e66d"
+  },
+  "Year": 1,
+  "Week": 30,
+  "Wb_rate": 0.33,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e66e"
+  },
+  "Year": 1,
+  "Week": 31,
+  "Wb_rate": 0.31,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e66f"
+  },
+  "Year": 1,
+  "Week": 31,
+  "Wb_rate": 0.31,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e670"
+  },
+  "Year": 1,
+  "Week": 31,
+  "Wb_rate": 0.31,
+  "Season": "Season_1"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e671"
+  },
+  "Year": 2,
+  "Week": 1,
+  "Wb_rate": 1.31,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e672"
+  },
+  "Year": 2,
+  "Week": 1,
+  "Wb_rate": 1.31,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e673"
+  },
+  "Year": 2,
+  "Week": 1,
+  "Wb_rate": 1.31,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e674"
+  },
+  "Year": 2,
+  "Week": 1,
+  "Wb_rate": 1.31,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e675"
+  },
+  "Year": 2,
+  "Week": 1,
+  "Wb_rate": 1.31,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e676"
+  },
+  "Year": 2,
+  "Week": 1,
+  "Wb_rate": 1.31,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e677"
+  },
+  "Year": 2,
+  "Week": 1,
+  "Wb_rate": 1.31,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e678"
+  },
+  "Year": 2,
+  "Week": 2,
+  "Wb_rate": 1.04,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e679"
+  },
+  "Year": 2,
+  "Week": 2,
+  "Wb_rate": 1.04,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e67a"
+  },
+  "Year": 2,
+  "Week": 2,
+  "Wb_rate": 1.04,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e67b"
+  },
+  "Year": 2,
+  "Week": 2,
+  "Wb_rate": 1.04,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e67c"
+  },
+  "Year": 2,
+  "Week": 2,
+  "Wb_rate": 1.04,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e67d"
+  },
+  "Year": 2,
+  "Week": 2,
+  "Wb_rate": 1.04,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e67e"
+  },
+  "Year": 2,
+  "Week": 2,
+  "Wb_rate": 1.04,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e67f"
+  },
+  "Year": 2,
+  "Week": 3,
+  "Wb_rate": 2.83,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e680"
+  },
+  "Year": 2,
+  "Week": 3,
+  "Wb_rate": 2.83,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e681"
+  },
+  "Year": 2,
+  "Week": 3,
+  "Wb_rate": 2.83,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e682"
+  },
+  "Year": 2,
+  "Week": 3,
+  "Wb_rate": 2.83,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e683"
+  },
+  "Year": 2,
+  "Week": 3,
+  "Wb_rate": 2.83,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e684"
+  },
+  "Year": 2,
+  "Week": 3,
+  "Wb_rate": 2.83,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e685"
+  },
+  "Year": 2,
+  "Week": 3,
+  "Wb_rate": 2.83,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e686"
+  },
+  "Year": 2,
+  "Week": 4,
+  "Wb_rate": 4.46,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e687"
+  },
+  "Year": 2,
+  "Week": 4,
+  "Wb_rate": 4.46,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e688"
+  },
+  "Year": 2,
+  "Week": 4,
+  "Wb_rate": 4.46,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e689"
+  },
+  "Year": 2,
+  "Week": 4,
+  "Wb_rate": 4.46,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e68a"
+  },
+  "Year": 2,
+  "Week": 4,
+  "Wb_rate": 4.46,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e68b"
+  },
+  "Year": 2,
+  "Week": 4,
+  "Wb_rate": 4.46,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e68c"
+  },
+  "Year": 2,
+  "Week": 4,
+  "Wb_rate": 4.46,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e68d"
+  },
+  "Year": 2,
+  "Week": 5,
+  "Wb_rate": 4.12,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e68e"
+  },
+  "Year": 2,
+  "Week": 5,
+  "Wb_rate": 4.12,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e68f"
+  },
+  "Year": 2,
+  "Week": 5,
+  "Wb_rate": 4.12,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e690"
+  },
+  "Year": 2,
+  "Week": 5,
+  "Wb_rate": 4.12,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e691"
+  },
+  "Year": 2,
+  "Week": 5,
+  "Wb_rate": 4.12,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e692"
+  },
+  "Year": 2,
+  "Week": 5,
+  "Wb_rate": 4.12,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e693"
+  },
+  "Year": 2,
+  "Week": 5,
+  "Wb_rate": 4.12,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e694"
+  },
+  "Year": 2,
+  "Week": 6,
+  "Wb_rate": 2.54,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e695"
+  },
+  "Year": 2,
+  "Week": 6,
+  "Wb_rate": 2.54,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e696"
+  },
+  "Year": 2,
+  "Week": 6,
+  "Wb_rate": 2.54,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e697"
+  },
+  "Year": 2,
+  "Week": 6,
+  "Wb_rate": 2.54,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e698"
+  },
+  "Year": 2,
+  "Week": 6,
+  "Wb_rate": 2.54,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e699"
+  },
+  "Year": 2,
+  "Week": 6,
+  "Wb_rate": 2.54,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e69a"
+  },
+  "Year": 2,
+  "Week": 6,
+  "Wb_rate": 2.54,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e69b"
+  },
+  "Year": 2,
+  "Week": 7,
+  "Wb_rate": 1.82,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e69c"
+  },
+  "Year": 2,
+  "Week": 7,
+  "Wb_rate": 1.82,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e69d"
+  },
+  "Year": 2,
+  "Week": 7,
+  "Wb_rate": 1.82,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e69e"
+  },
+  "Year": 2,
+  "Week": 7,
+  "Wb_rate": 1.82,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e69f"
+  },
+  "Year": 2,
+  "Week": 7,
+  "Wb_rate": 1.82,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a0"
+  },
+  "Year": 2,
+  "Week": 7,
+  "Wb_rate": 1.82,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a1"
+  },
+  "Year": 2,
+  "Week": 7,
+  "Wb_rate": 1.82,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a2"
+  },
+  "Year": 2,
+  "Week": 8,
+  "Wb_rate": 1.76,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a3"
+  },
+  "Year": 2,
+  "Week": 8,
+  "Wb_rate": 1.76,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a4"
+  },
+  "Year": 2,
+  "Week": 8,
+  "Wb_rate": 1.76,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a5"
+  },
+  "Year": 2,
+  "Week": 8,
+  "Wb_rate": 1.76,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a6"
+  },
+  "Year": 2,
+  "Week": 8,
+  "Wb_rate": 1.76,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a7"
+  },
+  "Year": 2,
+  "Week": 8,
+  "Wb_rate": 1.76,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a8"
+  },
+  "Year": 2,
+  "Week": 8,
+  "Wb_rate": 1.76,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6a9"
+  },
+  "Year": 2,
+  "Week": 9,
+  "Wb_rate": 3.78,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6aa"
+  },
+  "Year": 2,
+  "Week": 9,
+  "Wb_rate": 3.78,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ab"
+  },
+  "Year": 2,
+  "Week": 9,
+  "Wb_rate": 3.78,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ac"
+  },
+  "Year": 2,
+  "Week": 9,
+  "Wb_rate": 3.78,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ad"
+  },
+  "Year": 2,
+  "Week": 9,
+  "Wb_rate": 3.78,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ae"
+  },
+  "Year": 2,
+  "Week": 9,
+  "Wb_rate": 3.78,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6af"
+  },
+  "Year": 2,
+  "Week": 9,
+  "Wb_rate": 3.78,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b0"
+  },
+  "Year": 2,
+  "Week": 10,
+  "Wb_rate": 2.78,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b1"
+  },
+  "Year": 2,
+  "Week": 10,
+  "Wb_rate": 2.78,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b2"
+  },
+  "Year": 2,
+  "Week": 10,
+  "Wb_rate": 2.78,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b3"
+  },
+  "Year": 2,
+  "Week": 10,
+  "Wb_rate": 2.78,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b4"
+  },
+  "Year": 2,
+  "Week": 10,
+  "Wb_rate": 2.78,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b5"
+  },
+  "Year": 2,
+  "Week": 10,
+  "Wb_rate": 2.78,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b6"
+  },
+  "Year": 2,
+  "Week": 10,
+  "Wb_rate": 2.78,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b7"
+  },
+  "Year": 2,
+  "Week": 11,
+  "Wb_rate": 1.88,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b8"
+  },
+  "Year": 2,
+  "Week": 11,
+  "Wb_rate": 1.88,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6b9"
+  },
+  "Year": 2,
+  "Week": 11,
+  "Wb_rate": 1.88,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ba"
+  },
+  "Year": 2,
+  "Week": 11,
+  "Wb_rate": 1.88,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6bb"
+  },
+  "Year": 2,
+  "Week": 11,
+  "Wb_rate": 1.88,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6bc"
+  },
+  "Year": 2,
+  "Week": 11,
+  "Wb_rate": 1.88,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6bd"
+  },
+  "Year": 2,
+  "Week": 11,
+  "Wb_rate": 1.88,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6be"
+  },
+  "Year": 2,
+  "Week": 12,
+  "Wb_rate": 1.91,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6bf"
+  },
+  "Year": 2,
+  "Week": 12,
+  "Wb_rate": 1.91,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c0"
+  },
+  "Year": 2,
+  "Week": 12,
+  "Wb_rate": 1.91,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c1"
+  },
+  "Year": 2,
+  "Week": 12,
+  "Wb_rate": 1.91,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c2"
+  },
+  "Year": 2,
+  "Week": 12,
+  "Wb_rate": 1.91,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c3"
+  },
+  "Year": 2,
+  "Week": 12,
+  "Wb_rate": 1.91,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c4"
+  },
+  "Year": 2,
+  "Week": 12,
+  "Wb_rate": 1.91,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c5"
+  },
+  "Year": 2,
+  "Week": 13,
+  "Wb_rate": 1.32,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c6"
+  },
+  "Year": 2,
+  "Week": 13,
+  "Wb_rate": 1.32,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c7"
+  },
+  "Year": 2,
+  "Week": 13,
+  "Wb_rate": 1.32,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c8"
+  },
+  "Year": 2,
+  "Week": 13,
+  "Wb_rate": 1.32,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6c9"
+  },
+  "Year": 2,
+  "Week": 13,
+  "Wb_rate": 1.32,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ca"
+  },
+  "Year": 2,
+  "Week": 13,
+  "Wb_rate": 1.32,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6cb"
+  },
+  "Year": 2,
+  "Week": 13,
+  "Wb_rate": 1.32,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6cc"
+  },
+  "Year": 2,
+  "Week": 14,
+  "Wb_rate": 1.1,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6cd"
+  },
+  "Year": 2,
+  "Week": 14,
+  "Wb_rate": 1.1,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ce"
+  },
+  "Year": 2,
+  "Week": 14,
+  "Wb_rate": 1.1,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6cf"
+  },
+  "Year": 2,
+  "Week": 14,
+  "Wb_rate": 1.1,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d0"
+  },
+  "Year": 2,
+  "Week": 14,
+  "Wb_rate": 1.1,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d1"
+  },
+  "Year": 2,
+  "Week": 14,
+  "Wb_rate": 1.1,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d2"
+  },
+  "Year": 2,
+  "Week": 14,
+  "Wb_rate": 1.1,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d3"
+  },
+  "Year": 2,
+  "Week": 15,
+  "Wb_rate": 0.99,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d4"
+  },
+  "Year": 2,
+  "Week": 15,
+  "Wb_rate": 0.99,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d5"
+  },
+  "Year": 2,
+  "Week": 15,
+  "Wb_rate": 0.99,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d6"
+  },
+  "Year": 2,
+  "Week": 15,
+  "Wb_rate": 0.99,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d7"
+  },
+  "Year": 2,
+  "Week": 15,
+  "Wb_rate": 0.99,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d8"
+  },
+  "Year": 2,
+  "Week": 15,
+  "Wb_rate": 0.99,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6d9"
+  },
+  "Year": 2,
+  "Week": 15,
+  "Wb_rate": 0.99,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6da"
+  },
+  "Year": 2,
+  "Week": 16,
+  "Wb_rate": 1.5,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6db"
+  },
+  "Year": 2,
+  "Week": 16,
+  "Wb_rate": 1.5,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6dc"
+  },
+  "Year": 2,
+  "Week": 16,
+  "Wb_rate": 1.5,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6dd"
+  },
+  "Year": 2,
+  "Week": 16,
+  "Wb_rate": 1.5,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6de"
+  },
+  "Year": 2,
+  "Week": 16,
+  "Wb_rate": 1.5,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6df"
+  },
+  "Year": 2,
+  "Week": 16,
+  "Wb_rate": 1.5,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e0"
+  },
+  "Year": 2,
+  "Week": 16,
+  "Wb_rate": 1.5,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e1"
+  },
+  "Year": 2,
+  "Week": 17,
+  "Wb_rate": 1.42,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e2"
+  },
+  "Year": 2,
+  "Week": 17,
+  "Wb_rate": 1.42,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e3"
+  },
+  "Year": 2,
+  "Week": 17,
+  "Wb_rate": 1.42,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e4"
+  },
+  "Year": 2,
+  "Week": 17,
+  "Wb_rate": 1.42,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e5"
+  },
+  "Year": 2,
+  "Week": 17,
+  "Wb_rate": 1.42,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e6"
+  },
+  "Year": 2,
+  "Week": 17,
+  "Wb_rate": 1.42,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e7"
+  },
+  "Year": 2,
+  "Week": 17,
+  "Wb_rate": 1.42,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e8"
+  },
+  "Year": 2,
+  "Week": 18,
+  "Wb_rate": 1.36,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6e9"
+  },
+  "Year": 2,
+  "Week": 18,
+  "Wb_rate": 1.36,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ea"
+  },
+  "Year": 2,
+  "Week": 18,
+  "Wb_rate": 1.36,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6eb"
+  },
+  "Year": 2,
+  "Week": 18,
+  "Wb_rate": 1.36,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ec"
+  },
+  "Year": 2,
+  "Week": 18,
+  "Wb_rate": 1.36,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ed"
+  },
+  "Year": 2,
+  "Week": 18,
+  "Wb_rate": 1.36,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ee"
+  },
+  "Year": 2,
+  "Week": 18,
+  "Wb_rate": 1.36,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ef"
+  },
+  "Year": 2,
+  "Week": 19,
+  "Wb_rate": 1.15,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f0"
+  },
+  "Year": 2,
+  "Week": 19,
+  "Wb_rate": 1.15,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f1"
+  },
+  "Year": 2,
+  "Week": 19,
+  "Wb_rate": 1.15,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f2"
+  },
+  "Year": 2,
+  "Week": 19,
+  "Wb_rate": 1.15,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f3"
+  },
+  "Year": 2,
+  "Week": 19,
+  "Wb_rate": 1.15,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f4"
+  },
+  "Year": 2,
+  "Week": 19,
+  "Wb_rate": 1.15,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f5"
+  },
+  "Year": 2,
+  "Week": 19,
+  "Wb_rate": 1.15,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f6"
+  },
+  "Year": 2,
+  "Week": 20,
+  "Wb_rate": 1.25,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f7"
+  },
+  "Year": 2,
+  "Week": 20,
+  "Wb_rate": 1.25,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f8"
+  },
+  "Year": 2,
+  "Week": 20,
+  "Wb_rate": 1.25,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6f9"
+  },
+  "Year": 2,
+  "Week": 20,
+  "Wb_rate": 1.25,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6fa"
+  },
+  "Year": 2,
+  "Week": 20,
+  "Wb_rate": 1.25,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6fb"
+  },
+  "Year": 2,
+  "Week": 20,
+  "Wb_rate": 1.25,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6fc"
+  },
+  "Year": 2,
+  "Week": 20,
+  "Wb_rate": 1.25,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6fd"
+  },
+  "Year": 2,
+  "Week": 21,
+  "Wb_rate": 1.21,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6fe"
+  },
+  "Year": 2,
+  "Week": 21,
+  "Wb_rate": 1.21,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e6ff"
+  },
+  "Year": 2,
+  "Week": 21,
+  "Wb_rate": 1.21,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e700"
+  },
+  "Year": 2,
+  "Week": 21,
+  "Wb_rate": 1.21,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e701"
+  },
+  "Year": 2,
+  "Week": 21,
+  "Wb_rate": 1.21,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e702"
+  },
+  "Year": 2,
+  "Week": 21,
+  "Wb_rate": 1.21,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e703"
+  },
+  "Year": 2,
+  "Week": 21,
+  "Wb_rate": 1.21,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e704"
+  },
+  "Year": 2,
+  "Week": 22,
+  "Wb_rate": 1.27,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e705"
+  },
+  "Year": 2,
+  "Week": 22,
+  "Wb_rate": 1.27,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e706"
+  },
+  "Year": 2,
+  "Week": 22,
+  "Wb_rate": 1.27,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e707"
+  },
+  "Year": 2,
+  "Week": 22,
+  "Wb_rate": 1.27,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e708"
+  },
+  "Year": 2,
+  "Week": 22,
+  "Wb_rate": 1.27,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e709"
+  },
+  "Year": 2,
+  "Week": 22,
+  "Wb_rate": 1.27,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e70a"
+  },
+  "Year": 2,
+  "Week": 22,
+  "Wb_rate": 1.27,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e70b"
+  },
+  "Year": 2,
+  "Week": 23,
+  "Wb_rate": 1.05,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e70c"
+  },
+  "Year": 2,
+  "Week": 23,
+  "Wb_rate": 1.05,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e70d"
+  },
+  "Year": 2,
+  "Week": 23,
+  "Wb_rate": 1.05,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e70e"
+  },
+  "Year": 2,
+  "Week": 23,
+  "Wb_rate": 1.05,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e70f"
+  },
+  "Year": 2,
+  "Week": 23,
+  "Wb_rate": 1.05,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e710"
+  },
+  "Year": 2,
+  "Week": 23,
+  "Wb_rate": 1.05,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e711"
+  },
+  "Year": 2,
+  "Week": 23,
+  "Wb_rate": 1.05,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e712"
+  },
+  "Year": 2,
+  "Week": 24,
+  "Wb_rate": 0.98,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e713"
+  },
+  "Year": 2,
+  "Week": 24,
+  "Wb_rate": 0.98,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e714"
+  },
+  "Year": 2,
+  "Week": 24,
+  "Wb_rate": 0.98,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e715"
+  },
+  "Year": 2,
+  "Week": 24,
+  "Wb_rate": 0.98,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e716"
+  },
+  "Year": 2,
+  "Week": 24,
+  "Wb_rate": 0.98,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e717"
+  },
+  "Year": 2,
+  "Week": 24,
+  "Wb_rate": 0.98,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e718"
+  },
+  "Year": 2,
+  "Week": 24,
+  "Wb_rate": 0.98,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e719"
+  },
+  "Year": 2,
+  "Week": 25,
+  "Wb_rate": 0.88,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e71a"
+  },
+  "Year": 2,
+  "Week": 25,
+  "Wb_rate": 0.88,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e71b"
+  },
+  "Year": 2,
+  "Week": 25,
+  "Wb_rate": 0.88,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e71c"
+  },
+  "Year": 2,
+  "Week": 25,
+  "Wb_rate": 0.88,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e71d"
+  },
+  "Year": 2,
+  "Week": 25,
+  "Wb_rate": 0.88,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e71e"
+  },
+  "Year": 2,
+  "Week": 25,
+  "Wb_rate": 0.88,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e71f"
+  },
+  "Year": 2,
+  "Week": 25,
+  "Wb_rate": 0.88,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e720"
+  },
+  "Year": 2,
+  "Week": 26,
+  "Wb_rate": 0.82,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e721"
+  },
+  "Year": 2,
+  "Week": 26,
+  "Wb_rate": 0.82,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e722"
+  },
+  "Year": 2,
+  "Week": 26,
+  "Wb_rate": 0.82,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e723"
+  },
+  "Year": 2,
+  "Week": 26,
+  "Wb_rate": 0.82,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e724"
+  },
+  "Year": 2,
+  "Week": 26,
+  "Wb_rate": 0.82,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e725"
+  },
+  "Year": 2,
+  "Week": 26,
+  "Wb_rate": 0.82,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e726"
+  },
+  "Year": 2,
+  "Week": 26,
+  "Wb_rate": 0.82,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e727"
+  },
+  "Year": 2,
+  "Week": 27,
+  "Wb_rate": 0.8,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e728"
+  },
+  "Year": 2,
+  "Week": 27,
+  "Wb_rate": 0.8,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e729"
+  },
+  "Year": 2,
+  "Week": 27,
+  "Wb_rate": 0.8,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e72a"
+  },
+  "Year": 2,
+  "Week": 27,
+  "Wb_rate": 0.8,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e72b"
+  },
+  "Year": 2,
+  "Week": 27,
+  "Wb_rate": 0.8,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e72c"
+  },
+  "Year": 2,
+  "Week": 27,
+  "Wb_rate": 0.8,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e72d"
+  },
+  "Year": 2,
+  "Week": 27,
+  "Wb_rate": 0.8,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e72e"
+  },
+  "Year": 2,
+  "Week": 28,
+  "Wb_rate": 0.8,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e72f"
+  },
+  "Year": 2,
+  "Week": 28,
+  "Wb_rate": 0.8,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e730"
+  },
+  "Year": 2,
+  "Week": 28,
+  "Wb_rate": 0.8,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e731"
+  },
+  "Year": 2,
+  "Week": 28,
+  "Wb_rate": 0.8,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e732"
+  },
+  "Year": 2,
+  "Week": 28,
+  "Wb_rate": 0.8,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e733"
+  },
+  "Year": 2,
+  "Week": 28,
+  "Wb_rate": 0.8,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e734"
+  },
+  "Year": 2,
+  "Week": 28,
+  "Wb_rate": 0.8,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e735"
+  },
+  "Year": 2,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e736"
+  },
+  "Year": 2,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e737"
+  },
+  "Year": 2,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e738"
+  },
+  "Year": 2,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e739"
+  },
+  "Year": 2,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e73a"
+  },
+  "Year": 2,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e73b"
+  },
+  "Year": 2,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e73c"
+  },
+  "Year": 2,
+  "Week": 30,
+  "Wb_rate": 0.25,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e73d"
+  },
+  "Year": 2,
+  "Week": 30,
+  "Wb_rate": 0.25,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e73e"
+  },
+  "Year": 2,
+  "Week": 30,
+  "Wb_rate": 0.25,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e73f"
+  },
+  "Year": 2,
+  "Week": 30,
+  "Wb_rate": 0.25,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e740"
+  },
+  "Year": 2,
+  "Week": 30,
+  "Wb_rate": 0.25,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e741"
+  },
+  "Year": 2,
+  "Week": 30,
+  "Wb_rate": 0.25,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e742"
+  },
+  "Year": 2,
+  "Week": 30,
+  "Wb_rate": 0.25,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e743"
+  },
+  "Year": 2,
+  "Week": 31,
+  "Wb_rate": 0.27,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e744"
+  },
+  "Year": 2,
+  "Week": 31,
+  "Wb_rate": 0.27,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e745"
+  },
+  "Year": 2,
+  "Week": 31,
+  "Wb_rate": 0.27,
+  "Season": "Season_2"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e746"
+  },
+  "Year": 3,
+  "Week": 1,
+  "Wb_rate": 1.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e747"
+  },
+  "Year": 3,
+  "Week": 1,
+  "Wb_rate": 1.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e748"
+  },
+  "Year": 3,
+  "Week": 1,
+  "Wb_rate": 1.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e749"
+  },
+  "Year": 3,
+  "Week": 1,
+  "Wb_rate": 1.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e74a"
+  },
+  "Year": 3,
+  "Week": 1,
+  "Wb_rate": 1.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e74b"
+  },
+  "Year": 3,
+  "Week": 1,
+  "Wb_rate": 1.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e74c"
+  },
+  "Year": 3,
+  "Week": 1,
+  "Wb_rate": 1.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e74d"
+  },
+  "Year": 3,
+  "Week": 2,
+  "Wb_rate": 1.63,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e74e"
+  },
+  "Year": 3,
+  "Week": 2,
+  "Wb_rate": 1.63,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e74f"
+  },
+  "Year": 3,
+  "Week": 2,
+  "Wb_rate": 1.63,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e750"
+  },
+  "Year": 3,
+  "Week": 2,
+  "Wb_rate": 1.63,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e751"
+  },
+  "Year": 3,
+  "Week": 2,
+  "Wb_rate": 1.63,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e752"
+  },
+  "Year": 3,
+  "Week": 2,
+  "Wb_rate": 1.63,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e753"
+  },
+  "Year": 3,
+  "Week": 2,
+  "Wb_rate": 1.63,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e754"
+  },
+  "Year": 3,
+  "Week": 3,
+  "Wb_rate": 1.63,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e755"
+  },
+  "Year": 3,
+  "Week": 3,
+  "Wb_rate": 1.63,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e756"
+  },
+  "Year": 3,
+  "Week": 3,
+  "Wb_rate": 1.63,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e757"
+  },
+  "Year": 3,
+  "Week": 3,
+  "Wb_rate": 1.63,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e758"
+  },
+  "Year": 3,
+  "Week": 3,
+  "Wb_rate": 1.63,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e759"
+  },
+  "Year": 3,
+  "Week": 3,
+  "Wb_rate": 1.63,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e75a"
+  },
+  "Year": 3,
+  "Week": 3,
+  "Wb_rate": 1.63,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e75b"
+  },
+  "Year": 3,
+  "Week": 4,
+  "Wb_rate": 1.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e75c"
+  },
+  "Year": 3,
+  "Week": 4,
+  "Wb_rate": 1.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e75d"
+  },
+  "Year": 3,
+  "Week": 4,
+  "Wb_rate": 1.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e75e"
+  },
+  "Year": 3,
+  "Week": 4,
+  "Wb_rate": 1.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e75f"
+  },
+  "Year": 3,
+  "Week": 4,
+  "Wb_rate": 1.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e760"
+  },
+  "Year": 3,
+  "Week": 4,
+  "Wb_rate": 1.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e761"
+  },
+  "Year": 3,
+  "Week": 4,
+  "Wb_rate": 1.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e762"
+  },
+  "Year": 3,
+  "Week": 5,
+  "Wb_rate": 1.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e763"
+  },
+  "Year": 3,
+  "Week": 5,
+  "Wb_rate": 1.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e764"
+  },
+  "Year": 3,
+  "Week": 5,
+  "Wb_rate": 1.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e765"
+  },
+  "Year": 3,
+  "Week": 5,
+  "Wb_rate": 1.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e766"
+  },
+  "Year": 3,
+  "Week": 5,
+  "Wb_rate": 1.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e767"
+  },
+  "Year": 3,
+  "Week": 5,
+  "Wb_rate": 1.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e768"
+  },
+  "Year": 3,
+  "Week": 5,
+  "Wb_rate": 1.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e769"
+  },
+  "Year": 3,
+  "Week": 6,
+  "Wb_rate": 1.2,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e76a"
+  },
+  "Year": 3,
+  "Week": 6,
+  "Wb_rate": 1.2,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e76b"
+  },
+  "Year": 3,
+  "Week": 6,
+  "Wb_rate": 1.2,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e76c"
+  },
+  "Year": 3,
+  "Week": 6,
+  "Wb_rate": 1.2,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e76d"
+  },
+  "Year": 3,
+  "Week": 6,
+  "Wb_rate": 1.2,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e76e"
+  },
+  "Year": 3,
+  "Week": 6,
+  "Wb_rate": 1.2,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e76f"
+  },
+  "Year": 3,
+  "Week": 6,
+  "Wb_rate": 1.2,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e770"
+  },
+  "Year": 3,
+  "Week": 7,
+  "Wb_rate": 1.2,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e771"
+  },
+  "Year": 3,
+  "Week": 7,
+  "Wb_rate": 1.2,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e772"
+  },
+  "Year": 3,
+  "Week": 7,
+  "Wb_rate": 1.2,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e773"
+  },
+  "Year": 3,
+  "Week": 7,
+  "Wb_rate": 1.2,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e774"
+  },
+  "Year": 3,
+  "Week": 7,
+  "Wb_rate": 1.2,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e775"
+  },
+  "Year": 3,
+  "Week": 7,
+  "Wb_rate": 1.2,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e776"
+  },
+  "Year": 3,
+  "Week": 7,
+  "Wb_rate": 1.2,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e777"
+  },
+  "Year": 3,
+  "Week": 8,
+  "Wb_rate": 0.96,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e778"
+  },
+  "Year": 3,
+  "Week": 8,
+  "Wb_rate": 0.96,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e779"
+  },
+  "Year": 3,
+  "Week": 8,
+  "Wb_rate": 0.96,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e77a"
+  },
+  "Year": 3,
+  "Week": 8,
+  "Wb_rate": 0.96,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e77b"
+  },
+  "Year": 3,
+  "Week": 8,
+  "Wb_rate": 0.96,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e77c"
+  },
+  "Year": 3,
+  "Week": 8,
+  "Wb_rate": 0.96,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e77d"
+  },
+  "Year": 3,
+  "Week": 8,
+  "Wb_rate": 0.96,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e77e"
+  },
+  "Year": 3,
+  "Week": 9,
+  "Wb_rate": 0.96,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e77f"
+  },
+  "Year": 3,
+  "Week": 9,
+  "Wb_rate": 0.96,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e780"
+  },
+  "Year": 3,
+  "Week": 9,
+  "Wb_rate": 0.96,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e781"
+  },
+  "Year": 3,
+  "Week": 9,
+  "Wb_rate": 0.96,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e782"
+  },
+  "Year": 3,
+  "Week": 9,
+  "Wb_rate": 0.96,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e783"
+  },
+  "Year": 3,
+  "Week": 9,
+  "Wb_rate": 0.96,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e784"
+  },
+  "Year": 3,
+  "Week": 9,
+  "Wb_rate": 0.96,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e785"
+  },
+  "Year": 3,
+  "Week": 10,
+  "Wb_rate": 0.91,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e786"
+  },
+  "Year": 3,
+  "Week": 10,
+  "Wb_rate": 0.91,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e787"
+  },
+  "Year": 3,
+  "Week": 10,
+  "Wb_rate": 0.91,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e788"
+  },
+  "Year": 3,
+  "Week": 10,
+  "Wb_rate": 0.91,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e789"
+  },
+  "Year": 3,
+  "Week": 10,
+  "Wb_rate": 0.91,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e78a"
+  },
+  "Year": 3,
+  "Week": 10,
+  "Wb_rate": 0.91,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e78b"
+  },
+  "Year": 3,
+  "Week": 10,
+  "Wb_rate": 0.91,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e78c"
+  },
+  "Year": 3,
+  "Week": 11,
+  "Wb_rate": 0.91,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e78d"
+  },
+  "Year": 3,
+  "Week": 11,
+  "Wb_rate": 0.91,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e78e"
+  },
+  "Year": 3,
+  "Week": 11,
+  "Wb_rate": 0.91,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e78f"
+  },
+  "Year": 3,
+  "Week": 11,
+  "Wb_rate": 0.91,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e790"
+  },
+  "Year": 3,
+  "Week": 11,
+  "Wb_rate": 0.91,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e791"
+  },
+  "Year": 3,
+  "Week": 11,
+  "Wb_rate": 0.91,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e792"
+  },
+  "Year": 3,
+  "Week": 11,
+  "Wb_rate": 0.91,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e793"
+  },
+  "Year": 3,
+  "Week": 12,
+  "Wb_rate": 0.81,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e794"
+  },
+  "Year": 3,
+  "Week": 12,
+  "Wb_rate": 0.81,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e795"
+  },
+  "Year": 3,
+  "Week": 12,
+  "Wb_rate": 0.81,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e796"
+  },
+  "Year": 3,
+  "Week": 12,
+  "Wb_rate": 0.81,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e797"
+  },
+  "Year": 3,
+  "Week": 12,
+  "Wb_rate": 0.81,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e798"
+  },
+  "Year": 3,
+  "Week": 12,
+  "Wb_rate": 0.81,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e799"
+  },
+  "Year": 3,
+  "Week": 12,
+  "Wb_rate": 0.81,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e79a"
+  },
+  "Year": 3,
+  "Week": 13,
+  "Wb_rate": 0.81,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e79b"
+  },
+  "Year": 3,
+  "Week": 13,
+  "Wb_rate": 0.81,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e79c"
+  },
+  "Year": 3,
+  "Week": 13,
+  "Wb_rate": 0.81,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e79d"
+  },
+  "Year": 3,
+  "Week": 13,
+  "Wb_rate": 0.81,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e79e"
+  },
+  "Year": 3,
+  "Week": 13,
+  "Wb_rate": 0.81,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e79f"
+  },
+  "Year": 3,
+  "Week": 13,
+  "Wb_rate": 0.81,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a0"
+  },
+  "Year": 3,
+  "Week": 13,
+  "Wb_rate": 0.81,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a1"
+  },
+  "Year": 3,
+  "Week": 14,
+  "Wb_rate": 0.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a2"
+  },
+  "Year": 3,
+  "Week": 14,
+  "Wb_rate": 0.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a3"
+  },
+  "Year": 3,
+  "Week": 14,
+  "Wb_rate": 0.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a4"
+  },
+  "Year": 3,
+  "Week": 14,
+  "Wb_rate": 0.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a5"
+  },
+  "Year": 3,
+  "Week": 14,
+  "Wb_rate": 0.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a6"
+  },
+  "Year": 3,
+  "Week": 14,
+  "Wb_rate": 0.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a7"
+  },
+  "Year": 3,
+  "Week": 14,
+  "Wb_rate": 0.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a8"
+  },
+  "Year": 3,
+  "Week": 15,
+  "Wb_rate": 0.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7a9"
+  },
+  "Year": 3,
+  "Week": 15,
+  "Wb_rate": 0.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7aa"
+  },
+  "Year": 3,
+  "Week": 15,
+  "Wb_rate": 0.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ab"
+  },
+  "Year": 3,
+  "Week": 15,
+  "Wb_rate": 0.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ac"
+  },
+  "Year": 3,
+  "Week": 15,
+  "Wb_rate": 0.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ad"
+  },
+  "Year": 3,
+  "Week": 15,
+  "Wb_rate": 0.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ae"
+  },
+  "Year": 3,
+  "Week": 15,
+  "Wb_rate": 0.72,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7af"
+  },
+  "Year": 3,
+  "Week": 16,
+  "Wb_rate": 1.13,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b0"
+  },
+  "Year": 3,
+  "Week": 16,
+  "Wb_rate": 1.13,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b1"
+  },
+  "Year": 3,
+  "Week": 16,
+  "Wb_rate": 1.13,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b2"
+  },
+  "Year": 3,
+  "Week": 16,
+  "Wb_rate": 1.13,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b3"
+  },
+  "Year": 3,
+  "Week": 16,
+  "Wb_rate": 1.13,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b4"
+  },
+  "Year": 3,
+  "Week": 16,
+  "Wb_rate": 1.13,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b5"
+  },
+  "Year": 3,
+  "Week": 16,
+  "Wb_rate": 1.13,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b6"
+  },
+  "Year": 3,
+  "Week": 17,
+  "Wb_rate": 1.11,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b7"
+  },
+  "Year": 3,
+  "Week": 17,
+  "Wb_rate": 1.11,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b8"
+  },
+  "Year": 3,
+  "Week": 17,
+  "Wb_rate": 1.11,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7b9"
+  },
+  "Year": 3,
+  "Week": 17,
+  "Wb_rate": 1.11,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ba"
+  },
+  "Year": 3,
+  "Week": 17,
+  "Wb_rate": 1.11,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7bb"
+  },
+  "Year": 3,
+  "Week": 17,
+  "Wb_rate": 1.11,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7bc"
+  },
+  "Year": 3,
+  "Week": 17,
+  "Wb_rate": 1.11,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7bd"
+  },
+  "Year": 3,
+  "Week": 18,
+  "Wb_rate": 1.01,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7be"
+  },
+  "Year": 3,
+  "Week": 18,
+  "Wb_rate": 1.01,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7bf"
+  },
+  "Year": 3,
+  "Week": 18,
+  "Wb_rate": 1.01,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c0"
+  },
+  "Year": 3,
+  "Week": 18,
+  "Wb_rate": 1.01,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c1"
+  },
+  "Year": 3,
+  "Week": 18,
+  "Wb_rate": 1.01,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c2"
+  },
+  "Year": 3,
+  "Week": 18,
+  "Wb_rate": 1.01,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c3"
+  },
+  "Year": 3,
+  "Week": 18,
+  "Wb_rate": 1.01,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c4"
+  },
+  "Year": 3,
+  "Week": 19,
+  "Wb_rate": 0.86,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c5"
+  },
+  "Year": 3,
+  "Week": 19,
+  "Wb_rate": 0.86,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c6"
+  },
+  "Year": 3,
+  "Week": 19,
+  "Wb_rate": 0.86,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c7"
+  },
+  "Year": 3,
+  "Week": 19,
+  "Wb_rate": 0.86,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c8"
+  },
+  "Year": 3,
+  "Week": 19,
+  "Wb_rate": 0.86,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7c9"
+  },
+  "Year": 3,
+  "Week": 19,
+  "Wb_rate": 0.86,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ca"
+  },
+  "Year": 3,
+  "Week": 19,
+  "Wb_rate": 0.86,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7cb"
+  },
+  "Year": 3,
+  "Week": 20,
+  "Wb_rate": 0.86,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7cc"
+  },
+  "Year": 3,
+  "Week": 20,
+  "Wb_rate": 0.86,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7cd"
+  },
+  "Year": 3,
+  "Week": 20,
+  "Wb_rate": 0.86,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ce"
+  },
+  "Year": 3,
+  "Week": 20,
+  "Wb_rate": 0.86,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7cf"
+  },
+  "Year": 3,
+  "Week": 20,
+  "Wb_rate": 0.86,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d0"
+  },
+  "Year": 3,
+  "Week": 20,
+  "Wb_rate": 0.86,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d1"
+  },
+  "Year": 3,
+  "Week": 20,
+  "Wb_rate": 0.86,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d2"
+  },
+  "Year": 3,
+  "Week": 21,
+  "Wb_rate": 0.83,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d3"
+  },
+  "Year": 3,
+  "Week": 21,
+  "Wb_rate": 0.83,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d4"
+  },
+  "Year": 3,
+  "Week": 21,
+  "Wb_rate": 0.83,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d5"
+  },
+  "Year": 3,
+  "Week": 21,
+  "Wb_rate": 0.83,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d6"
+  },
+  "Year": 3,
+  "Week": 21,
+  "Wb_rate": 0.83,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d7"
+  },
+  "Year": 3,
+  "Week": 21,
+  "Wb_rate": 0.83,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d8"
+  },
+  "Year": 3,
+  "Week": 21,
+  "Wb_rate": 0.83,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7d9"
+  },
+  "Year": 3,
+  "Week": 22,
+  "Wb_rate": 0.87,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7da"
+  },
+  "Year": 3,
+  "Week": 22,
+  "Wb_rate": 0.87,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7db"
+  },
+  "Year": 3,
+  "Week": 22,
+  "Wb_rate": 0.87,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7dc"
+  },
+  "Year": 3,
+  "Week": 22,
+  "Wb_rate": 0.87,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7dd"
+  },
+  "Year": 3,
+  "Week": 22,
+  "Wb_rate": 0.87,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7de"
+  },
+  "Year": 3,
+  "Week": 22,
+  "Wb_rate": 0.87,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7df"
+  },
+  "Year": 3,
+  "Week": 22,
+  "Wb_rate": 0.87,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e0"
+  },
+  "Year": 3,
+  "Week": 23,
+  "Wb_rate": 0.66,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e1"
+  },
+  "Year": 3,
+  "Week": 23,
+  "Wb_rate": 0.66,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e2"
+  },
+  "Year": 3,
+  "Week": 23,
+  "Wb_rate": 0.66,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e3"
+  },
+  "Year": 3,
+  "Week": 23,
+  "Wb_rate": 0.66,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e4"
+  },
+  "Year": 3,
+  "Week": 23,
+  "Wb_rate": 0.66,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e5"
+  },
+  "Year": 3,
+  "Week": 23,
+  "Wb_rate": 0.66,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e6"
+  },
+  "Year": 3,
+  "Week": 23,
+  "Wb_rate": 0.66,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e7"
+  },
+  "Year": 3,
+  "Week": 24,
+  "Wb_rate": 0.62,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e8"
+  },
+  "Year": 3,
+  "Week": 24,
+  "Wb_rate": 0.62,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7e9"
+  },
+  "Year": 3,
+  "Week": 24,
+  "Wb_rate": 0.62,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ea"
+  },
+  "Year": 3,
+  "Week": 24,
+  "Wb_rate": 0.62,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7eb"
+  },
+  "Year": 3,
+  "Week": 24,
+  "Wb_rate": 0.62,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ec"
+  },
+  "Year": 3,
+  "Week": 24,
+  "Wb_rate": 0.62,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ed"
+  },
+  "Year": 3,
+  "Week": 24,
+  "Wb_rate": 0.62,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ee"
+  },
+  "Year": 3,
+  "Week": 25,
+  "Wb_rate": 0.52,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ef"
+  },
+  "Year": 3,
+  "Week": 25,
+  "Wb_rate": 0.52,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f0"
+  },
+  "Year": 3,
+  "Week": 25,
+  "Wb_rate": 0.52,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f1"
+  },
+  "Year": 3,
+  "Week": 25,
+  "Wb_rate": 0.52,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f2"
+  },
+  "Year": 3,
+  "Week": 25,
+  "Wb_rate": 0.52,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f3"
+  },
+  "Year": 3,
+  "Week": 25,
+  "Wb_rate": 0.52,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f4"
+  },
+  "Year": 3,
+  "Week": 25,
+  "Wb_rate": 0.52,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f5"
+  },
+  "Year": 3,
+  "Week": 26,
+  "Wb_rate": 0.48,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f6"
+  },
+  "Year": 3,
+  "Week": 26,
+  "Wb_rate": 0.48,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f7"
+  },
+  "Year": 3,
+  "Week": 26,
+  "Wb_rate": 0.48,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f8"
+  },
+  "Year": 3,
+  "Week": 26,
+  "Wb_rate": 0.48,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7f9"
+  },
+  "Year": 3,
+  "Week": 26,
+  "Wb_rate": 0.48,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7fa"
+  },
+  "Year": 3,
+  "Week": 26,
+  "Wb_rate": 0.48,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7fb"
+  },
+  "Year": 3,
+  "Week": 26,
+  "Wb_rate": 0.48,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7fc"
+  },
+  "Year": 3,
+  "Week": 27,
+  "Wb_rate": 0.4,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7fd"
+  },
+  "Year": 3,
+  "Week": 27,
+  "Wb_rate": 0.4,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7fe"
+  },
+  "Year": 3,
+  "Week": 27,
+  "Wb_rate": 0.4,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e7ff"
+  },
+  "Year": 3,
+  "Week": 27,
+  "Wb_rate": 0.4,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e800"
+  },
+  "Year": 3,
+  "Week": 27,
+  "Wb_rate": 0.4,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e801"
+  },
+  "Year": 3,
+  "Week": 27,
+  "Wb_rate": 0.4,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e802"
+  },
+  "Year": 3,
+  "Week": 27,
+  "Wb_rate": 0.4,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e803"
+  },
+  "Year": 3,
+  "Week": 28,
+  "Wb_rate": 0.38,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e804"
+  },
+  "Year": 3,
+  "Week": 28,
+  "Wb_rate": 0.38,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e805"
+  },
+  "Year": 3,
+  "Week": 28,
+  "Wb_rate": 0.38,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e806"
+  },
+  "Year": 3,
+  "Week": 28,
+  "Wb_rate": 0.38,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e807"
+  },
+  "Year": 3,
+  "Week": 28,
+  "Wb_rate": 0.38,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e808"
+  },
+  "Year": 3,
+  "Week": 28,
+  "Wb_rate": 0.38,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e809"
+  },
+  "Year": 3,
+  "Week": 28,
+  "Wb_rate": 0.38,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e80a"
+  },
+  "Year": 3,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e80b"
+  },
+  "Year": 3,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e80c"
+  },
+  "Year": 3,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e80d"
+  },
+  "Year": 3,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e80e"
+  },
+  "Year": 3,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e80f"
+  },
+  "Year": 3,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e810"
+  },
+  "Year": 3,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e811"
+  },
+  "Year": 3,
+  "Week": 30,
+  "Wb_rate": 0.22,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e812"
+  },
+  "Year": 3,
+  "Week": 30,
+  "Wb_rate": 0.22,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e813"
+  },
+  "Year": 3,
+  "Week": 30,
+  "Wb_rate": 0.22,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e814"
+  },
+  "Year": 3,
+  "Week": 30,
+  "Wb_rate": 0.22,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e815"
+  },
+  "Year": 3,
+  "Week": 30,
+  "Wb_rate": 0.22,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e816"
+  },
+  "Year": 3,
+  "Week": 30,
+  "Wb_rate": 0.22,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e817"
+  },
+  "Year": 3,
+  "Week": 30,
+  "Wb_rate": 0.22,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e818"
+  },
+  "Year": 3,
+  "Week": 31,
+  "Wb_rate": 0.21,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e819"
+  },
+  "Year": 3,
+  "Week": 31,
+  "Wb_rate": 0.21,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e81a"
+  },
+  "Year": 3,
+  "Week": 31,
+  "Wb_rate": 0.21,
+  "Season": "Season_3"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e81b"
+  },
+  "Year": 4,
+  "Week": 1,
+  "Wb_rate": 1.62,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e81c"
+  },
+  "Year": 4,
+  "Week": 1,
+  "Wb_rate": 1.62,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e81d"
+  },
+  "Year": 4,
+  "Week": 1,
+  "Wb_rate": 1.62,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e81e"
+  },
+  "Year": 4,
+  "Week": 1,
+  "Wb_rate": 1.62,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e81f"
+  },
+  "Year": 4,
+  "Week": 1,
+  "Wb_rate": 1.62,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e820"
+  },
+  "Year": 4,
+  "Week": 1,
+  "Wb_rate": 1.62,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e821"
+  },
+  "Year": 4,
+  "Week": 1,
+  "Wb_rate": 1.62,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e822"
+  },
+  "Year": 4,
+  "Week": 2,
+  "Wb_rate": 2.19,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e823"
+  },
+  "Year": 4,
+  "Week": 2,
+  "Wb_rate": 2.19,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e824"
+  },
+  "Year": 4,
+  "Week": 2,
+  "Wb_rate": 2.19,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e825"
+  },
+  "Year": 4,
+  "Week": 2,
+  "Wb_rate": 2.19,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e826"
+  },
+  "Year": 4,
+  "Week": 2,
+  "Wb_rate": 2.19,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e827"
+  },
+  "Year": 4,
+  "Week": 2,
+  "Wb_rate": 2.19,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e828"
+  },
+  "Year": 4,
+  "Week": 2,
+  "Wb_rate": 2.19,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e829"
+  },
+  "Year": 4,
+  "Week": 3,
+  "Wb_rate": 2.25,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e82a"
+  },
+  "Year": 4,
+  "Week": 3,
+  "Wb_rate": 2.25,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e82b"
+  },
+  "Year": 4,
+  "Week": 3,
+  "Wb_rate": 2.25,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e82c"
+  },
+  "Year": 4,
+  "Week": 3,
+  "Wb_rate": 2.25,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e82d"
+  },
+  "Year": 4,
+  "Week": 3,
+  "Wb_rate": 2.25,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e82e"
+  },
+  "Year": 4,
+  "Week": 3,
+  "Wb_rate": 2.25,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e82f"
+  },
+  "Year": 4,
+  "Week": 3,
+  "Wb_rate": 2.25,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e830"
+  },
+  "Year": 4,
+  "Week": 4,
+  "Wb_rate": 2.14,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e831"
+  },
+  "Year": 4,
+  "Week": 4,
+  "Wb_rate": 2.14,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e832"
+  },
+  "Year": 4,
+  "Week": 4,
+  "Wb_rate": 2.14,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e833"
+  },
+  "Year": 4,
+  "Week": 4,
+  "Wb_rate": 2.14,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e834"
+  },
+  "Year": 4,
+  "Week": 4,
+  "Wb_rate": 2.14,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e835"
+  },
+  "Year": 4,
+  "Week": 4,
+  "Wb_rate": 2.14,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e836"
+  },
+  "Year": 4,
+  "Week": 4,
+  "Wb_rate": 2.14,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e837"
+  },
+  "Year": 4,
+  "Week": 5,
+  "Wb_rate": 1.58,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e838"
+  },
+  "Year": 4,
+  "Week": 5,
+  "Wb_rate": 1.58,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e839"
+  },
+  "Year": 4,
+  "Week": 5,
+  "Wb_rate": 1.58,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e83a"
+  },
+  "Year": 4,
+  "Week": 5,
+  "Wb_rate": 1.58,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e83b"
+  },
+  "Year": 4,
+  "Week": 5,
+  "Wb_rate": 1.58,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e83c"
+  },
+  "Year": 4,
+  "Week": 5,
+  "Wb_rate": 1.58,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e83d"
+  },
+  "Year": 4,
+  "Week": 5,
+  "Wb_rate": 1.58,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e83e"
+  },
+  "Year": 4,
+  "Week": 6,
+  "Wb_rate": 1.52,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e83f"
+  },
+  "Year": 4,
+  "Week": 6,
+  "Wb_rate": 1.52,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e840"
+  },
+  "Year": 4,
+  "Week": 6,
+  "Wb_rate": 1.52,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e841"
+  },
+  "Year": 4,
+  "Week": 6,
+  "Wb_rate": 1.52,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e842"
+  },
+  "Year": 4,
+  "Week": 6,
+  "Wb_rate": 1.52,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e843"
+  },
+  "Year": 4,
+  "Week": 6,
+  "Wb_rate": 1.52,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e844"
+  },
+  "Year": 4,
+  "Week": 6,
+  "Wb_rate": 1.52,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e845"
+  },
+  "Year": 4,
+  "Week": 7,
+  "Wb_rate": 2.55,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e846"
+  },
+  "Year": 4,
+  "Week": 7,
+  "Wb_rate": 2.55,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e847"
+  },
+  "Year": 4,
+  "Week": 7,
+  "Wb_rate": 2.55,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e848"
+  },
+  "Year": 4,
+  "Week": 7,
+  "Wb_rate": 2.55,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e849"
+  },
+  "Year": 4,
+  "Week": 7,
+  "Wb_rate": 2.55,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e84a"
+  },
+  "Year": 4,
+  "Week": 7,
+  "Wb_rate": 2.55,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e84b"
+  },
+  "Year": 4,
+  "Week": 7,
+  "Wb_rate": 2.55,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e84c"
+  },
+  "Year": 4,
+  "Week": 8,
+  "Wb_rate": 2.1,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e84d"
+  },
+  "Year": 4,
+  "Week": 8,
+  "Wb_rate": 2.1,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e84e"
+  },
+  "Year": 4,
+  "Week": 8,
+  "Wb_rate": 2.1,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e84f"
+  },
+  "Year": 4,
+  "Week": 8,
+  "Wb_rate": 2.1,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e850"
+  },
+  "Year": 4,
+  "Week": 8,
+  "Wb_rate": 2.1,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e851"
+  },
+  "Year": 4,
+  "Week": 8,
+  "Wb_rate": 2.1,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e852"
+  },
+  "Year": 4,
+  "Week": 8,
+  "Wb_rate": 2.1,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e853"
+  },
+  "Year": 4,
+  "Week": 9,
+  "Wb_rate": 1.72,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e854"
+  },
+  "Year": 4,
+  "Week": 9,
+  "Wb_rate": 1.72,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e855"
+  },
+  "Year": 4,
+  "Week": 9,
+  "Wb_rate": 1.72,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e856"
+  },
+  "Year": 4,
+  "Week": 9,
+  "Wb_rate": 1.72,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e857"
+  },
+  "Year": 4,
+  "Week": 9,
+  "Wb_rate": 1.72,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e858"
+  },
+  "Year": 4,
+  "Week": 9,
+  "Wb_rate": 1.72,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e859"
+  },
+  "Year": 4,
+  "Week": 9,
+  "Wb_rate": 1.72,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e85a"
+  },
+  "Year": 4,
+  "Week": 10,
+  "Wb_rate": 1.72,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e85b"
+  },
+  "Year": 4,
+  "Week": 10,
+  "Wb_rate": 1.72,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e85c"
+  },
+  "Year": 4,
+  "Week": 10,
+  "Wb_rate": 1.72,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e85d"
+  },
+  "Year": 4,
+  "Week": 10,
+  "Wb_rate": 1.72,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e85e"
+  },
+  "Year": 4,
+  "Week": 10,
+  "Wb_rate": 1.72,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e85f"
+  },
+  "Year": 4,
+  "Week": 10,
+  "Wb_rate": 1.72,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e860"
+  },
+  "Year": 4,
+  "Week": 10,
+  "Wb_rate": 1.72,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e861"
+  },
+  "Year": 4,
+  "Week": 11,
+  "Wb_rate": 1.53,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e862"
+  },
+  "Year": 4,
+  "Week": 11,
+  "Wb_rate": 1.53,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e863"
+  },
+  "Year": 4,
+  "Week": 11,
+  "Wb_rate": 1.53,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e864"
+  },
+  "Year": 4,
+  "Week": 11,
+  "Wb_rate": 1.53,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e865"
+  },
+  "Year": 4,
+  "Week": 11,
+  "Wb_rate": 1.53,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e866"
+  },
+  "Year": 4,
+  "Week": 11,
+  "Wb_rate": 1.53,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e867"
+  },
+  "Year": 4,
+  "Week": 11,
+  "Wb_rate": 1.53,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e868"
+  },
+  "Year": 4,
+  "Week": 12,
+  "Wb_rate": 1.31,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e869"
+  },
+  "Year": 4,
+  "Week": 12,
+  "Wb_rate": 1.31,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e86a"
+  },
+  "Year": 4,
+  "Week": 12,
+  "Wb_rate": 1.31,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e86b"
+  },
+  "Year": 4,
+  "Week": 12,
+  "Wb_rate": 1.31,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e86c"
+  },
+  "Year": 4,
+  "Week": 12,
+  "Wb_rate": 1.31,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e86d"
+  },
+  "Year": 4,
+  "Week": 12,
+  "Wb_rate": 1.31,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e86e"
+  },
+  "Year": 4,
+  "Week": 12,
+  "Wb_rate": 1.31,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e86f"
+  },
+  "Year": 4,
+  "Week": 13,
+  "Wb_rate": 1.05,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e870"
+  },
+  "Year": 4,
+  "Week": 13,
+  "Wb_rate": 1.05,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e871"
+  },
+  "Year": 4,
+  "Week": 13,
+  "Wb_rate": 1.05,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e872"
+  },
+  "Year": 4,
+  "Week": 13,
+  "Wb_rate": 1.05,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e873"
+  },
+  "Year": 4,
+  "Week": 13,
+  "Wb_rate": 1.05,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e874"
+  },
+  "Year": 4,
+  "Week": 13,
+  "Wb_rate": 1.05,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e875"
+  },
+  "Year": 4,
+  "Week": 13,
+  "Wb_rate": 1.05,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e876"
+  },
+  "Year": 4,
+  "Week": 14,
+  "Wb_rate": 0.98,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e877"
+  },
+  "Year": 4,
+  "Week": 14,
+  "Wb_rate": 0.98,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e878"
+  },
+  "Year": 4,
+  "Week": 14,
+  "Wb_rate": 0.98,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e879"
+  },
+  "Year": 4,
+  "Week": 14,
+  "Wb_rate": 0.98,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e87a"
+  },
+  "Year": 4,
+  "Week": 14,
+  "Wb_rate": 0.98,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e87b"
+  },
+  "Year": 4,
+  "Week": 14,
+  "Wb_rate": 0.98,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e87c"
+  },
+  "Year": 4,
+  "Week": 14,
+  "Wb_rate": 0.98,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e87d"
+  },
+  "Year": 4,
+  "Week": 15,
+  "Wb_rate": 1,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e87e"
+  },
+  "Year": 4,
+  "Week": 15,
+  "Wb_rate": 1,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e87f"
+  },
+  "Year": 4,
+  "Week": 15,
+  "Wb_rate": 1,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e880"
+  },
+  "Year": 4,
+  "Week": 15,
+  "Wb_rate": 1,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e881"
+  },
+  "Year": 4,
+  "Week": 15,
+  "Wb_rate": 1,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e882"
+  },
+  "Year": 4,
+  "Week": 15,
+  "Wb_rate": 1,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e883"
+  },
+  "Year": 4,
+  "Week": 15,
+  "Wb_rate": 1,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e884"
+  },
+  "Year": 4,
+  "Week": 16,
+  "Wb_rate": 1.65,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e885"
+  },
+  "Year": 4,
+  "Week": 16,
+  "Wb_rate": 1.65,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e886"
+  },
+  "Year": 4,
+  "Week": 16,
+  "Wb_rate": 1.65,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e887"
+  },
+  "Year": 4,
+  "Week": 16,
+  "Wb_rate": 1.65,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e888"
+  },
+  "Year": 4,
+  "Week": 16,
+  "Wb_rate": 1.65,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e889"
+  },
+  "Year": 4,
+  "Week": 16,
+  "Wb_rate": 1.65,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e88a"
+  },
+  "Year": 4,
+  "Week": 16,
+  "Wb_rate": 1.65,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e88b"
+  },
+  "Year": 4,
+  "Week": 17,
+  "Wb_rate": 1.61,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e88c"
+  },
+  "Year": 4,
+  "Week": 17,
+  "Wb_rate": 1.61,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e88d"
+  },
+  "Year": 4,
+  "Week": 17,
+  "Wb_rate": 1.61,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e88e"
+  },
+  "Year": 4,
+  "Week": 17,
+  "Wb_rate": 1.61,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e88f"
+  },
+  "Year": 4,
+  "Week": 17,
+  "Wb_rate": 1.61,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e890"
+  },
+  "Year": 4,
+  "Week": 17,
+  "Wb_rate": 1.61,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e891"
+  },
+  "Year": 4,
+  "Week": 17,
+  "Wb_rate": 1.61,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e892"
+  },
+  "Year": 4,
+  "Week": 18,
+  "Wb_rate": 1.55,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e893"
+  },
+  "Year": 4,
+  "Week": 18,
+  "Wb_rate": 1.55,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e894"
+  },
+  "Year": 4,
+  "Week": 18,
+  "Wb_rate": 1.55,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e895"
+  },
+  "Year": 4,
+  "Week": 18,
+  "Wb_rate": 1.55,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e896"
+  },
+  "Year": 4,
+  "Week": 18,
+  "Wb_rate": 1.55,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e897"
+  },
+  "Year": 4,
+  "Week": 18,
+  "Wb_rate": 1.55,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e898"
+  },
+  "Year": 4,
+  "Week": 18,
+  "Wb_rate": 1.55,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e899"
+  },
+  "Year": 4,
+  "Week": 19,
+  "Wb_rate": 1.22,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e89a"
+  },
+  "Year": 4,
+  "Week": 19,
+  "Wb_rate": 1.22,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e89b"
+  },
+  "Year": 4,
+  "Week": 19,
+  "Wb_rate": 1.22,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e89c"
+  },
+  "Year": 4,
+  "Week": 19,
+  "Wb_rate": 1.22,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e89d"
+  },
+  "Year": 4,
+  "Week": 19,
+  "Wb_rate": 1.22,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e89e"
+  },
+  "Year": 4,
+  "Week": 19,
+  "Wb_rate": 1.22,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e89f"
+  },
+  "Year": 4,
+  "Week": 19,
+  "Wb_rate": 1.22,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a0"
+  },
+  "Year": 4,
+  "Week": 20,
+  "Wb_rate": 1.36,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a1"
+  },
+  "Year": 4,
+  "Week": 20,
+  "Wb_rate": 1.36,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a2"
+  },
+  "Year": 4,
+  "Week": 20,
+  "Wb_rate": 1.36,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a3"
+  },
+  "Year": 4,
+  "Week": 20,
+  "Wb_rate": 1.36,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a4"
+  },
+  "Year": 4,
+  "Week": 20,
+  "Wb_rate": 1.36,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a5"
+  },
+  "Year": 4,
+  "Week": 20,
+  "Wb_rate": 1.36,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a6"
+  },
+  "Year": 4,
+  "Week": 20,
+  "Wb_rate": 1.36,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a7"
+  },
+  "Year": 4,
+  "Week": 21,
+  "Wb_rate": 1.3,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a8"
+  },
+  "Year": 4,
+  "Week": 21,
+  "Wb_rate": 1.3,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8a9"
+  },
+  "Year": 4,
+  "Week": 21,
+  "Wb_rate": 1.3,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8aa"
+  },
+  "Year": 4,
+  "Week": 21,
+  "Wb_rate": 1.3,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ab"
+  },
+  "Year": 4,
+  "Week": 21,
+  "Wb_rate": 1.3,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ac"
+  },
+  "Year": 4,
+  "Week": 21,
+  "Wb_rate": 1.3,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ad"
+  },
+  "Year": 4,
+  "Week": 21,
+  "Wb_rate": 1.3,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ae"
+  },
+  "Year": 4,
+  "Week": 22,
+  "Wb_rate": 1.77,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8af"
+  },
+  "Year": 4,
+  "Week": 22,
+  "Wb_rate": 1.77,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b0"
+  },
+  "Year": 4,
+  "Week": 22,
+  "Wb_rate": 1.77,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b1"
+  },
+  "Year": 4,
+  "Week": 22,
+  "Wb_rate": 1.77,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b2"
+  },
+  "Year": 4,
+  "Week": 22,
+  "Wb_rate": 1.77,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b3"
+  },
+  "Year": 4,
+  "Week": 22,
+  "Wb_rate": 1.77,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b4"
+  },
+  "Year": 4,
+  "Week": 22,
+  "Wb_rate": 1.77,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b5"
+  },
+  "Year": 4,
+  "Week": 23,
+  "Wb_rate": 1.13,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b6"
+  },
+  "Year": 4,
+  "Week": 23,
+  "Wb_rate": 1.13,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b7"
+  },
+  "Year": 4,
+  "Week": 23,
+  "Wb_rate": 1.13,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b8"
+  },
+  "Year": 4,
+  "Week": 23,
+  "Wb_rate": 1.13,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8b9"
+  },
+  "Year": 4,
+  "Week": 23,
+  "Wb_rate": 1.13,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ba"
+  },
+  "Year": 4,
+  "Week": 23,
+  "Wb_rate": 1.13,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8bb"
+  },
+  "Year": 4,
+  "Week": 23,
+  "Wb_rate": 1.13,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8bc"
+  },
+  "Year": 4,
+  "Week": 24,
+  "Wb_rate": 1.01,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8bd"
+  },
+  "Year": 4,
+  "Week": 24,
+  "Wb_rate": 1.01,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8be"
+  },
+  "Year": 4,
+  "Week": 24,
+  "Wb_rate": 1.01,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8bf"
+  },
+  "Year": 4,
+  "Week": 24,
+  "Wb_rate": 1.01,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c0"
+  },
+  "Year": 4,
+  "Week": 24,
+  "Wb_rate": 1.01,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c1"
+  },
+  "Year": 4,
+  "Week": 24,
+  "Wb_rate": 1.01,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c2"
+  },
+  "Year": 4,
+  "Week": 24,
+  "Wb_rate": 1.01,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c3"
+  },
+  "Year": 4,
+  "Week": 25,
+  "Wb_rate": 0.92,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c4"
+  },
+  "Year": 4,
+  "Week": 25,
+  "Wb_rate": 0.92,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c5"
+  },
+  "Year": 4,
+  "Week": 25,
+  "Wb_rate": 0.92,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c6"
+  },
+  "Year": 4,
+  "Week": 25,
+  "Wb_rate": 0.92,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c7"
+  },
+  "Year": 4,
+  "Week": 25,
+  "Wb_rate": 0.92,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c8"
+  },
+  "Year": 4,
+  "Week": 25,
+  "Wb_rate": 0.92,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8c9"
+  },
+  "Year": 4,
+  "Week": 25,
+  "Wb_rate": 0.92,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ca"
+  },
+  "Year": 4,
+  "Week": 26,
+  "Wb_rate": 0.84,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8cb"
+  },
+  "Year": 4,
+  "Week": 26,
+  "Wb_rate": 0.84,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8cc"
+  },
+  "Year": 4,
+  "Week": 26,
+  "Wb_rate": 0.84,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8cd"
+  },
+  "Year": 4,
+  "Week": 26,
+  "Wb_rate": 0.84,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ce"
+  },
+  "Year": 4,
+  "Week": 26,
+  "Wb_rate": 0.84,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8cf"
+  },
+  "Year": 4,
+  "Week": 26,
+  "Wb_rate": 0.84,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d0"
+  },
+  "Year": 4,
+  "Week": 26,
+  "Wb_rate": 0.84,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d1"
+  },
+  "Year": 4,
+  "Week": 27,
+  "Wb_rate": 0.83,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d2"
+  },
+  "Year": 4,
+  "Week": 27,
+  "Wb_rate": 0.83,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d3"
+  },
+  "Year": 4,
+  "Week": 27,
+  "Wb_rate": 0.83,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d4"
+  },
+  "Year": 4,
+  "Week": 27,
+  "Wb_rate": 0.83,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d5"
+  },
+  "Year": 4,
+  "Week": 27,
+  "Wb_rate": 0.83,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d6"
+  },
+  "Year": 4,
+  "Week": 27,
+  "Wb_rate": 0.83,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d7"
+  },
+  "Year": 4,
+  "Week": 27,
+  "Wb_rate": 0.83,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d8"
+  },
+  "Year": 4,
+  "Week": 28,
+  "Wb_rate": 0.86,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8d9"
+  },
+  "Year": 4,
+  "Week": 28,
+  "Wb_rate": 0.86,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8da"
+  },
+  "Year": 4,
+  "Week": 28,
+  "Wb_rate": 0.86,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8db"
+  },
+  "Year": 4,
+  "Week": 28,
+  "Wb_rate": 0.86,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8dc"
+  },
+  "Year": 4,
+  "Week": 28,
+  "Wb_rate": 0.86,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8dd"
+  },
+  "Year": 4,
+  "Week": 28,
+  "Wb_rate": 0.86,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8de"
+  },
+  "Year": 4,
+  "Week": 28,
+  "Wb_rate": 0.86,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8df"
+  },
+  "Year": 4,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e0"
+  },
+  "Year": 4,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e1"
+  },
+  "Year": 4,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e2"
+  },
+  "Year": 4,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e3"
+  },
+  "Year": 4,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e4"
+  },
+  "Year": 4,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e5"
+  },
+  "Year": 4,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e6"
+  },
+  "Year": 4,
+  "Week": 30,
+  "Wb_rate": 0.26,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e7"
+  },
+  "Year": 4,
+  "Week": 30,
+  "Wb_rate": 0.26,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e8"
+  },
+  "Year": 4,
+  "Week": 30,
+  "Wb_rate": 0.26,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8e9"
+  },
+  "Year": 4,
+  "Week": 30,
+  "Wb_rate": 0.26,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ea"
+  },
+  "Year": 4,
+  "Week": 30,
+  "Wb_rate": 0.26,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8eb"
+  },
+  "Year": 4,
+  "Week": 30,
+  "Wb_rate": 0.26,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ec"
+  },
+  "Year": 4,
+  "Week": 30,
+  "Wb_rate": 0.26,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ed"
+  },
+  "Year": 4,
+  "Week": 31,
+  "Wb_rate": 0.25,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ee"
+  },
+  "Year": 4,
+  "Week": 31,
+  "Wb_rate": 0.25,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ef"
+  },
+  "Year": 4,
+  "Week": 31,
+  "Wb_rate": 0.25,
+  "Season": "Season_4"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f0"
+  },
+  "Year": 5,
+  "Week": 1,
+  "Wb_rate": 1.75,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f1"
+  },
+  "Year": 5,
+  "Week": 1,
+  "Wb_rate": 1.75,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f2"
+  },
+  "Year": 5,
+  "Week": 1,
+  "Wb_rate": 1.75,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f3"
+  },
+  "Year": 5,
+  "Week": 1,
+  "Wb_rate": 1.75,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f4"
+  },
+  "Year": 5,
+  "Week": 1,
+  "Wb_rate": 1.75,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f5"
+  },
+  "Year": 5,
+  "Week": 1,
+  "Wb_rate": 1.75,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f6"
+  },
+  "Year": 5,
+  "Week": 1,
+  "Wb_rate": 1.75,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f7"
+  },
+  "Year": 5,
+  "Week": 2,
+  "Wb_rate": 1.86,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f8"
+  },
+  "Year": 5,
+  "Week": 2,
+  "Wb_rate": 1.86,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8f9"
+  },
+  "Year": 5,
+  "Week": 2,
+  "Wb_rate": 1.86,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8fa"
+  },
+  "Year": 5,
+  "Week": 2,
+  "Wb_rate": 1.86,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8fb"
+  },
+  "Year": 5,
+  "Week": 2,
+  "Wb_rate": 1.86,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8fc"
+  },
+  "Year": 5,
+  "Week": 2,
+  "Wb_rate": 1.86,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8fd"
+  },
+  "Year": 5,
+  "Week": 2,
+  "Wb_rate": 1.86,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8fe"
+  },
+  "Year": 5,
+  "Week": 3,
+  "Wb_rate": 2,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e8ff"
+  },
+  "Year": 5,
+  "Week": 3,
+  "Wb_rate": 2,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e900"
+  },
+  "Year": 5,
+  "Week": 3,
+  "Wb_rate": 2,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e901"
+  },
+  "Year": 5,
+  "Week": 3,
+  "Wb_rate": 2,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e902"
+  },
+  "Year": 5,
+  "Week": 3,
+  "Wb_rate": 2,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e903"
+  },
+  "Year": 5,
+  "Week": 3,
+  "Wb_rate": 2,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e904"
+  },
+  "Year": 5,
+  "Week": 3,
+  "Wb_rate": 2,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e905"
+  },
+  "Year": 5,
+  "Week": 4,
+  "Wb_rate": 1.94,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e906"
+  },
+  "Year": 5,
+  "Week": 4,
+  "Wb_rate": 1.94,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e907"
+  },
+  "Year": 5,
+  "Week": 4,
+  "Wb_rate": 1.94,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e908"
+  },
+  "Year": 5,
+  "Week": 4,
+  "Wb_rate": 1.94,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e909"
+  },
+  "Year": 5,
+  "Week": 4,
+  "Wb_rate": 1.94,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e90a"
+  },
+  "Year": 5,
+  "Week": 4,
+  "Wb_rate": 1.94,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e90b"
+  },
+  "Year": 5,
+  "Week": 4,
+  "Wb_rate": 1.94,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e90c"
+  },
+  "Year": 5,
+  "Week": 5,
+  "Wb_rate": 1.59,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e90d"
+  },
+  "Year": 5,
+  "Week": 5,
+  "Wb_rate": 1.59,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e90e"
+  },
+  "Year": 5,
+  "Week": 5,
+  "Wb_rate": 1.59,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e90f"
+  },
+  "Year": 5,
+  "Week": 5,
+  "Wb_rate": 1.59,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e910"
+  },
+  "Year": 5,
+  "Week": 5,
+  "Wb_rate": 1.59,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e911"
+  },
+  "Year": 5,
+  "Week": 5,
+  "Wb_rate": 1.59,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e912"
+  },
+  "Year": 5,
+  "Week": 5,
+  "Wb_rate": 1.59,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e913"
+  },
+  "Year": 5,
+  "Week": 6,
+  "Wb_rate": 1.41,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e914"
+  },
+  "Year": 5,
+  "Week": 6,
+  "Wb_rate": 1.41,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e915"
+  },
+  "Year": 5,
+  "Week": 6,
+  "Wb_rate": 1.41,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e916"
+  },
+  "Year": 5,
+  "Week": 6,
+  "Wb_rate": 1.41,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e917"
+  },
+  "Year": 5,
+  "Week": 6,
+  "Wb_rate": 1.41,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e918"
+  },
+  "Year": 5,
+  "Week": 6,
+  "Wb_rate": 1.41,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e919"
+  },
+  "Year": 5,
+  "Week": 6,
+  "Wb_rate": 1.41,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e91a"
+  },
+  "Year": 5,
+  "Week": 7,
+  "Wb_rate": 1.32,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e91b"
+  },
+  "Year": 5,
+  "Week": 7,
+  "Wb_rate": 1.32,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e91c"
+  },
+  "Year": 5,
+  "Week": 7,
+  "Wb_rate": 1.32,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e91d"
+  },
+  "Year": 5,
+  "Week": 7,
+  "Wb_rate": 1.32,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e91e"
+  },
+  "Year": 5,
+  "Week": 7,
+  "Wb_rate": 1.32,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e91f"
+  },
+  "Year": 5,
+  "Week": 7,
+  "Wb_rate": 1.32,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e920"
+  },
+  "Year": 5,
+  "Week": 7,
+  "Wb_rate": 1.32,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e921"
+  },
+  "Year": 5,
+  "Week": 8,
+  "Wb_rate": 1.26,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e922"
+  },
+  "Year": 5,
+  "Week": 8,
+  "Wb_rate": 1.26,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e923"
+  },
+  "Year": 5,
+  "Week": 8,
+  "Wb_rate": 1.26,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e924"
+  },
+  "Year": 5,
+  "Week": 8,
+  "Wb_rate": 1.26,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e925"
+  },
+  "Year": 5,
+  "Week": 8,
+  "Wb_rate": 1.26,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e926"
+  },
+  "Year": 5,
+  "Week": 8,
+  "Wb_rate": 1.26,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e927"
+  },
+  "Year": 5,
+  "Week": 8,
+  "Wb_rate": 1.26,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e928"
+  },
+  "Year": 5,
+  "Week": 9,
+  "Wb_rate": 1.27,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e929"
+  },
+  "Year": 5,
+  "Week": 9,
+  "Wb_rate": 1.27,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e92a"
+  },
+  "Year": 5,
+  "Week": 9,
+  "Wb_rate": 1.27,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e92b"
+  },
+  "Year": 5,
+  "Week": 9,
+  "Wb_rate": 1.27,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e92c"
+  },
+  "Year": 5,
+  "Week": 9,
+  "Wb_rate": 1.27,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e92d"
+  },
+  "Year": 5,
+  "Week": 9,
+  "Wb_rate": 1.27,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e92e"
+  },
+  "Year": 5,
+  "Week": 9,
+  "Wb_rate": 1.27,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e92f"
+  },
+  "Year": 5,
+  "Week": 10,
+  "Wb_rate": 1.01,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e930"
+  },
+  "Year": 5,
+  "Week": 10,
+  "Wb_rate": 1.01,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e931"
+  },
+  "Year": 5,
+  "Week": 10,
+  "Wb_rate": 1.01,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e932"
+  },
+  "Year": 5,
+  "Week": 10,
+  "Wb_rate": 1.01,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e933"
+  },
+  "Year": 5,
+  "Week": 10,
+  "Wb_rate": 1.01,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e934"
+  },
+  "Year": 5,
+  "Week": 10,
+  "Wb_rate": 1.01,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e935"
+  },
+  "Year": 5,
+  "Week": 10,
+  "Wb_rate": 1.01,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e936"
+  },
+  "Year": 5,
+  "Week": 11,
+  "Wb_rate": 0.85,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e937"
+  },
+  "Year": 5,
+  "Week": 11,
+  "Wb_rate": 0.85,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e938"
+  },
+  "Year": 5,
+  "Week": 11,
+  "Wb_rate": 0.85,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e939"
+  },
+  "Year": 5,
+  "Week": 11,
+  "Wb_rate": 0.85,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e93a"
+  },
+  "Year": 5,
+  "Week": 11,
+  "Wb_rate": 0.85,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e93b"
+  },
+  "Year": 5,
+  "Week": 11,
+  "Wb_rate": 0.85,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e93c"
+  },
+  "Year": 5,
+  "Week": 11,
+  "Wb_rate": 0.85,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e93d"
+  },
+  "Year": 5,
+  "Week": 12,
+  "Wb_rate": 0.76,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e93e"
+  },
+  "Year": 5,
+  "Week": 12,
+  "Wb_rate": 0.76,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e93f"
+  },
+  "Year": 5,
+  "Week": 12,
+  "Wb_rate": 0.76,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e940"
+  },
+  "Year": 5,
+  "Week": 12,
+  "Wb_rate": 0.76,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e941"
+  },
+  "Year": 5,
+  "Week": 12,
+  "Wb_rate": 0.76,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e942"
+  },
+  "Year": 5,
+  "Week": 12,
+  "Wb_rate": 0.76,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e943"
+  },
+  "Year": 5,
+  "Week": 12,
+  "Wb_rate": 0.76,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e944"
+  },
+  "Year": 5,
+  "Week": 13,
+  "Wb_rate": 0.7,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e945"
+  },
+  "Year": 5,
+  "Week": 13,
+  "Wb_rate": 0.7,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e946"
+  },
+  "Year": 5,
+  "Week": 13,
+  "Wb_rate": 0.7,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e947"
+  },
+  "Year": 5,
+  "Week": 13,
+  "Wb_rate": 0.7,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e948"
+  },
+  "Year": 5,
+  "Week": 13,
+  "Wb_rate": 0.7,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e949"
+  },
+  "Year": 5,
+  "Week": 13,
+  "Wb_rate": 0.7,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e94a"
+  },
+  "Year": 5,
+  "Week": 13,
+  "Wb_rate": 0.7,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e94b"
+  },
+  "Year": 5,
+  "Week": 14,
+  "Wb_rate": 0.79,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e94c"
+  },
+  "Year": 5,
+  "Week": 14,
+  "Wb_rate": 0.79,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e94d"
+  },
+  "Year": 5,
+  "Week": 14,
+  "Wb_rate": 0.79,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e94e"
+  },
+  "Year": 5,
+  "Week": 14,
+  "Wb_rate": 0.79,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e94f"
+  },
+  "Year": 5,
+  "Week": 14,
+  "Wb_rate": 0.79,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e950"
+  },
+  "Year": 5,
+  "Week": 14,
+  "Wb_rate": 0.79,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e951"
+  },
+  "Year": 5,
+  "Week": 14,
+  "Wb_rate": 0.79,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e952"
+  },
+  "Year": 5,
+  "Week": 15,
+  "Wb_rate": 0.78,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e953"
+  },
+  "Year": 5,
+  "Week": 15,
+  "Wb_rate": 0.78,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e954"
+  },
+  "Year": 5,
+  "Week": 15,
+  "Wb_rate": 0.78,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e955"
+  },
+  "Year": 5,
+  "Week": 15,
+  "Wb_rate": 0.78,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e956"
+  },
+  "Year": 5,
+  "Week": 15,
+  "Wb_rate": 0.78,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e957"
+  },
+  "Year": 5,
+  "Week": 15,
+  "Wb_rate": 0.78,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e958"
+  },
+  "Year": 5,
+  "Week": 15,
+  "Wb_rate": 0.78,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e959"
+  },
+  "Year": 5,
+  "Week": 16,
+  "Wb_rate": 1.28,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e95a"
+  },
+  "Year": 5,
+  "Week": 16,
+  "Wb_rate": 1.28,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e95b"
+  },
+  "Year": 5,
+  "Week": 16,
+  "Wb_rate": 1.28,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e95c"
+  },
+  "Year": 5,
+  "Week": 16,
+  "Wb_rate": 1.28,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e95d"
+  },
+  "Year": 5,
+  "Week": 16,
+  "Wb_rate": 1.28,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e95e"
+  },
+  "Year": 5,
+  "Week": 16,
+  "Wb_rate": 1.28,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e95f"
+  },
+  "Year": 5,
+  "Week": 16,
+  "Wb_rate": 1.28,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e960"
+  },
+  "Year": 5,
+  "Week": 17,
+  "Wb_rate": 1.24,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e961"
+  },
+  "Year": 5,
+  "Week": 17,
+  "Wb_rate": 1.24,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e962"
+  },
+  "Year": 5,
+  "Week": 17,
+  "Wb_rate": 1.24,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e963"
+  },
+  "Year": 5,
+  "Week": 17,
+  "Wb_rate": 1.24,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e964"
+  },
+  "Year": 5,
+  "Week": 17,
+  "Wb_rate": 1.24,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e965"
+  },
+  "Year": 5,
+  "Week": 17,
+  "Wb_rate": 1.24,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e966"
+  },
+  "Year": 5,
+  "Week": 17,
+  "Wb_rate": 1.24,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e967"
+  },
+  "Year": 5,
+  "Week": 18,
+  "Wb_rate": 1.19,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e968"
+  },
+  "Year": 5,
+  "Week": 18,
+  "Wb_rate": 1.19,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e969"
+  },
+  "Year": 5,
+  "Week": 18,
+  "Wb_rate": 1.19,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e96a"
+  },
+  "Year": 5,
+  "Week": 18,
+  "Wb_rate": 1.19,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e96b"
+  },
+  "Year": 5,
+  "Week": 18,
+  "Wb_rate": 1.19,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e96c"
+  },
+  "Year": 5,
+  "Week": 18,
+  "Wb_rate": 1.19,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e96d"
+  },
+  "Year": 5,
+  "Week": 18,
+  "Wb_rate": 1.19,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e96e"
+  },
+  "Year": 5,
+  "Week": 19,
+  "Wb_rate": 1.01,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e96f"
+  },
+  "Year": 5,
+  "Week": 19,
+  "Wb_rate": 1.01,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e970"
+  },
+  "Year": 5,
+  "Week": 19,
+  "Wb_rate": 1.01,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e971"
+  },
+  "Year": 5,
+  "Week": 19,
+  "Wb_rate": 1.01,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e972"
+  },
+  "Year": 5,
+  "Week": 19,
+  "Wb_rate": 1.01,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e973"
+  },
+  "Year": 5,
+  "Week": 19,
+  "Wb_rate": 1.01,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e974"
+  },
+  "Year": 5,
+  "Week": 19,
+  "Wb_rate": 1.01,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e975"
+  },
+  "Year": 5,
+  "Week": 20,
+  "Wb_rate": 1.12,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e976"
+  },
+  "Year": 5,
+  "Week": 20,
+  "Wb_rate": 1.12,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e977"
+  },
+  "Year": 5,
+  "Week": 20,
+  "Wb_rate": 1.12,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e978"
+  },
+  "Year": 5,
+  "Week": 20,
+  "Wb_rate": 1.12,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e979"
+  },
+  "Year": 5,
+  "Week": 20,
+  "Wb_rate": 1.12,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e97a"
+  },
+  "Year": 5,
+  "Week": 20,
+  "Wb_rate": 1.12,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e97b"
+  },
+  "Year": 5,
+  "Week": 20,
+  "Wb_rate": 1.12,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e97c"
+  },
+  "Year": 5,
+  "Week": 21,
+  "Wb_rate": 1.08,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e97d"
+  },
+  "Year": 5,
+  "Week": 21,
+  "Wb_rate": 1.08,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e97e"
+  },
+  "Year": 5,
+  "Week": 21,
+  "Wb_rate": 1.08,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e97f"
+  },
+  "Year": 5,
+  "Week": 21,
+  "Wb_rate": 1.08,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e980"
+  },
+  "Year": 5,
+  "Week": 21,
+  "Wb_rate": 1.08,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e981"
+  },
+  "Year": 5,
+  "Week": 21,
+  "Wb_rate": 1.08,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e982"
+  },
+  "Year": 5,
+  "Week": 21,
+  "Wb_rate": 1.08,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e983"
+  },
+  "Year": 5,
+  "Week": 22,
+  "Wb_rate": 1.13,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e984"
+  },
+  "Year": 5,
+  "Week": 22,
+  "Wb_rate": 1.13,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e985"
+  },
+  "Year": 5,
+  "Week": 22,
+  "Wb_rate": 1.13,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e986"
+  },
+  "Year": 5,
+  "Week": 22,
+  "Wb_rate": 1.13,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e987"
+  },
+  "Year": 5,
+  "Week": 22,
+  "Wb_rate": 1.13,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e988"
+  },
+  "Year": 5,
+  "Week": 22,
+  "Wb_rate": 1.13,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e989"
+  },
+  "Year": 5,
+  "Week": 22,
+  "Wb_rate": 1.13,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e98a"
+  },
+  "Year": 5,
+  "Week": 23,
+  "Wb_rate": 0.93,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e98b"
+  },
+  "Year": 5,
+  "Week": 23,
+  "Wb_rate": 0.93,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e98c"
+  },
+  "Year": 5,
+  "Week": 23,
+  "Wb_rate": 0.93,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e98d"
+  },
+  "Year": 5,
+  "Week": 23,
+  "Wb_rate": 0.93,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e98e"
+  },
+  "Year": 5,
+  "Week": 23,
+  "Wb_rate": 0.93,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e98f"
+  },
+  "Year": 5,
+  "Week": 23,
+  "Wb_rate": 0.93,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e990"
+  },
+  "Year": 5,
+  "Week": 23,
+  "Wb_rate": 0.93,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e991"
+  },
+  "Year": 5,
+  "Week": 24,
+  "Wb_rate": 0.88,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e992"
+  },
+  "Year": 5,
+  "Week": 24,
+  "Wb_rate": 0.88,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e993"
+  },
+  "Year": 5,
+  "Week": 24,
+  "Wb_rate": 0.88,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e994"
+  },
+  "Year": 5,
+  "Week": 24,
+  "Wb_rate": 0.88,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e995"
+  },
+  "Year": 5,
+  "Week": 24,
+  "Wb_rate": 0.88,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e996"
+  },
+  "Year": 5,
+  "Week": 24,
+  "Wb_rate": 0.88,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e997"
+  },
+  "Year": 5,
+  "Week": 24,
+  "Wb_rate": 0.88,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e998"
+  },
+  "Year": 5,
+  "Week": 25,
+  "Wb_rate": 0.79,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e999"
+  },
+  "Year": 5,
+  "Week": 25,
+  "Wb_rate": 0.79,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e99a"
+  },
+  "Year": 5,
+  "Week": 25,
+  "Wb_rate": 0.79,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e99b"
+  },
+  "Year": 5,
+  "Week": 25,
+  "Wb_rate": 0.79,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e99c"
+  },
+  "Year": 5,
+  "Week": 25,
+  "Wb_rate": 0.79,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e99d"
+  },
+  "Year": 5,
+  "Week": 25,
+  "Wb_rate": 0.79,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e99e"
+  },
+  "Year": 5,
+  "Week": 25,
+  "Wb_rate": 0.79,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e99f"
+  },
+  "Year": 5,
+  "Week": 26,
+  "Wb_rate": 0.74,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a0"
+  },
+  "Year": 5,
+  "Week": 26,
+  "Wb_rate": 0.74,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a1"
+  },
+  "Year": 5,
+  "Week": 26,
+  "Wb_rate": 0.74,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a2"
+  },
+  "Year": 5,
+  "Week": 26,
+  "Wb_rate": 0.74,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a3"
+  },
+  "Year": 5,
+  "Week": 26,
+  "Wb_rate": 0.74,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a4"
+  },
+  "Year": 5,
+  "Week": 26,
+  "Wb_rate": 0.74,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a5"
+  },
+  "Year": 5,
+  "Week": 26,
+  "Wb_rate": 0.74,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a6"
+  },
+  "Year": 5,
+  "Week": 27,
+  "Wb_rate": 0.53,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a7"
+  },
+  "Year": 5,
+  "Week": 27,
+  "Wb_rate": 0.53,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a8"
+  },
+  "Year": 5,
+  "Week": 27,
+  "Wb_rate": 0.53,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9a9"
+  },
+  "Year": 5,
+  "Week": 27,
+  "Wb_rate": 0.53,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9aa"
+  },
+  "Year": 5,
+  "Week": 27,
+  "Wb_rate": 0.53,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9ab"
+  },
+  "Year": 5,
+  "Week": 27,
+  "Wb_rate": 0.53,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9ac"
+  },
+  "Year": 5,
+  "Week": 27,
+  "Wb_rate": 0.53,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9ad"
+  },
+  "Year": 5,
+  "Week": 28,
+  "Wb_rate": 0.43,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9ae"
+  },
+  "Year": 5,
+  "Week": 28,
+  "Wb_rate": 0.43,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9af"
+  },
+  "Year": 5,
+  "Week": 28,
+  "Wb_rate": 0.43,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b0"
+  },
+  "Year": 5,
+  "Week": 28,
+  "Wb_rate": 0.43,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b1"
+  },
+  "Year": 5,
+  "Week": 28,
+  "Wb_rate": 0.43,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b2"
+  },
+  "Year": 5,
+  "Week": 28,
+  "Wb_rate": 0.43,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b3"
+  },
+  "Year": 5,
+  "Week": 28,
+  "Wb_rate": 0.43,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b4"
+  },
+  "Year": 5,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b5"
+  },
+  "Year": 5,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b6"
+  },
+  "Year": 5,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b7"
+  },
+  "Year": 5,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b8"
+  },
+  "Year": 5,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9b9"
+  },
+  "Year": 5,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9ba"
+  },
+  "Year": 5,
+  "Week": 29,
+  "Wb_rate": 0.43,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9bb"
+  },
+  "Year": 5,
+  "Week": 30,
+  "Wb_rate": 0.17,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9bc"
+  },
+  "Year": 5,
+  "Week": 30,
+  "Wb_rate": 0.17,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9bd"
+  },
+  "Year": 5,
+  "Week": 30,
+  "Wb_rate": 0.17,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9be"
+  },
+  "Year": 5,
+  "Week": 30,
+  "Wb_rate": 0.17,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9bf"
+  },
+  "Year": 5,
+  "Week": 30,
+  "Wb_rate": 0.17,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9c0"
+  },
+  "Year": 5,
+  "Week": 30,
+  "Wb_rate": 0.17,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9c1"
+  },
+  "Year": 5,
+  "Week": 30,
+  "Wb_rate": 0.17,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9c2"
+  },
+  "Year": 5,
+  "Week": 31,
+  "Wb_rate": 0.19,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9c3"
+  },
+  "Year": 5,
+  "Week": 31,
+  "Wb_rate": 0.19,
+  "Season": "Season_5"
+},
+{
+  "_id": {
+    "$oid": "659fea7fd3282eaaf6d5e9c4"
+  },
+  "Year": 5,
+  "Week": 31,
+  "Wb_rate": 0.19,
+  "Season": "Season_5"
+}]

@@ -189,7 +189,7 @@ crear el ambiente donde dejar el programa
 ```python
    streamlit run interfaz.py
 ```
-Se ejecutra el servidor web local con las opciones para generar los dataset
+Se ejecuta un servidor web local con las opciones para generar los dataset
 
 
 
