@@ -216,7 +216,7 @@ filtro = data[(data["Año"] == 2020) & (data["Cultivo"] == "Maíz")]
 filtro.to_csv("output/filtered_data.csv", index=False)
 
 print("Filtrado completado. Archivo guardado en 'output/filtered_data.csv'")
-
+```
 ## Results
 La informacion utilizada en la base de datos MongoDb (AgroDB) está en la carpeta Data del proyecto, es la necesaria para las cuatro colecciones en MongoDb, Farmer_Table, Crop_Demand, Crop_Table y Offer_Table.
 
@@ -227,7 +227,7 @@ La informacion utilizada en la base de datos MongoDb (AgroDB) está en la carpet
 
 ![alt text](https://github.com/Pablov81/Agrotopia/blob/main/images/influence_nodes.png?raw=true)
 
-```
+
 ### 📊 **Visualizacións**
 Los gráficos generados muestran tendencias claras:  
 - 📈 Incrementos en la eficiencia hídrica.
