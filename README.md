@@ -1,7 +1,7 @@
 # 🌱 **Metodología para el Desarrollo de Escenarios Potenciales para la Gestión Integrada de Recursos Hídricos de Cuencas**
 
-### 📄 **Sobre este Repositorio**
-Este repositorio fue creado como parte de la investigación doctoral de **Pablo Velásquez Cisterna**, titulada **"Metodología para el Desarrollo de Escenarios Potenciales para la Gestión Integrada de Recursos Hídricos de Cuencas"**, llevada a cabo entre los años 2019 y 2024. La investigación realizada en la **Universidad de Concepción**, dentro del **Programa de Doctorado en Recursos Hídricos y Energía para la Agricultura**.
+### 📄 **About This Repository**
+This repository was established as part of the doctoral research conducted by Pablo Velásquez Cisterna, entitled "Methodology for the Development of Potential Scenarios for Integrated Water Resource Management in River Basins," carried out between 2019 and 2024. The research was undertaken at the University of Concepción within the Doctoral Program in Water Resources and Energy for Agriculture.**.
 
 ---
 
