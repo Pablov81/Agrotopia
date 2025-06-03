@@ -9,17 +9,17 @@ This repository was established as part of the doctoral research conducted by Pa
 
 This study develops a methodological framework for identifying and managing conflicts in water resource management at the basin scale, with a particular focus on the Longaví River Basin in the Maule Region of Chile. This area faces significant challenges due to land fragmentation and hydrological variability, exacerbated by climate change. 
 
-Para abordar estos problemas, el estudio integra la **Socio-Hidrología** con **Modelos Basados en Agentes (ABM)** (SHABM), permitiendo un análisis detallado de las interacciones entre los usuarios del agua bajo distintos escenarios ambientales y normativos.  
+To address these issues, the research integrates **Socio-Hydrology** with **Agent-Based Modeling (ABM)** = (SHABM), enabling a detailed analysis of interactions among water users under varying environmental and regulatory scenarios.
 
-#### **Marco Tecnológico**
-La herramienta de simulación desarrollada utiliza:
-- **Python** y **MongoDB** como tecnologías principales.
-- **Datos clave** como:
-  - Uso del suelo.
-  - Demanda hídrica específica para cada cultivo.
-  - Factores económicos, incluyendo análisis del valor de mercado y resiliencia de los cultivos ante la sequía.
-  - Informes sociales sobre preferencias de cultivos basados en la disponibilidad hídrica.
-- Integración de información geoespacial para modelar la dinámica de las parcelas dentro de la cuenca.
+#### **Technological Framework**
+The simulation tool developed employs::
+- **Python** and **MongoDB** as core technologies.
+- **Key datasets** including:
+  -Land use.
+  -Crop-specific water demand.
+  -Economic factors, encompassing market value analysis and crop resilience under drought          conditions.
+  -Social reports on crop preferences based on water availability.
+  -Geospatial data integration to model parcel dynamics within the basin.
 
 Los datos recolectados mediante entrevistas, observaciones y encuestas alimentan los modelos, permitiendo analizar patrones de comportamiento de usuarios del agua aleatoriamente clasificados como:
 - **Egoístas** (priorizan su beneficio individual).
