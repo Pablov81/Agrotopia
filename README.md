@@ -15,11 +15,11 @@ To address these issues, the research integrates **Socio-Hydrology** with **Agen
 The simulation tool developed employs::
 - **Python** and **MongoDB** as core technologies.
 - **Key datasets** including:
-  -Land use.
-  -Crop-specific water demand.
-  -Economic factors, encompassing market value analysis and crop resilience under drought          conditions.
-  -Social reports on crop preferences based on water availability.
-  -Geospatial data integration to model parcel dynamics within the basin.
+  - Land use.
+  - Crop-specific water demand.
+  - Economic factors, encompassing market value analysis and crop resilience under drought          conditions.
+  - Social reports on crop preferences based on water availability.
+  - Geospatial data integration to model parcel dynamics within the basin.
 
 Los datos recolectados mediante entrevistas, observaciones y encuestas alimentan los modelos, permitiendo analizar patrones de comportamiento de usuarios del agua aleatoriamente clasificados como:
 - **Egoístas** (priorizan su beneficio individual).
