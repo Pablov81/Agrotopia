@@ -5,9 +5,9 @@ This repository was established as part of the doctoral research conducted by Pa
 
 ---
 
-### 📚 **Resumen de la Investigación**
+### 📚 **Research Summary**
 
-La investigación desarrolla una metodología para identificar y gestionar conflictos en la gestión de recursos hídricos a escala de cuenca, con un enfoque particular en la **cuenca del río Longaví**, en la región del Maule, Chile. Esta área enfrenta importantes desafíos debido a la fragmentación de la tierra y la variabilidad hídrica, agravados por el cambio climático.  
+This study develops a methodological framework for identifying and managing conflicts in water resource management at the basin scale, with a particular focus on the Longaví River Basin in the Maule Region of Chile. This area faces significant challenges due to land fragmentation and hydrological variability, exacerbated by climate change. 
 
 Para abordar estos problemas, el estudio integra la **Socio-Hidrología** con **Modelos Basados en Agentes (ABM)** (SHABM), permitiendo un análisis detallado de las interacciones entre los usuarios del agua bajo distintos escenarios ambientales y normativos.  
 
