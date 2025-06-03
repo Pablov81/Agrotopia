@@ -21,16 +21,17 @@ The simulation tool developed employs::
   - Social reports on crop preferences based on water availability.
   - Geospatial data integration to model parcel dynamics within the basin.
 
-Los datos recolectados mediante entrevistas, observaciones y encuestas alimentan los modelos, permitiendo analizar patrones de comportamiento de usuarios del agua aleatoriamente clasificados como:
-- **Egoístas** (priorizan su beneficio individual).
-- **Neutrales** (toman decisiones balanceadas).
-- **Colaboradores** (actúan en pro del bien común).
+Data collected through interviews, observations, and surveys inform the models, facilitating an analysis of behavioral patterns among water users, randomly classified as:
+
+- **Self-interested agents** (prioritizing individual benefit).
+- **Neutral agents** (making balanced decisions).
+- **Collaborative agents** (acting for the collective good).
 
 ---
 
-### 📈 **Resultados y Publicaciones**
+### 📈 **Key Findings and Publications**
 
-#### **Resultados Clave de la Investigación**
+#### **Research Outcomes**
 - **Patrones de Decisión:** Los resultados revelan diferencias significativas en las decisiones de los agentes. Los agentes egoístas tienden a ignorar las reglas bajo condiciones de baja supervisión, mientras que los agentes colaboradores respetan las reglas consistentemente, incluso bajo estrés hídrico.
 - **Gestión Adaptativa:** La implementación de niveles de supervisión altos (90%) reduce considerablemente los conflictos, identificando áreas críticas que requieren atención prioritaria.
 - **Identificación de Conflictos:** Los análisis permiten identificar zonas de alto riesgo de conflicto en escenarios de baja disponibilidad hídrica.
