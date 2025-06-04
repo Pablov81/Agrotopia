@@ -51,26 +51,26 @@ Data collected through interviews, observations, and surveys inform the models, 
 
 
 ### 📊 **Core Model Components**
-#### **1. Datos en MongoDB (AgroDB)**
-Estructura:
-- **Farmer_Table:** Información básica de agricultores.  
-- **Crop_Demand:** Demanda hídrica por cultivo.  
-- **Crop_Table:** Detalles técnicos y económicos de cultivos.  
-- **Offer_Table:** Disponibilidad semanal de agua.  
+#### **1. MongoDB Database (AgroDB)**
+Structure:
+- **Farmer_Table:** Basic farmer information.
+- **Crop_Demand:** Water demand per crop.
+- **Crop_Table:** Technical and economic crop details. 
+- **Offer_Table:** Weekly water availability.
 
-#### **2. Integración Geoespacial**
-Se utiliza información geográfica (shapefiles) para modelar turnos de riego y la distribución de parcelas.
+#### **2. Geospatial Integration**
+Geographic data (shapefiles) are utilized to model irrigation schedules and parcel distribution.
 
 ---
 
 
 
-### **🌍 Área de Estudio**  
+### **🌍 Study Area**  
 
-#### **Área General cambiar el mapa**  
+#### **General Area: Longaví River Basin**  
 ![Cuenca del Río Longaví](https://github.com/Pablov81/Agrotopia/blob/main/images/primera_plot.png?raw=true)  
 
-#### **Área Específica**  
+#### **Specific Area: Map of Water User Organizations (WUOs)**  
 ![Mapa de WUOs](https://github.com/Pablov81/Agrotopia/blob/main/images/plot_wuos_map.png?raw=true)  
 
 ---
