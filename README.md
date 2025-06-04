@@ -32,23 +32,25 @@ Data collected through interviews, observations, and surveys inform the models, 
 ### 📈 **Key Findings and Publications**
 
 #### **Research Outcomes**
-- **Patrones de Decisión:** Los resultados revelan diferencias significativas en las decisiones de los agentes. Los agentes egoístas tienden a ignorar las reglas bajo condiciones de baja supervisión, mientras que los agentes colaboradores respetan las reglas consistentemente, incluso bajo estrés hídrico.
-- **Gestión Adaptativa:** La implementación de niveles de supervisión altos (90%) reduce considerablemente los conflictos, identificando áreas críticas que requieren atención prioritaria.
-- **Identificación de Conflictos:** Los análisis permiten identificar zonas de alto riesgo de conflicto en escenarios de baja disponibilidad hídrica.
+- **Decision-Making Patterns**: Results reveal significant disparities in agent behavior. Self-interested agents tend to disregard regulations under low supervision, whereas collaborative agents consistently adhere to rules, even under water stress.
 
-#### **Publicaciones Científicas**
-1. **Artículo 1:**  
-   - **Título:** *Socio-Hydrological Agent-Based Modeling as a Framework for Analyzing Conflicts Within Water User Organizations*  
-   - **DOI:** [https://doi.org/10.3390/w16223321](https://doi.org/10.3390/w16223321)  
-   - **Resumen:** Este artículo describe el desarrollo de un modelo socio-hidrológico basado en agentes (SHABM) aplicado a la cuenca del río Longaví, evaluando cómo la supervisión y disponibilidad de agua afectan los patrones de comportamiento y los conflictos en sistemas agrícolas.  
+- **Adaptive Management**: Implementing high supervision levels (90%) substantially reduces conflicts, identifying critical areas requiring prioritized intervention.
 
-2. **Artículo 2:**  
-   - **Título:** *Dataset for Reproducible Interaction in a Socio-Hydrological Model with ABM*  
-   - **DOI:** Publicación en progreso, enlace pendiente.  
-   - **Resumen:** Este trabajo introduce un conjunto de datos estructurados y documentados para analizar interacciones socio-hidrológicas reproducibles, evaluando estrategias de manejo hídrico y su impacto en el comportamiento de los usuarios.
+- **Conflict Identification**: The analysis pinpoints high-risk conflict zones under scenarios of low water availability.
+
+#### **Scientific Publications*
+1. **Article 1:**  
+   - **Title:** *Socio-Hydrological Agent-Based Modeling as a Framework for Analyzing Conflicts Within Water User Organizations*  
+   - **DOI:** [https://doi.org/10.3390/w16223321]  
+   - **Abstract:** This article presents the development of a socio-hydrological agent-based model (SHABM) applied to the Longaví River Basin, assessing how supervision and water availability influence behavioral patterns and conflicts in agricultural systems. 
+
+2. **Article 2:**  
+   - **Title:** *Dataset for Reproducible Interaction in a Socio-Hydrological Model with ABM*  
+   - **DOI:** Publication in progress, link pending.  
+   - **Abstract:** This work introduces a structured and documented dataset for analyzing reproducible socio-hydrological interactions, evaluating water management strategies and their impact on user behavior.
 
 
-### 📊 **Componentes Clave del Modelo**
+### 📊 **Core Model Components**
 #### **1. Datos en MongoDB (AgroDB)**
 Estructura:
 - **Farmer_Table:** Información básica de agricultores.  
