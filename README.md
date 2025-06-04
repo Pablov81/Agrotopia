@@ -67,11 +67,11 @@ Geographic data (shapefiles) are utilized to model irrigation schedules and parc
 
 ### **🌍 Study Area**  
 
-#### **General Area: Longaví River Basin**  
-![Cuenca del Río Longaví](https://github.com/Pablov81/Agrotopia/blob/main/images/primera_plot.png?raw=true)  
+#### **General Area: **  
+![Longaví River Basin](https://github.com/Pablov81/Agrotopia/blob/main/images/primera_plot.png?raw=true)  
 
-#### **Specific Area: Map of Water User Organizations (WUOs)**  
-![Mapa de WUOs](https://github.com/Pablov81/Agrotopia/blob/main/images/plot_wuos_map.png?raw=true)  
+#### **Specific Area: **  
+![Map of Water User Organizations (WUOs)](https://github.com/Pablov81/Agrotopia/blob/main/images/plot_wuos_map.png?raw=true)  
 
 ---
 
