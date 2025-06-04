@@ -1,4 +1,4 @@
-# 🌱 **Metodología para el Desarrollo de Escenarios Potenciales para la Gestión Integrada de Recursos Hídricos de Cuencas**
+# 🌱 **Methodology for the Development of Potential Scenarios for Integrated Water Resources Management in River Basins**
 
 ### 📄 **About This Repository**
 This repository was established as part of the doctoral research conducted by Pablo Velásquez Cisterna, entitled "Methodology for the Development of Potential Scenarios for Integrated Water Resource Management in River Basins," carried out between 2019 and 2024. The research was undertaken at the University of Concepción within the Doctoral Program in Water Resources and Energy for Agriculture.**.
@@ -75,13 +75,13 @@ Geographic data (shapefiles) are utilized to model irrigation schedules and parc
 
 ---
 
-### **📊 Datos**  
-La información almacenada en la base de datos **MongoDB (AgroDB)** se encuentra en la carpeta `Data` del proyecto. Incluye las siguientes colecciones:  
+### **📊 Data**  
+The data stored in the **MongoDB database (AgroDB)** is located in the project's `Data` directory, containing the following collections:
 
-- **Farmer_Table:** Información de los agricultores.  
-- **Crop_Demand:** Demanda de agua de los cultivos.  
-- **Crop_Table:** Detalles de los cultivos.  
-- **Offer_Table:** Oferta de agua disponible.  
+- **Farmer_Table:** Farmer information  
+- **Crop_Demand:** Crop water requirements 
+- **Crop_Table:**  Agricultural crop details  
+- **Offer_Table:** Water supply availability
 
 ![Estructura de AgroDB](https://github.com/Pablov81/Agrotopia/blob/main/images/AgroDb.png?raw=true)  
 
@@ -90,7 +90,7 @@ La información almacenada en la base de datos **MongoDB (AgroDB)** se encuentra
 
 ---
 
-### **📦 Requisitos**  
+### **📦 Requirements**  
 - **Python 3.x**  
 - **MongoDB**  
 - **Conda**  
