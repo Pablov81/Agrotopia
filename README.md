@@ -38,7 +38,7 @@ Data collected through interviews, observations, and surveys inform the models, 
 
 - **Conflict Identification**: The analysis pinpoints high-risk conflict zones under scenarios of low water availability.
 
-#### **Scientific Publications*
+#### **Scientific Publications**
 1. **Article 1:**  
    - **Title:** *Socio-Hydrological Agent-Based Modeling as a Framework for Analyzing Conflicts Within Water User Organizations*  
    - **DOI:** [https://doi.org/10.3390/w16223321]  
