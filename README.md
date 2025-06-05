@@ -200,22 +200,22 @@ Se ejecuta un servidor web local con las opciones para generar los dataset
 
 
 
-## **📁 Tratamiento de Archivos CSV**  
+## **📁  CSV File Processing**  
 
-🔄 **Procesamiento de datos**  
-El proyecto utiliza archivos CSV para almacenar y procesar información como demanda hídrica, datos económicos y detalles de cultivos.  
+🔄 **Data Processing**  
+The project uses CSV files to store and process information such as water demand, economic data, and crop details.  
 
-### Ejemplo: Filtrado de datos  
+### Example: Data Filtering 
 ```python
 import pandas as pd
 
-# Leer archivo CSV
+# Read CSV file
 data = pd.read_csv("data/cultivos.csv")
 
-# Filtrar por año y cultivo
+# Filter by year and crop
 filtro = data[(data["Año"] == 2020) & (data["Cultivo"] == "Maíz")]
 
-# Guardar resultados filtrados
+# Save filtered results
 filtro.to_csv("output/filtered_data.csv", index=False)
 
 print("Filtrado completado. Archivo guardado en 'output/filtered_data.csv'")
