@@ -221,17 +221,16 @@ filtro.to_csv("output/filtered_data.csv", index=False)
 print("Filtrado completado. Archivo guardado en 'output/filtered_data.csv'")
 ```
 ## Results
-La informacion utilizada en la base de datos MongoDb (AgroDB) está en la carpeta Data del proyecto, es la necesaria para las cuatro colecciones en MongoDb, Farmer_Table, Crop_Demand, Crop_Table y Offer_Table.
+The data used in the MongoDB database (AgroDB) is located in the project's Data folder, which contains the necessary information for the four MongoDB collections: Farmer_Table, Crop_Demand, Crop_Table, and Offer_Table.
 
 ![alt text](https://github.com/Pablov81/Agrotopia/blob/main/images/yearly_density_map.png?raw=true)
 
-
-La informacion utilizada en la base de datos MongoDb (AgroDB) está en la carpeta Data del proyecto, es la necesaria para las cuatro colecciones en MongoDb, Farmer_Table, Crop_Demand, Crop_Table y Offer_Table.
+The data used in the MongoDB database (AgroDB) is located in the project's Data folder, which contains the necessary information for the four MongoDB collections: Farmer_Table, Crop_Demand, Crop_Table, and Offer_Table.
 
 ![alt text](https://github.com/Pablov81/Agrotopia/blob/main/images/influence_nodes.png?raw=true)
 
 
-### 📊 **Visualizacións**
-Los gráficos generados muestran tendencias claras:  
-- 📈 Incrementos en la eficiencia hídrica.
-- 🔍 Análisis detallados de los conflictos entre agentes.
+### 📊 **Visualizations**
+The generated charts show clear trends:
+- 📈 Improvements in water efficiency
+- 🔍 Detailed analysis of agent conflicts
