@@ -174,15 +174,15 @@ classDiagram
 ```
 
 
-# 🚀 **Ejecución del Programa**
+# 🚀 Program Execution
 
-### ✍️ **Notas del Autor**
-El proyecto tiene dos versiones:
-  - Español (SP)
-  - Inglés (ENG).
+## ✍️ Author Notes
+The project maintains dual-language support:
+- Spanish (SP) 
+- English (ENG) versions
 
-crear el ambiente donde dejar el programa
-   ```bash
+## 🛠️ Environment Setup
+```bash
    conda create --name agrotopia_env python=3.9
    conda activate agrotopia_env
 
